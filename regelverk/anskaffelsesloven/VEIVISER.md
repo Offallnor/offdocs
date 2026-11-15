@@ -28,7 +28,7 @@ Finn paragrafen under «Innhold», og åpne filen før du svarer. Merknadene und
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
-- DFØs veiledning om anskaffelsesregelverket (anskaffelser.no) (37 filer) – start med `rundskriv/dfo/oversikt.md`
+- DFØs veiledning om anskaffelsesregelverket (anskaffelser.no) (46 filer) – start med `rundskriv/dfo/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -411,6 +411,15 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/dfo/kontraktsoppfolging-og-evaluering-av-leveransen/` – 1 filer, start med `rundskriv/dfo/kontraktsoppfolging-og-evaluering-av-leveransen/oversikt.md`
 - `rundskriv/dfo/` – 1 filer, start med `rundskriv/dfo/oversikt.md`
 - `rundskriv/dfo/sikkerhetsloven-og-offentlige-anskaffelser/` – 1 filer, start med `rundskriv/dfo/sikkerhetsloven-og-offentlige-anskaffelser/oversikt.md`
+- `rundskriv/dfo/ssa-b-bistandsavtalene-bilag/` – 1 filer, start med `rundskriv/dfo/ssa-b-bistandsavtalene-bilag/oversikt.md`
+- `rundskriv/dfo/ssa-b-bistandsavtalene-enkel-versjon/` – 1 filer, start med `rundskriv/dfo/ssa-b-bistandsavtalene-enkel-versjon/oversikt.md`
+- `rundskriv/dfo/ssa-b-bistandsavtalene-generell-avtaletekst/` – 1 filer, start med `rundskriv/dfo/ssa-b-bistandsavtalene-generell-avtaletekst/oversikt.md`
+- `rundskriv/dfo/ssa-f-forskningsavtalen-bilag/` – 1 filer, start med `rundskriv/dfo/ssa-f-forskningsavtalen-bilag/oversikt.md`
+- `rundskriv/dfo/ssa-f-forskningsavtalen-generell-avtaletekst/` – 1 filer, start med `rundskriv/dfo/ssa-f-forskningsavtalen-generell-avtaletekst/oversikt.md`
+- `rundskriv/dfo/ssa-k-kjopsavtalen-bilag/` – 1 filer, start med `rundskriv/dfo/ssa-k-kjopsavtalen-bilag/oversikt.md`
+- `rundskriv/dfo/ssa-k-kjopsavtalen-generell-avtaletekst/` – 1 filer, start med `rundskriv/dfo/ssa-k-kjopsavtalen-generell-avtaletekst/oversikt.md`
+- `rundskriv/dfo/ssa-o-oppdragsavtalen-bilag/` – 1 filer, start med `rundskriv/dfo/ssa-o-oppdragsavtalen-bilag/oversikt.md`
+- `rundskriv/dfo/ssa-o-oppdragsavtalen-generell-avtaletekst/` – 1 filer, start med `rundskriv/dfo/ssa-o-oppdragsavtalen-generell-avtaletekst/oversikt.md`
 - `rundskriv/dfo/statens-standardavtaler-ssa/` – 7 filer, start med `rundskriv/dfo/statens-standardavtaler-ssa/oversikt.md`
 - `rundskriv/dfo/taushetsplikt-og-offentlige-anskaffelser/` – 1 filer, start med `rundskriv/dfo/taushetsplikt-og-offentlige-anskaffelser/oversikt.md`
 - `rundskriv/dfo/terskelverdier-offentlige-anskaffelser/` – 1 filer, start med `rundskriv/dfo/terskelverdier-offentlige-anskaffelser/oversikt.md`
