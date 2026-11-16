@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 8 – Sykepenger"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r08-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-16"
 ---
 
 # Rundskriv til ftrl kap 8 – Sykepenger
@@ -13,12 +13,12 @@ Myndighet: NAV – Arbeids- og velferdsetaten
 Dato: 1997-05-01  
 Doknr/publisert: R08-00  
 Sammendrag: Rundskriv til ftrl kap 8 : Sykepenger Henvisninger: Folketrygdloven (1997) kap 8  
-Sist endret: 2026-05-08  
+Sist endret: 2026-11-16  
 Henvisninger i teksten: Folketrygdloven (1997) §8-1 , §8-1a , §8-2 , §8-3 , §8-4 , §8-5 , §8-6 , §8-7 , §8-7a , §8-8 , §8-9 , §8-10 , §8-11 , §8-12 , §8-13 , §8-14 , §8-15 , §8-16 , §8-17 , §8-18 , §8-19 , §8-20 , §8-21 , §8-22 , §8-23 , §8-24 , §8-25 , §8-26 , §8-27 , §8-28 , §8-29 , §8-30 , §8-31 , §8-32 , §8-33 , §8-34 , §8-35 , §8-36 , §8-37 , §8-38 , §8-39 , §8-40 , §8-41 , §8-42 , §8-43 , §8-44 , §8-45 , §8-46 , §8-47 , §8-48 , §8-49 , §8-50 , §8-51 , §8-52 , §8-53 , §8-54 , §8-55  
 
  
 
-Sist endret 08.05.2026, se § 8-17 andre ledd. Se avsnitt markert «Tilføyd 5/26»
+Sist endret 16.11.2026, §§ 8-10 og 8-53 er helt omarbeidet
 
 ## Generell del
 

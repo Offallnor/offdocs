@@ -1,6 +1,6 @@
 # Rundskriv til ftrl kap 8 – Sykepenger
 
-Rundskriv til Folketrygdloven. Lagt inn 2026-11-04 fra `original/folketrygdloven-rundskriv-r08-00.html`. Dette er ikke lov- eller forskriftstekst.
+Rundskriv til Folketrygdloven. Lagt inn 2026-11-16 fra `original/folketrygdloven-rundskriv-r08-00.html`. Dette er ikke lov- eller forskriftstekst.
 
 ## Innhold
 
