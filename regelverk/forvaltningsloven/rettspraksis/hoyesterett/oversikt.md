@@ -1,11 +1,12 @@
 # Høyesteretts avgjørelser om Forvaltningsloven
 
-14 avgjørelser fra 1. november 2021 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i avgjørelsen. Avgjørelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også».
+15 avgjørelser fra 1. november 2021 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i avgjørelsen. Avgjørelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også».
 
 «Avdeling» og «storkammer» er dommer og kjennelser med full begrunnelse og størst vekt som prejudikat. «Ankeutvalget» er ofte korte beslutninger om å nekte en anke fremmet. Søk i tabellen etter paragraf eller stikkord, og åpne filen før du bruker avgjørelsen.
 
 | Dato | Avgjørelse | Type | Tittel | Paragrafer | Også | Fil |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | HR-2026-2428-S | storkammer | Forvaltningsrett, miljørett, petroleumsrett, EØS-rett, sivilprosess | § 2, § 35, § 41 |  | `HR-2026-2428-S.md` |
 | 2026-04-29 | HR-2026-1009-A | avdeling | Vedtak om nekte Jehovas vitner statstilskudd og registrering er ugyldige | § 17 |  | `HR-2026-1009-A.md` |
 | 2025-09-12 | HR-2025-1766-U | ankeutvalget | Kjennelse om adgangen til rettslig overprøving av Barnverns- og helsenemndas avgjørelse om partsrettigheter | § 2 |  | `HR-2025-1766-U.md` |
 | 2024-12-13 | HR-2024-2299-U | ankeutvalget | Adgang til offentlig gjengivelse av tingrettens dom i barnevernssak | § 36 |  | `HR-2024-2299-U.md` |
