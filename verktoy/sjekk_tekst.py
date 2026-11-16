@@ -11,6 +11,7 @@ Sjekker at
   eller uttrykk som «tekst fra departementet» og «departementets vurdering». Repoet er åpent og skal ikke
   se ut som noe et departement har publisert. Når lovteksten selv sier «departementet», er det greit,
   og det samme gjelder dokumentnavnet «Prop. 1 S for AID».
+- descriptionen i hver skills/<navn>/SKILL.md er høyst 1024 tegn og name høyst 64, ellers avviser claude.ai skillen.
 
 Lov- og forskriftstekst, rundskriv og AUTO-blokkene kontrolleres ikke, de bygges automatisk.
 Skriver funnene og avslutter med kode 1 hvis det er feil.
@@ -168,6 +169,29 @@ def sjekk() -> list:
         for nr, linje in enumerate(handskrevet(fil).splitlines(), 1):
             if a := AVSENDER.search(linje):
                 funn.append(f"{rel}:{nr}: «{a.group(0)}» viser et departement som avsender")
+    funn += sjekk_skills()
+    return funn
+
+
+def sjekk_skills() -> list:
+    """claude.ai avviser en skill med description over 1024 tegn eller name over 64."""
+    funn = []
+    for fil in sorted((ROT / "skills").glob("*/SKILL.md")):
+        rel = fil.relative_to(ROT).as_posix()
+        m = re.match(r"---\n(.*?)\n---\n", fil.read_text(encoding="utf-8"), re.S)
+        if not m:
+            funn.append(f"{rel}: mangler frontmatter")
+            continue
+        felt = {}
+        for linje in m.group(1).splitlines():
+            if ":" in linje:
+                nokkel, verdi = linje.split(":", 1)
+                verdi = verdi.strip()
+                felt[nokkel.strip()] = json.loads(verdi) if verdi.startswith('"') else verdi.strip("'")
+        for nokkel, maks in (("name", 64), ("description", 1024)):
+            lengde = len(felt.get(nokkel, ""))
+            if not lengde or lengde > maks:
+                funn.append(f"{rel}: {nokkel} er {lengde} tegn (maks {maks})")
     return funn
 
 

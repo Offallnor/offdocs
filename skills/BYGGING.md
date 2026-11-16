@@ -47,6 +47,8 @@ Hver SKILL.md har linjen «Versjon ÅÅÅÅ-MM-DD» øverst (med .2, .3 osv. ved
 
 ## Endre en description
 
+Descriptionen kan være høyst 1024 tegn, ellers avviser claude.ai skillen ved opplasting. Hold den helst under 950, og legg detaljer i brødteksten. `verktoy/sjekk_tekst.py` stopper for lange descriptioner i `skills/`, og `pakk.py` i det private repoet gjør det samme for skillen som lastes ned som fil.
+
 Kjør én måling med skill-creators `run_eval.py` (20 spørsmål, omtrent halvparten som skal trigge) når descriptionen til en felles skill er ny eller endret. `run_loop.py` kjøres bare når målingen viser at skillen trigger dårlig. Kaldtest i vanlig chat trengs fortsatt før endringen sendes ut, se `felles-skillbygger`.
 
 ## Dokumentasjon
