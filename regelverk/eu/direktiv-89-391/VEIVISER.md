@@ -19,7 +19,6 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** Rammedirektivet for helse, miljø og sikkerhet
 - **Versjon i basen:** EUR-Lex 31989L0391, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
-- **Konsoliderte EU-versjoner finnes:** 01989L0391-20081211, 01989L0391-20070628, 01989L0391-20031120, 01989L0391-19890619. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

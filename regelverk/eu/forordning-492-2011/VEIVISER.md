@@ -19,7 +19,6 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** REGULATION (EU) No 492/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 April 2011 on freedom of movement for workers within the Union (codification) (Text with EEA relevance)
 - **Versjon i basen:** EUR-Lex 32011R0492, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
-- **Konsoliderte EU-versjoner finnes:** 02011R0492-20210801, 02011R0492-20190731, 02011R0492-20180513, 02011R0492-20160512. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

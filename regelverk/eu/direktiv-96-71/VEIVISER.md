@@ -19,7 +19,6 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** Utsendingsdirektivet
 - **Versjon i basen:** EUR-Lex 31996L0071, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
-- **Konsoliderte EU-versjoner finnes:** 01996L0071-20200730, 01996L0071-19970210. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

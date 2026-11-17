@@ -19,7 +19,6 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** Virksomhetsoverdragelsesdirektivet
 - **Versjon i basen:** EUR-Lex 32001L0023, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
-- **Konsoliderte EU-versjoner finnes:** 02001L0023-20151009, 02001L0023-20010411. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

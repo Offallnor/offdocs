@@ -28,6 +28,7 @@ Finn paragrafen under «Innhold», og åpne filen før du svarer. Merknadene und
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (5 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - DFØs veiledning om anskaffelsesregelverket (anskaffelser.no) (46 filer) – start med `rundskriv/dfo/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -424,4 +425,8 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/dfo/taushetsplikt-og-offentlige-anskaffelser/` – 1 filer, start med `rundskriv/dfo/taushetsplikt-og-offentlige-anskaffelser/oversikt.md`
 - `rundskriv/dfo/terskelverdier-offentlige-anskaffelser/` – 1 filer, start med `rundskriv/dfo/terskelverdier-offentlige-anskaffelser/oversikt.md`
 - `rundskriv/dfo/ulovlig-anbudssamarbeid-lovlig-prosjektsamarbeid/` – 1 filer, start med `rundskriv/dfo/ulovlig-anbudssamarbeid-lovlig-prosjektsamarbeid/oversikt.md`
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 5 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->

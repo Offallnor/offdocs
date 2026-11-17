@@ -30,7 +30,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 ## Tolkningskilder i basen
 
-Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (18 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
+- Sivilombudets uttalelser (10 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -262,4 +265,16 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 
 - Forordning 2019/817 – ikke i basen. Nevnt i `lov/par-12.md`
 - Forordning 2019/818 – ikke i basen. Nevnt i `lov/par-12.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/sivilombudet/` – 10 filer, start med `rundskriv/sivilombudet/oversikt.md`
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 18 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->

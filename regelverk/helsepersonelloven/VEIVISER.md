@@ -29,7 +29,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 ## Tolkningskilder i basen
 
-Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (4 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
+- Sivilombudets uttalelser (16 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -195,4 +198,16 @@ Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd stå
 Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fra roten av basen.
 
 - **Direktiv 2005/36** (Yrkeskvalifikasjonsdirektivet) – i basen: `regelverk/eu/direktiv-2005-36/VEIVISER.md`. Nevnt i `lov/par-3.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/sivilombudet/` – 16 filer, start med `rundskriv/sivilombudet/oversikt.md`
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 4 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->

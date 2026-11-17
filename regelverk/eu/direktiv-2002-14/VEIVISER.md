@@ -19,7 +19,6 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** Direktivet om informasjon og konsultasjon
 - **Versjon i basen:** EUR-Lex 32002L0014, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
-- **Konsoliderte EU-versjoner finnes:** 02002L0014-20151009, 02002L0014-20020323. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 
