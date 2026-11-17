@@ -2,12 +2,12 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/hva-er-skytjenester-cloud"
-hentet: "2026-11-14"
+hentet: "2026-11-17"
 ---
 
 # Hva er skytjenester (cloud)
 
-Skytjenester kan være alt fra datalagring til software og nettverk, der alt leveres over internett fra datasenter driftet av eksterne
+Skytjenester kan være alt fra datalagring til software og nettverk, der alt leveres over internett fra datasenter driftet av eksterne.
 
 ## Kort forklart
 

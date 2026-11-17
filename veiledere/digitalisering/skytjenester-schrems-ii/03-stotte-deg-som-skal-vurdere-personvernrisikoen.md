@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/stotte-deg-som-skal-vurdere-personvernrisikoen"
-hentet: "2026-11-14"
+hentet: "2026-11-17"
 ---
 
 # Hjelp til å vurdere personvernrisikoen for innhenting til etterretningsformål

@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/oppsummering-av-gruppens-vurderinger"
-hentet: "2026-11-14"
+hentet: "2026-11-17"
 ---
 
 # Oppsummering av gruppens vurderinger
@@ -142,7 +142,7 @@ Arbeidsgruppen har imidlertid også tatt stilling til visse juridiske spørsmål
 
 Vi er takknemlige for tilbakemeldinger!
 
-Arbeidsgruppen ønsker å gi god og korrekt veiledning. De juridiske spørsmålene på dette området er mange og kompliserte. Dette er også et område med rask utvikling. Leser du noe du mener er feil eller har du innspill? Da vil vi gjerne høre fra deg, slik at vi kan oppdatere tekstene og sørge for at vi hjelper hverandre med de vanskelige spørsmålene. Send oss tilbakemelding til [[email protected]](https://markedsplassen.anskaffelser.no/cdn-cgi/l/email-protection#602b212004060f4e0e0f)
+Arbeidsgruppen ønsker å gi god og korrekt veiledning. De juridiske spørsmålene på dette området er mange og kompliserte. Dette er også et område med rask utvikling. Leser du noe du mener er feil eller har du innspill? Da vil vi gjerne høre fra deg, slik at vi kan oppdatere tekstene og sørge for at vi hjelper hverandre med de vanskelige spørsmålene. Send oss tilbakemelding til [[email protected]](https://markedsplassen.anskaffelser.no/cdn-cgi/l/email-protection#c58e8485a1a3aaebabaa)
 
 ## 3         Praktiske tips
 

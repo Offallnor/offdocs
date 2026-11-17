@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/personvernforordningens-sentrale-bestemmelser-vurdering-av-etterretningsrisiko"
-hentet: "2026-11-14"
+hentet: "2026-11-17"
 ---
 
 # Personvernforordningens sentrale bestemmelser for vurdering av etterretningsrisiko

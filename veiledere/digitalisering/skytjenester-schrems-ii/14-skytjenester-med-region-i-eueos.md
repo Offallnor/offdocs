@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/skytjenester-med-region-i-eueos"
-hentet: "2026-11-14"
+hentet: "2026-11-17"
 ---
 
 # Skytjenester med region i EU/EØS

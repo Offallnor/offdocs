@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/oppsummering-av-relevante-rettskilder-overforing-av-personopplysninger"
-hentet: "2026-11-14"
+hentet: "2026-11-17"
 ---
 
 # Oppsummering av relevante rettskilder for overføring av personopplysninger
