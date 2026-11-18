@@ -19,6 +19,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** Masseoppsigelsesdirektivet
 - **Versjon i basen:** EUR-Lex 31998L0059, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **Konsoliderte EU-versjoner finnes:** 01998L0059-20151009, 01998L0059-19980901. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

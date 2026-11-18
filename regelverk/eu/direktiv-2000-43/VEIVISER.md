@@ -19,6 +19,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** Direktivet om likebehandling uavhengig av rase eller etnisk opprinnelse
 - **Versjon i basen:** EUR-Lex 32000L0043, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **Konsoliderte EU-versjoner finnes:** 02000L0043-20260619, 02000L0043-20000719. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

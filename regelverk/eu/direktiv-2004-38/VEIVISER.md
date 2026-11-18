@@ -19,6 +19,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** DIRECTIVE 2004/38/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (Text with EEA relevance)
 - **Versjon i basen:** EUR-Lex 32004L0038, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **Konsoliderte EU-versjoner finnes:** 02004L0038-20110616, 02004L0038-20040430. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

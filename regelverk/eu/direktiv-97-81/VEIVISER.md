@@ -19,6 +19,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** Deltidsdirektivet
 - **Versjon i basen:** EUR-Lex 31997L0081, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **Konsoliderte EU-versjoner finnes:** 01997L0081-19980525. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

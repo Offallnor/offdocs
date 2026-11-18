@@ -19,6 +19,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** DIRECTIVE 2008/94/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 on the protection of employees in the event of the insolvency of their employer (Codified version) (Text with EEA relevance)
 - **Versjon i basen:** EUR-Lex 32008L0094, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **Konsoliderte EU-versjoner finnes:** 02008L0094-20151009. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

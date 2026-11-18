@@ -19,6 +19,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** DIRECTIVE (EU) 2019/1152 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 on transparent and predictable working conditions in the European Union
 - **Versjon i basen:** EUR-Lex 32019L1152, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **Konsoliderte EU-versjoner finnes:** 02019L1152-20190711. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

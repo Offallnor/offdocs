@@ -19,6 +19,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** DIRECTIVE 2006/54/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 July 2006 on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation (recast)
 - **Versjon i basen:** EUR-Lex 32006L0054, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **Konsoliderte EU-versjoner finnes:** 02006L0054-20260619, 02006L0054-20060726. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 

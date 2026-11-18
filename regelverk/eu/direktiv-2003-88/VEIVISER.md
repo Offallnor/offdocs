@@ -19,6 +19,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **Rettsakt:** Arbeidstidsdirektivet
 - **Versjon i basen:** EUR-Lex 32003L0088, språk EN
 - **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **Konsoliderte EU-versjoner finnes:** 02003L0088-20031118. Basen har originalteksten uten senere endringer.
 
 ## Norske regler som viser til rettsakten
 
