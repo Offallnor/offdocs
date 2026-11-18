@@ -28,6 +28,10 @@ jobs:
               n = navn[0] if navn else ""
               if re.search(r"PIAAC|adult skill|proficien|literacy|numeracy|SKILL", fid + " " + n, re.I):
                   treff.append((ag, fid, n))
+          for fid, ag, body in flows:
+              if ag.startswith("OECD.EDU"):
+                  navn = re.findall(r'<common:Name xml:lang="en">(.*?)</common:Name>', body)
+                  print("EDU", ag, fid, navn[0] if navn else "", sep=" | ")
           for t in treff:
               print("TREFF", *t, sep=" | ")
           open("treff.txt", "w").write("\n".join(f"{a},{f}" for a, f, _ in treff))
