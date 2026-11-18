@@ -45,6 +45,26 @@ Hver fil har én rad per land og filterkombinasjon og én kolonne per år. Øver
 - **Tallene er ofte to–tre år gamle.** Si hvilket år tallet gjelder.
 - **Sjekk måleenheten.** Utgifter per student finnes i flere enheter og prisgrunnlag. Les `UNIT_MEASURE` og `PRICE_BASE` i #-linjene, og velg samme enhet for alle land du sammenligner.
 
+## Voksnes ferdigheter (PIAAC)
+
+PIAAC (Survey of Adult Skills) måler ferdighetene til voksne 16–65 år i lesing, tallforståelse og problemløsning. Norge var med i begge rundene: første runde med datainnsamling 2011–2012, og andre runde med datainnsamling september 2022–august 2023 (31 land). Resultatene fra andre runde omtales som «PIAAC 2023». Undersøkelsen er et utvalg, ikke registerdata, så tallene har usikkerhet.
+
+**Tallene ligger ikke i basen og finnes ikke i OECDs API.** OECDs SDMX-katalog har ingen PIAAC-tabeller (kontrollert 2026-11-18 mot alle 1 553 tabeller). Hent tall fra disse kildene, og oppgi hvilken:
+
+- **Education at a Glance 2025**, indikatoren om PIAAC: https://www.oecd.org/en/publications/education-at-a-glance-2025_1c0d9c79-en/full-report/piaac-proficiency-in-key-information-processing-skills-among-adults_3ccb98d6.html
+- **OECDs PIAAC-database** med International Data Explorer (egne tabeller) og offentlige mikrodatafiler (CSV, SAS, SPSS): https://www.oecd.org/en/data/datasets/piaac-2nd-cycle-database.html (andre runde) og https://www.oecd.org/en/data/datasets/piaac-1st-cycle-database.html (første runde).
+- **Metode og tolkning**: Survey of Adult Skills 2023 Data Analysis Manual og Technical Report, lenket fra https://www.oecd.org/en/about/programmes/piaac/piaac-data.html.
+
+Kan du ikke lese sidene, si det og svar ikke fra hukommelsen. SSB har ingen PIAAC-tabeller i statistikkbanken.
+
+**Forbehold:**
+
+- **Problemløsning kan ikke sammenlignes mellom rundene.** Første runde målte problemløsning med IKT, andre runde «adaptive problem solving». Det er to ulike mål.
+- **Lesing og tallforståelse kan sammenlignes over tid** bare med tallene OECD har koblet mellom rundene. Les hva Technical Report sier om koblingen før du beskriver en endring.
+- **Skår og nivåer.** Resultatene oppgis som gjennomsnittsskår og som andel på hvert ferdighetsnivå. Si hvilket mål tallet er, og for «svake ferdigheter»: hvilke nivåer som er regnet med.
+- **Utvalg og usikkerhet.** Små forskjeller mellom land eller grupper er ofte ikke signifikante. Si fra når OECD ikke markerer forskjellen som signifikant.
+- **Ikke samme som utdanningsnivå.** Utdanningsnivå (`utdanningsniva.tsv`) er formell utdanning. PIAAC måler ferdigheter.
+
 ## Slik henter du tall fra API-et
 
 OECD har et åpent SDMX-API uten innlogging. Mal:
@@ -69,3 +89,4 @@ Disse står i OECDs katalog og kan legges til i `data/oecd/pakke.json`:
 - `OECD.ELS.JAI,DSD_TAXBEN_NCC@DF_NCC`: netto barnehagekostnad.
 - `OECD.ELS.IMD,DSD_MIG@DF_MIG`: innvandring og bestand av utenlandsfødte.
 - `OECD.ELS.SPD,DSD_PAG@DF_DPS`: oppbygningen av pensjonssystemene.
+- `OECD.EDU.ECS,DSD_TALIS@DF_TALIS`: lærere og undervisning (TALIS), med egne tabeller etter alder, kjønn, skoletype og urbanisering, og `DSD_TALIS_PQ@DF_TALIS_PQ` for rektorer.

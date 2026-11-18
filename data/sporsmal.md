@@ -156,6 +156,9 @@ Hvem som eier kvaliteten: Nav, SSB, Eurostat og OECD eier tallene. Svaret skal a
 | Hvor stor er inntektsforskjellen (Gini) og fattigdommen sammenlignet med andre land? | OECD `inntektsfordeling.tsv` | 50 og 60 prosent av median. Eurostat `ilc_peps01n.tsv` bruker et annet mål. |
 | Hvor mye skatt betaler en vanlig lønnstaker sammenlignet med andre land? | OECD `skattekile.tsv` | Modellhusholdninger. |
 | Hvordan ligger Norge an mot USA og Storbritannia på sysselsetting og arbeidstid? | OECD `sysselsetting-alder.tsv`, `arbeidstimer.tsv` | Arbeidstimer: sammenlign utvikling, ikke nivå. |
+| Hvor gode er voksne i Norge til å lese og regne sammenlignet med andre land? | OECD, PIAAC (se «Voksnes ferdigheter» i `data/oecd.md`) | Ikke i pakken. Hentes fra Education at a Glance eller OECDs PIAAC-database. |
+| Har voksnes ferdigheter blitt bedre eller dårligere siden 2012? | OECD, PIAAC 2012 og 2023 | Bare lesing og tallforståelse kan sammenlignes. Problemløsning ble målt på en ny måte i 2023. |
+| Hvor mange voksne har svake lese- eller regneferdigheter? | OECD, PIAAC 2023 | Si hvilke ferdighetsnivåer som er regnet som svake. |
 
 ## Eksempler på korte svar
 
