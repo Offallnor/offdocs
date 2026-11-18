@@ -1,0 +1,56 @@
+name: Midlertidig PIAAC-oppslag
+
+on:
+  push:
+    branches: [claude/project-thread-g82w9i]
+    paths: [.github/workflows/tmp-piaac-oppslag.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  oppslag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Finn PIAAC-tabeller i OECDs katalog
+        run: |
+          set -e
+          curl -sS -m 120 -H "Accept: application/vnd.sdmx.structure+xml;version=2.1" \
+            "https://sdmx.oecd.org/public/rest/dataflow/all?detail=allstubs" -o stubs.xml
+          python3 - <<'PY'
+          import re
+          x = open("stubs.xml", encoding="utf-8").read()
+          flows = re.findall(r'<structure:Dataflow[^>]*id="([^"]+)"[^>]*agencyID="([^"]+)"[^>]*>(.*?)</structure:Dataflow>', x, re.S)
+          print("antall tabeller:", len(flows))
+          treff = []
+          for fid, ag, body in flows:
+              navn = re.findall(r'<common:Name xml:lang="en">(.*?)</common:Name>', body)
+              n = navn[0] if navn else ""
+              if re.search(r"PIAAC|adult skill|proficien|literacy|numeracy|SKILL", fid + " " + n, re.I):
+                  treff.append((ag, fid, n))
+          for t in treff:
+              print("TREFF", *t, sep=" | ")
+          open("treff.txt", "w").write("\n".join(f"{a},{f}" for a, f, _ in treff))
+          PY
+      - name: Datastruktur for treffene
+        run: |
+          while IFS=, read -r ag fid; do
+            [ -z "$fid" ] && continue
+            echo "=== $ag,$fid"
+            sleep 4
+            curl -sS -m 60 "https://sdmx.oecd.org/public/rest/dataflow/$ag/$fid/latest?references=all&detail=referencepartial" -o ds.xml || continue
+            python3 - <<'PY'
+          import re
+          x = open("ds.xml", encoding="utf-8").read()
+          dims = re.findall(r'<structure:(?:Dimension|TimeDimension)[^>]*id="([^"]+)"[^>]*position="(\d+)"', x)
+          print("dimensjoner:", [d for d, _ in sorted(dims, key=lambda t: int(t[1]))])
+          for cl in re.findall(r'<structure:Codelist[^>]*id="([^"]+)"[^>]*>(.*?)</structure:Codelist>', x, re.S):
+              koder = re.findall(r'<structure:Code id="([^"]+)"[^>]*>\s*<common:Name xml:lang="en">(.*?)</common:Name>', cl[1])
+              if cl[0].startswith("CL_AREA"):
+                  print(cl[0], len(koder), "koder")
+                  continue
+              print(cl[0], koder[:40])
+          PY
+            sleep 4
+            curl -sS -m 60 "https://sdmx.oecd.org/public/rest/data/$ag,$fid/NOR?format=csvfilewithlabels&dimensionAtObservation=AllDimensions" -o d.csv && { head -c 3000 d.csv; echo; wc -l d.csv; } || true
+          done < treff.txt
