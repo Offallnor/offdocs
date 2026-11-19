@@ -53,7 +53,6 @@ Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd stå
 - **Endringslov til grenseloven og utlendingsloven mv.** (LOV-2024-06-21-47). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2025-09-19-1876 (Delt ikraftsetting av lov 29. april 2022 nr. 26 om endringer i grenseloven, utlendingsloven og politiregisterloven (etablering av systemer for inn- og utreise, fremreise og passasjerlisteopplysninger mv.) og lov 21. juni 2024 nr. 47 om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visuminformasjonssystemet mv.)): 2025-09-19, 2025-10-12. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Endrer: § 101, § 102. Ny tekst: `vedtatte-endringer/lov-2024-06-21-47.md`
 - **Endringslov til konkursloven mv.** (LOV-2026-06-19-48). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2026-11-13-2341 (Ikraftsetting av lov 19. juni 2026 nr. 48 om endringer i konkursloven mv. (rekonstruksjonsforhandling)): 2027-01-01. Endrer: § 77. Ny tekst: `vedtatte-endringer/lov-2026-06-19-48.md`
 - **Endringslov til utlendingsloven** (LOV-2026-06-19-50). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2026-06-19-1136 (Delt ikraftsetting av lov 19. juni 2026 nr. 50 om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)): 2026-07-01. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Endrer: § 94. Ny tekst: `vedtatte-endringer/lov-2026-06-19-50.md`
-- **Endr. i utlendingsforskriften** (FOR-2026-11-16-2373). Trådte i kraft 2026-11-16, men er ikke tatt inn i teksten i basen ennå. Endrer: Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften). Ny tekst: `vedtatte-endringer/for-2026-11-16-2373.md`
 
 ## Innhold
 
@@ -105,7 +104,7 @@ Innholdslisten er delt fordi regelverket er stort. Finn kapitlet eller forskrift
 - Kapittel 17. Saksbehandlingen (§§ 17-1 til 17-35, 54 paragrafer) – `innhold/utlendingsforskriften-kapittel-17.md`
 - Kapittel 18. Behandling av fingeravtrykk mv., tvangsmidler og straff (§§ 18-1 til 18-14, 16 paragrafer) – `innhold/utlendingsforskriften-kapittel-18.md`
 - Kapittel 19. Særlige regler for utlendinger som omfattes av EØS-avtalen og EFTA-konvensjonen (§§ 19-1 til 19-37, 40 paragrafer) – `innhold/utlendingsforskriften-kapittel-19.md`
-- Kapittel 19A. Særskilte regler for saker som berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn (§§ 19A-1 til 19A-12, 15 paragrafer) – `innhold/utlendingsforskriften-kapittel-19a.md`
+- Kapittel 19A. Særskilte regler for saker som berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn (§§ 19A-1 til 19A-12, 17 paragrafer) – `innhold/utlendingsforskriften-kapittel-19a.md`
 - Kapittel 20. Avsluttende bestemmelser (§§ 20-1 til 20-19, 21 paragrafer) – `innhold/utlendingsforskriften-kapittel-20.md`
 - Innhold utenfor paragrafene: Vedlegg, tabeller o.l. – `forskrifter/utlendingsforskriften/utenfor-paragrafene.md`
 
