@@ -3,12 +3,12 @@ rundskriv: "Alderspensjon for offentlig ansatte"
 utgiver: "Statens pensjonskasse"
 lov: "Lov om Statens pensjonskasse"
 kilde: "https://www.spk.no/alderspensjon/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Alderspensjon for offentlig ansatte
 
-Tekst fra Statens pensjonskasse, hentet fra [spk.no](https://www.spk.no/alderspensjon/) 2026-11-12. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
+Tekst fra Statens pensjonskasse, hentet fra [spk.no](https://www.spk.no/alderspensjon/) 2026-11-23. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
 Offentlig tjenestepensjon
 

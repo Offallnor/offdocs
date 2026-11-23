@@ -3,7 +3,7 @@ rundskriv: "Anskaffelsesprosedyrer"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 lov: "Anskaffelsesloven"
 kilde: "https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/innovasjonspartnerskap/utarbeide-konkurransegrunnlag-og-kontrakt-ved-innovasjonspartnerskap/"
-lagt_inn: "2026-11-14"
+lagt_inn: "2026-11-23"
 ---
 
 # Anskaffelsesprosedyrer: Utarbeide konkurransegrunnlag og kontrakt ved innovasjonspartnerskap
@@ -178,4 +178,4 @@ Oppdatert: 21. januar  2026
 
 ## Kontakt
 
-- Magne Hareide [90 74 51 13](tel:90745113) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#553834323b307b3d3427303c31301531333a7b3b3a)
+- Magne Hareide [90 74 51 13](tel:90745113) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#9df0fcfaf3f8b3f5fceff8f4f9f8ddf9fbf2b3f3f2)

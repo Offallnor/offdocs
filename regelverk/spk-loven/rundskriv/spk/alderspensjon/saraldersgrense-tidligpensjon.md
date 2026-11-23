@@ -3,7 +3,7 @@ rundskriv: "Alderspensjon for offentlig ansatte"
 utgiver: "Statens pensjonskasse"
 lov: "Lov om Statens pensjonskasse"
 kilde: "https://www.spk.no/alderspensjon/saraldersgrense/tidligpensjon/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Alderspensjon for offentlig ansatte: Nye pensjonsregler for deg med særaldersgrense

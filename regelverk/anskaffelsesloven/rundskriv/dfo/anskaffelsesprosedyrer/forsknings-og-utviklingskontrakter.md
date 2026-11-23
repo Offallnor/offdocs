@@ -3,7 +3,7 @@ rundskriv: "Anskaffelsesprosedyrer"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 lov: "Anskaffelsesloven"
 kilde: "https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/forsknings-og-utviklingskontrakter/"
-lagt_inn: "2026-11-14"
+lagt_inn: "2026-11-23"
 ---
 
 # Anskaffelsesprosedyrer: Forsknings- og utviklingskontrakter
@@ -77,4 +77,4 @@ Oppdatert: 23. september  2026
 
 ## Kontakt
 
-- Magne Hareide [90 74 51 13](tel:90745113) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#1974787e777c3771786b7c707d7c597d7f76377776)
+- Magne Hareide [90 74 51 13](tel:90745113) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#345955535a511a5c5546515d50517450525b1a5a5b)

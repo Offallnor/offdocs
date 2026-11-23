@@ -3,7 +3,7 @@ rundskriv: "Jeg har utdanning fra utlandet"
 utgiver: "HK-dir"
 lov: "Universitets- og høyskoleloven"
 kilde: "https://hkdir.no/utdanning-fra-utlandet/jeg-har-utdanning-fra-utlandet/informasjon-om-klage/klage-pa-vedtak/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Jeg har utdanning fra utlandet: Informasjon om klage

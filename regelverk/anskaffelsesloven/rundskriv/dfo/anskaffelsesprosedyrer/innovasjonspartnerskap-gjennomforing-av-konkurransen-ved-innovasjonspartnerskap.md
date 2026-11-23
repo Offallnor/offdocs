@@ -3,7 +3,7 @@ rundskriv: "Anskaffelsesprosedyrer"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 lov: "Anskaffelsesloven"
 kilde: "https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/innovasjonspartnerskap/gjennomforing-av-konkurransen-ved-innovasjonspartnerskap/"
-lagt_inn: "2026-11-14"
+lagt_inn: "2026-11-23"
 ---
 
 # Anskaffelsesprosedyrer: Gjennomføring av konkurransen ved innovasjonspartnerskap
@@ -54,4 +54,4 @@ Oppdatert: 23. september  2026
 
 ## Kontakt
 
-- Magne Hareide [90 74 51 13](tel:90745113) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#640905030a014a0c0516010d00012400020b4a0a0b)
+- Magne Hareide [90 74 51 13](tel:90745113) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#e984888e878cc781889b8c808d8ca98d8f86c78786)

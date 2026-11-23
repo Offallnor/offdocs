@@ -3,7 +3,7 @@ rundskriv: "Anskaffelsesprosedyrer"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 lov: "Anskaffelsesloven"
 kilde: "https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/kommersielle-anskaffelser/"
-lagt_inn: "2026-11-14"
+lagt_inn: "2026-11-23"
 ---
 
 # Anskaffelsesprosedyrer: Før-kommersielle anskaffelser
@@ -55,4 +55,4 @@ Oppdatert: 6. mars  2026
 
 ## Kontakt
 
-- Mathias Grude Eikseth [98 84 06 10](tel:98840610) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#cea3afbaa6a7afbda9afbca3afa0a9bcbbaaabe0aba7a5bdabbaa68eaaa8a1e0a0a1)
+- Mathias Grude Eikseth [98 84 06 10](tel:98840610) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#8ce1edf8e4e5edffebedfee1ede2ebfef9e8e9a2e9e5e7ffe9f8e4cce8eae3a2e2e3)

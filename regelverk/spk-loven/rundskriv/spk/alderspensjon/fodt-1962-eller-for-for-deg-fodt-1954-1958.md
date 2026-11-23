@@ -3,7 +3,7 @@ rundskriv: "Alderspensjon for offentlig ansatte"
 utgiver: "Statens pensjonskasse"
 lov: "Lov om Statens pensjonskasse"
 kilde: "https://www.spk.no/alderspensjon/fodt-1962-eller-for/For-deg-fodt-1954-1958/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Alderspensjon for offentlig ansatte: Beregning for deg født 1954 - 1958

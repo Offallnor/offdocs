@@ -10,6 +10,7 @@ Tekst fra Utdanningsdirektoratet. Den er veiledning og tolkning, ikke lov- eller
 | Kommunens rolle som barnehagemyndighet | 10 | `regelverk/barnehageloven/rundskriv/udir/kommunens-rolle-som-barnehagemyndighet/oversikt.md` |
 | Mal for tiltaksplan i barnehage | 1 | `regelverk/barnehageloven/rundskriv/udir/mal-for-tiltaksplan-barnehage/oversikt.md` |
 | Meldeplikt for private barnehager | 1 | `regelverk/barnehageloven/rundskriv/udir/meldeplikt-for-private-barnehager/oversikt.md` |
+| Rapportering av antall barn i private barnehager | 1 | `regelverk/barnehageloven/rundskriv/udir/rapportering-antall-barn-private-barnehager-basil/oversikt.md` |
 | Regelverk for nyankomne barn under skolealder | 1 | `regelverk/barnehageloven/rundskriv/udir/regelverk-for-nyankomne-barn-under-skolealder/oversikt.md` |
 | Rettigheter for barn under opplæringspliktig alder med nedsatt hørsel | 1 | `regelverk/barnehageloven/rundskriv/udir/rettigheter-for-barn-under-opplaringspliktig-alder-med-nedsatt-horsel/oversikt.md` |
 | Rundskriv og veiledere – barnehage | 1 | `regelverk/barnehageloven/rundskriv/udir/rundskriv-og-veiledere/oversikt.md` |

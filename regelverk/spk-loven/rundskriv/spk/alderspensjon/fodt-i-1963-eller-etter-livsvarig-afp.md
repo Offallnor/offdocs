@@ -3,7 +3,7 @@ rundskriv: "Alderspensjon for offentlig ansatte"
 utgiver: "Statens pensjonskasse"
 lov: "Lov om Statens pensjonskasse"
 kilde: "https://www.spk.no/alderspensjon/fodt-i-1963-eller-etter/livsvarig-afp/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Alderspensjon for offentlig ansatte: Livsvarig AFP

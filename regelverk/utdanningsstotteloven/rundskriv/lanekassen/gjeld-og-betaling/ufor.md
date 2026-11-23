@@ -3,7 +3,7 @@ rundskriv: "Gjeld og betaling"
 utgiver: "Lånekassen"
 lov: "Utdanningsstøtteloven"
 kilde: "https://lanekassen.no/nb-NO/gjeld-og-betaling/ufor/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Gjeld og betaling: Når du er ufør

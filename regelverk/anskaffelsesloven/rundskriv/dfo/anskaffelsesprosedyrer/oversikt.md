@@ -3,12 +3,12 @@ rundskriv: "Anskaffelsesprosedyrer"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 lov: "Anskaffelsesloven"
 kilde: "https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/"
-lagt_inn: "2026-11-14"
+lagt_inn: "2026-11-23"
 ---
 
 # Anskaffelsesprosedyrer
 
-Tekst fra Direktoratet for forvaltning og økonomistyring (DFØ), hentet fra [anskaffelser.no](https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/) 2026-11-14. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
+Tekst fra Direktoratet for forvaltning og økonomistyring (DFØ), hentet fra [anskaffelser.no](https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/) 2026-11-23. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
 Her finner du både de formelle anskaffelsesprosedyrene som er nevnt i forskriften og innovative konkurranseformer. Valg av anskaffelsesprosedyre vil være avgjørende for hvordan anskaffelsen skal gjennomføres.
 

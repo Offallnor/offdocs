@@ -3,7 +3,7 @@ rundskriv: "Anskaffelsesprosedyrer"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 lov: "Anskaffelsesloven"
 kilde: "https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/plan-og-designkonkurranse/"
-lagt_inn: "2026-11-14"
+lagt_inn: "2026-11-23"
 ---
 
 # Anskaffelsesprosedyrer: Plan- og designkonkurranse
@@ -69,4 +69,4 @@ Oppdatert: 23. september  2026
 
 ## Kontakt
 
-- Kjersti K. Berg [98 29 02 42](tel:98290242) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#046f6e617677706d6f2a666176634460626b2a6a6b)
+- Kjersti K. Berg [98 29 02 42](tel:98290242) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#e38889869190978a88cd81869184a387858ccd8d8c)

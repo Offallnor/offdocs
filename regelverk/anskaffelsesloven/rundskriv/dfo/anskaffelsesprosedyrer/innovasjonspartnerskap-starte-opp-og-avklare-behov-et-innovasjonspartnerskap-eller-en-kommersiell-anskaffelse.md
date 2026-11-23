@@ -3,7 +3,7 @@ rundskriv: "Anskaffelsesprosedyrer"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 lov: "Anskaffelsesloven"
 kilde: "https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/innovasjonspartnerskap/starte-opp-og-avklare-behov-et-innovasjonspartnerskap-eller-en-kommersiell-anskaffelse/"
-lagt_inn: "2026-11-14"
+lagt_inn: "2026-11-23"
 ---
 
 # Anskaffelsesprosedyrer: Starte opp og avklare behov for et innovasjonspartnerskap eller en før-kommersiell anskaffelse

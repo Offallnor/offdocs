@@ -3,7 +3,7 @@ rundskriv: "Alderspensjon for offentlig ansatte"
 utgiver: "Statens pensjonskasse"
 lov: "Lov om Statens pensjonskasse"
 kilde: "https://www.spk.no/alderspensjon/om-beregning-av-pensjon/forutsetninger-for-beregning-for-tidligere-medlemmer-fodt-1954-1962/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Alderspensjon for offentlig ansatte: Forutsetninger for beregning for tidligere medlemmer født 1954 -1962

@@ -3,7 +3,7 @@ rundskriv: "Alderspensjon for offentlig ansatte"
 utgiver: "Statens pensjonskasse"
 lov: "Lov om Statens pensjonskasse"
 kilde: "https://www.spk.no/alderspensjon/fodt-i-1963-eller-etter/samordning-av-alderspensjon-opptjent-for-2020/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Alderspensjon for offentlig ansatte: Samordning og samordningsoppgjør
@@ -24,7 +24,7 @@ Når du jobber etter at du har begynt å ta ut alderspensjon fra folketrygden og
 
 ## Hvorfor får jeg pensjon etterbetalt?
 
-Når du tar ut pensjon, og har liten eller ingen inntekt ved siden av, øker ikke pensjonsopptjeningen din i Nav noe særlig. Da skal du få mer i pensjon fra SPK. Hvis du tjener du mindre enn den fastsatte inntekten på 5 G, får du etterbetalt for lite utbetalt pensjon.
+Når du tar ut pensjon, og har liten eller ingen inntekt ved siden av, øker ikke pensjonsopptjeningen din i Nav noe særlig. Da skal du få mer i pensjon fra SPK. Hvis du tjener mindre enn den fastsatte inntekten på 5 G, får du etterbetalt for lite utbetalt pensjon.
 
 ## Kan jeg gjøre noe for å slippe oppgjør?
 

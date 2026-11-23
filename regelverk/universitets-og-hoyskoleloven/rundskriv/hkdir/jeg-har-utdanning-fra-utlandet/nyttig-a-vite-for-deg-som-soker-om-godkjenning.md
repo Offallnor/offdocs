@@ -3,7 +3,7 @@ rundskriv: "Jeg har utdanning fra utlandet"
 utgiver: "HK-dir"
 lov: "Universitets- og høyskoleloven"
 kilde: "https://hkdir.no/utdanning-fra-utlandet/jeg-har-utdanning-fra-utlandet/nyttig-a-vite-for-deg-som-soker-om-godkjenning/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Jeg har utdanning fra utlandet: Nyttig å vite for deg som søker om godkjenning
@@ -14,7 +14,7 @@ Sist oppdatert
 
 :
 
-6. november 2026
+17. november 2026
 
 ## Hvordan godkjenner jeg min utenlandske utdanning?
 
@@ -64,7 +64,7 @@ Vi har prinsipp om likebehandling og kan ikke prioritere søknader.
 Er du i jobbsøkingsprosess og trenger raskere svar? Da kan disse tjenestene være relevante for deg:
 
 - **Automatisk godkjenning:**Automatisk godkjenning er et nedlastbart dokument om enkelte land som gir strukturert informasjon om hvilken norsk høyere utdanningsgrad en utenlandsk høyere utdanning kan sammenliknes med. I mange tilfeller kan dette være tilstrekkelig for å kunne søke jobb.
-- **Turbovurdering for arbeidsgivere:**Arbeidsgivere kan be om en vurdering av hva et utenlandsk høyere utdanning eller fagskoleutdanning kan sammenlignes med i Norge. Arbeidsgiver får tilbakemelding innen 5 virkedager. [Last ned informasjonsskriv om turbovurdering](https://hkdir.no/ressurser/informasjonsskriv-om-turbovurdering) som du kan dele med arbeidsgiver.
+- **Turbovurdering for arbeidsgivere:**Arbeidsgivere kan be om en vurdering av hva en utenlandsk høyere utdanning eller fagskoleutdanning kan sammenlignes med i Norge. Arbeidsgiver får tilbakemelding innen 5 virkedager. [Last ned informasjonsskriv om turbovurdering](https://hkdir.no/ressurser/informasjonsskriv-om-turbovurdering) som du kan dele med arbeidsgiver.
 
 ## Hva er dokumentasjonskravene?
 

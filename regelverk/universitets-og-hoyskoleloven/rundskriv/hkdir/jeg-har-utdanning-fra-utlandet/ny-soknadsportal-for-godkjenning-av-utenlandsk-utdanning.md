@@ -3,7 +3,7 @@ rundskriv: "Jeg har utdanning fra utlandet"
 utgiver: "HK-dir"
 lov: "Universitets- og høyskoleloven"
 kilde: "https://hkdir.no/utdanning-fra-utlandet/jeg-har-utdanning-fra-utlandet/ny-soknadsportal-for-godkjenning-av-utenlandsk-utdanning/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Jeg har utdanning fra utlandet: Ny søknadsportal for godkjenning av utenlandsk utdanning

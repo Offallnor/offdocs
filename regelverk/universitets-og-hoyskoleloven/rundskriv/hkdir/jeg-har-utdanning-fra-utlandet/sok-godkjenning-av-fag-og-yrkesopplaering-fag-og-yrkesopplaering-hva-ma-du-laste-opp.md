@@ -3,7 +3,7 @@ rundskriv: "Jeg har utdanning fra utlandet"
 utgiver: "HK-dir"
 lov: "Universitets- og høyskoleloven"
 kilde: "https://hkdir.no/utdanning-fra-utlandet/jeg-har-utdanning-fra-utlandet/sok-godkjenning-av-fag-og-yrkesopplaering/fag-og-yrkesopplaering-hva-ma-du-laste-opp/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Jeg har utdanning fra utlandet: Fag- og yrkesopplæring - hva må du laste opp?

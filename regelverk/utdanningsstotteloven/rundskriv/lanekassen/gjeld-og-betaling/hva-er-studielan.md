@@ -3,7 +3,7 @@ rundskriv: "Gjeld og betaling"
 utgiver: "Lånekassen"
 lov: "Utdanningsstøtteloven"
 kilde: "https://lanekassen.no/nb-NO/gjeld-og-betaling/hva-er-studielan/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Gjeld og betaling: Studielån i Lånekassen
@@ -11,17 +11,17 @@ lagt_inn: "2026-11-12"
 ## Dette kjennetegner studielån:
 
 - deler av lånet kan gjøres om til stipend
-- er rentefritt mens du tar utdanning på fulltid
+- er rentefritt mens du tar utdanning på fulltid og får lån og stipend fra Lånekassen
 - har inkludert gjeldsforsikring ved uførhet eller død
 - har flere sosiale ordninger knyttet til seg
 
-Et lån i Lånekassen er ikke helt det samme som lån i en bank. Det har flere fordeler sammenlignet med andre lån.
+Et lån i Lånekassen er ikke helt det samme som et lån i en bank. Det har flere fordeler sammenlignet med andre lån.
 
 De aller fleste studenter i Norge har studielån fra Lånekassen. Det trenger de for å dekke utgifter til bolig, mat og studiemateriell.
 
 ### Dette er forskjellen på stipend og lån
 
-De fleste som går på videregående får bare stipend. Stipend er penger du ikke trenger å betale tilbake. På høyere utdanning, for eksempel universitet og høgskole eller fagskole, er det vanlig med en kombinasjon av lån og stipend. Lån er penger du må betale tilbake senere med renter.
+De fleste som går på videregående får bare stipend. Stipend er penger du ikke trenger å betale tilbake. På høyere utdanning, for eksempel universitet eller høgskole, eller på fagskole, er det vanlig med en kombinasjon av lån og stipend. Lån er penger du må betale tilbake med renter senere.
 
 ### Deler av studielånet kan gjøres om til stipend
 
@@ -37,6 +37,4 @@ Når du søker om studielån, vurderer Lånekassen om du har rett til andre stip
 
 ### Lånet er rentefritt mens du tar utdanning
 
-Så lenge du får lån og/eller stipend fra oss til fulltidsutdanning, er lånet rentefritt.
-
-Det betyr at lånet ikke koster noe mens du tar utdanning. Du trenger heller ikke betale ned på lånet mens du studerer på fulltid med lån og stipend fra Lånekassen.
+Så lenge du får lån og/eller stipend fra oss til fulltidsutdanning, er lånet rentefritt. Det betyr at lånet ikke koster noe mens du tar utdanning. Du trenger heller ikke å betale ned på lånet mens du studerer på fulltid med lån og stipend fra Lånekassen. Dersom du fortsetter utdanningen uten å få penger fra Lånekassen, vil vi legge til renter og etter hvert sende deg regninger.

@@ -3,12 +3,12 @@ rundskriv: "Gjeld og betaling"
 utgiver: "Lånekassen"
 lov: "Utdanningsstøtteloven"
 kilde: "https://lanekassen.no/nb-NO/gjeld-og-betaling/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Gjeld og betaling
 
-Tekst fra Lånekassen, hentet fra [lanekassen.no](https://lanekassen.no/nb-NO/gjeld-og-betaling/) 2026-11-12. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
+Tekst fra Lånekassen, hentet fra [lanekassen.no](https://lanekassen.no/nb-NO/gjeld-og-betaling/) 2026-11-23. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
 Dagens rente er
 

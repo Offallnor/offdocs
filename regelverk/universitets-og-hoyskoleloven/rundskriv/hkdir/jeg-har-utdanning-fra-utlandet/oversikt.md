@@ -3,12 +3,12 @@ rundskriv: "Jeg har utdanning fra utlandet"
 utgiver: "HK-dir"
 lov: "Universitets- og høyskoleloven"
 kilde: "https://hkdir.no/utdanning-fra-utlandet/jeg-har-utdanning-fra-utlandet/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Jeg har utdanning fra utlandet
 
-Tekst fra HK-dir, hentet fra [hkdir.no](https://hkdir.no/utdanning-fra-utlandet/jeg-har-utdanning-fra-utlandet/) 2026-11-12. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
+Tekst fra HK-dir, hentet fra [hkdir.no](https://hkdir.no/utdanning-fra-utlandet/jeg-har-utdanning-fra-utlandet/) 2026-11-23. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
 For deg som har utdanning eller kvalifikasjon fra utlandet som du vil søke om godkjenning av. Les mer om godkjenningstjenestene våre, hvordan du søker om godkjenning og om regulerte yrker.
 

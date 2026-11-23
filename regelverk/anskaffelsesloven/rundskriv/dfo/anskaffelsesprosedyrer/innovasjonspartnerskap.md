@@ -3,7 +3,7 @@ rundskriv: "Anskaffelsesprosedyrer"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 lov: "Anskaffelsesloven"
 kilde: "https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/innovasjonspartnerskap/"
-lagt_inn: "2026-11-14"
+lagt_inn: "2026-11-23"
 ---
 
 # Anskaffelsesprosedyrer: Innovasjonspartnerskap
@@ -48,7 +48,7 @@ Sparretelefonen
 - [404 34 830](tel:404 34 830) (kl. 9–12)
 - [Kontaktskjema](https://anskaffelser.no/form/kontaktskjemaet)
 
-- Magne Hareide [90 74 51 13](tel:90745113) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#e984888e878cc781889b8c808d8ca98d8f86c78786)
+- Magne Hareide [90 74 51 13](tel:90745113) [[email protected]](https://www.anskaffelser.no/cdn-cgi/l/email-protection#741915131a115a1c1506111d10113410121b5a1a1b)
 
 ## Mer om fasene i innovasjonspartnerskapet
 

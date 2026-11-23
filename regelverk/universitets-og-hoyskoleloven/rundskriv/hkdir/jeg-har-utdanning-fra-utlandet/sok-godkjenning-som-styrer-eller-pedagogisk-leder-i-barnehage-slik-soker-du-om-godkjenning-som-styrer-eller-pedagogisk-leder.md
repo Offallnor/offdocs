@@ -3,7 +3,7 @@ rundskriv: "Jeg har utdanning fra utlandet"
 utgiver: "HK-dir"
 lov: "Universitets- og høyskoleloven"
 kilde: "https://hkdir.no/utdanning-fra-utlandet/jeg-har-utdanning-fra-utlandet/sok-godkjenning-som-styrer-eller-pedagogisk-leder-i-barnehage/slik-soker-du-om-godkjenning-som-styrer-eller-pedagogisk-leder/"
-lagt_inn: "2026-11-12"
+lagt_inn: "2026-11-23"
 ---
 
 # Jeg har utdanning fra utlandet: Slik søker du om godkjenning som styrer eller pedagogisk leder

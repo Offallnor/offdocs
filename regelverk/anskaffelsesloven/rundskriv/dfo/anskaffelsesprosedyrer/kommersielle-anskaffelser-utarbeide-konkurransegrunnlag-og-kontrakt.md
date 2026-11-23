@@ -3,7 +3,7 @@ rundskriv: "Anskaffelsesprosedyrer"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 lov: "Anskaffelsesloven"
 kilde: "https://www.anskaffelser.no/anskaffelsesregelverk/anskaffelsesprosedyrer/kommersielle-anskaffelser/utarbeide-konkurransegrunnlag-og-kontrakt/"
-lagt_inn: "2026-11-14"
+lagt_inn: "2026-11-23"
 ---
 
 # Anskaffelsesprosedyrer: Utarbeide konkurransegrunnlag og kontrakt
@@ -45,7 +45,7 @@ DFØ anbefaler at det bør være et tildelingskriterium som vektlegger pris, sli
 
 Dersom du ønsker å evaluere tilbudene etter ulike tildelingskriterier etter hver fase, må dette spesifiseres på forhånd i konkurransegrunnlaget som utlyses før fase 1.
 
-Hvis du i løpet av utviklingsløpet tilegner deg ny kunnskap som gjør at du får behov for å endre tildelingskriteriene for utvelgelse til neste fase, er det mulig. Dette gjøres i så fall i avropsavtalene man inngår før påbegynnelse av de fase 2 og 3. Det er viktig å gjøre et utkast av avtalen med de endrede tildelingskriteriene tilgjengelig for leverandørene i god tid før evalueringen skal gjøres.
+Hvis du i løpet av utviklingsløpet tilegner deg ny kunnskap som gjør at du får behov for å endre tildelingskriteriene for utvelgelse til neste fase, er det mulig. Dette gjøres i så fall i avropsavtalene man inngår før påbegynnelse av fase 2 og 3. Det er viktig å gjøre et utkast av avtalen med de endrede tildelingskriteriene tilgjengelig for leverandørene i god tid før evalueringen skal gjøres.
 
 ## Kontraktsvilkår
 
