@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til arbeidsmarkedsloven"
 lov: "Arbeidsmarkedsloven"
 kilde: "original/arbeidsmarkedsloven-rundskriv-r76-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-23"
 paragraf: "§ 2"
 gjelder: "lov"
 ---
@@ -13,6 +13,8 @@ gjelder: "lov"
 
 ##### Lovlig opphold og virksomhet
 
+\[Endret 11/26\]
+
 Ordlyden i arbeidsmarkedsloven § 2 første ledd første setning tilsier at arbeidsmarkedsloven kapittel 1-7 gjelder for alle med lovlig opphold i Norge.
 
 Hva som utgjør lovlig opphold i Norge, må vurderes på grunnlag av reglene i [lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven).](https://lovdata.no/nav/lov/2008-05-15-35) Mer utfyllende regler om opphold i Norge er også gitt i [forskrift 15. oktober 2009 nr. 1286 om utlendingers adgang til riket og deres opphold her (utlendingsforskriften).](https://lovdata.no/nav/forskrift/2009-10-15-1286)
@@ -21,11 +23,19 @@ Loven gjelder dermed både for norske statsborgere og for andre med lovlig oppho
 
 Det er viktig å merke seg at lovlig opphold ikke innebærer automatisk rett til å arbeide i Norge. Kravet om lovlig opphold er mindre omfattende i den forstand at det stiller færre og mindre strenge vilkår enn kravene til arbeidsadgang og bosetting etter utlendingsloven. En person kan derfor ha lovlig opphold uten å ha rett til å arbeide eller uten å være bosatt i Norge.
 
-Videre gjelder reglene i arbeidsmarkedsloven kapittel 1-7 for alle som driver lovlig virksomhet i Norge. I dette ligger det at virksomheten må drives i samsvar med det som til enhver tid er gjeldende lover og regler.
+*Videre gjelder reglene i arbeidsmarkedsloven kapittel 1-7 for alle som driver lovlig virksomhet i Norge. I dette ligger det at virksomheten må drives i samsvar med det som til enhver tid er gjeldende lover og regler.*
 
-Ordlyden tilsier at loven kun gjelder for det norske arbeidsmarkedet, jf. «i Norge». Dette får støtte i forarbeidene til loven Ot.prp. nr. 62 (2003–2004) s. 56, hvor det er uttalt at arbeidsmarkedsloven «legger grunnlaget for gjennomføringen av arbeidsmarkedspolitikken i Norge». Internasjonale forpliktelser kan likevel medføre at Nav skal yte enkelte tjenester til personer eller virksomheter utenfor Norge, jf. § 2 første ledd siste punktum.
+*Kravet om å drive lovlig virksomhet i Norge kan ikke forstås som et generelt krav om at virksomheten må være etablert i Norge. I lys av EØS-rettslige forpliktelser er den naturlige språklige forståelsen av bestemmelsen er det sentrale at virksomheten tilbyr sine tjenester innenfor det norske arbeidsmarkedet og driver i samsvar med norsk lovgivning der norsk regelverk oppstiller relevante krav.*
 
-Bestemmelsen viser ikke til kapittel 8 og 9. Forarbeidene presiserer imidlertid at disse kapitlene også kan gjelde for personer uten lovlig opphold og for virksomheter som driver ulovlig i Norge, jf. Ot.prp. nr. 62 (2003–2004) s. 56. Dette innebærer at virksomheter som vurderes å drive ulovlig, likevel omfattes av reglene om privat arbeidsformidling, utleie av arbeidstakere og tilhørende sanksjoner. Tilsvarende gjelder bestemmelsene i §§ 26 og 27 uavhengig av om arbeidstakeren eller arbeidssøkeren har lovlig opphold. Dette innebærer at forbudene mot ulovlig arbeidsformidling og ulovlig utleie av arbeidskraft, og tilhørende sanksjoner, også skal håndheves der arbeidskraften er uten lovlig opphold. Formålet med denne avklaringen er å sikre at regelverket får anvendelse uavhengig av om arbeidsforholdet eller virksomheten er lovlig etablert. Arbeidsmarkedshensyn og behovet for myndighetenes kontroll tilsier at plikter og sanksjonsregler ikke kan omgås ved bruk av ulovlig arbeidskraft eller ulovlig virksomhet.
+*Bestemmelsen har bakgrunn i lovgivers ønske om å avgrense Navs plikter etter loven til personer med lovlig opphold og virksomheter som driver lovlig i Norge. En virksomhet kan ikke avskjæres fra å tilby arbeidsmarkedstjenester eller arbeidsmarkedstiltak i Norge utelukkende fordi virksomheten er etablert i et annet EØS-land. Dette må også ses i lys av Norges forpliktelser etter EØS-avtalen, herunder reglene om etableringsfrihet. Det avgjørende er om virksomheten som tilbyr tjenestene i Norge oppfyller de krav som følger av norsk lovgivning og EØS-rettslige forpliktelser.*
+
+*Ordlyden tilsier samtidig at loven som utgangspunkt gjelder for det norske arbeidsmarkedet, jf. formuleringen «i Norge». Dette får støtte i forarbeidene til loven, Ot.prp. nr. 62 (2003-2004) s. 56, hvor det er uttalt at arbeidsmarkedsloven «legger grunnlaget for gjennomføringen av arbeidsmarkedspolitikken i Norge». Internasjonale forpliktelser kan likevel medføre at Nav skal yte enkelte tjenester til personer eller virksomheter utenfor Norge, jf. § 2 første ledd annet punktum.*
+
+*Bestemmelsen viser ikke direkte til kapittel 8 og 9. Forarbeidene presiserer likevel at disse kapitlene også kan gjelde for personer uten lovlig opphold og virksomheter som driver ulovlig i Norge, jf. Ot.prp. nr. 62 (2003-2004) s. 56. Dette betyr at reglene om privat arbeidsformidling, utleie av arbeidstakere og tilhørende sanksjoner også gjelder for virksomheter som driver ulovlig.*
+
+*Det samme gjelder §§ 26 og 27. Forbudene mot ulovlig arbeidsformidling og ulovlig utleie av arbeidskraft, samt sanksjonene knyttet til disse bestemmelsene, gjelder uavhengig av om arbeidstakeren eller arbeidssøkeren har lovlig opphold.*
+
+*Formålet er å sikre at regelverket også gjelder når arbeidsforhold eller virksomheter drives i strid med loven. Ellers kunne plikter og sanksjoner blitt omgått ved bruk av ulovlig arbeidskraft eller ulovlig virksomhet.*
 
 ##### Andre rettssubjekter etter internasjonale forpliktelser
 

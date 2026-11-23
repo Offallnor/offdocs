@@ -1,6 +1,6 @@
 # Rundskriv til ftrl kap 12 – Uføretrygd
 
-Rundskriv til Folketrygdloven. Lagt inn 2026-11-04 fra `original/folketrygdloven-rundskriv-r12-00.html`. Dette er ikke lov- eller forskriftstekst.
+Rundskriv til Folketrygdloven. Lagt inn 2026-11-23 fra `original/folketrygdloven-rundskriv-r12-00.html`. Dette er ikke lov- eller forskriftstekst.
 
 ## Innhold
 

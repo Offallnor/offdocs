@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til arbeidsmarkedsloven"
 lov: "Arbeidsmarkedsloven"
 kilde: "original/arbeidsmarkedsloven-rundskriv-r76-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-23"
 ---
 
 # Rundskriv til arbeidsmarkedsloven
@@ -13,13 +13,13 @@ Myndighet: NAV – Arbeids- og velferdsetaten
 Dato: 2015-11-16  
 Doknr/publisert: R76-00  
 Sammendrag: Rundskriv til arbeidsmarkedsloven Henvisninger: Arbeidsmarkedsloven (2004) , §2 , §10 , §16 , §17 , §19  
-Sist endret: 2026-10-30  
+Sist endret: 2026-11-20  
 
  
 
 Utarbeidet 16.11.2015 av Arbeids- og velferdsdirektoratet, Tjenesteavdelingen, Tiltaksseksjonen
 
-Sist endret 30.10.202. Det er lagt til rundskriv for § 12
+Sist endret 20.11.2026, se § 2 og avsnitt markert 11/26
 
 ## § 2 virkeområde
 
@@ -35,9 +35,11 @@ Arbeidsmarkedsloven gir Nav ansvar for å gjennomføre arbeidsmarkedstiltak som 
 
 #### Lovlig opphold og virksomhet
 
-Bestemmelsen regulerer arbeidsmarkedslovens rekkevidde og hvem den gjelder for. Det følger av første ledd at rettigheter og plikter etter arbeidsmarkedsloven kapittel 1-7 i utgangspunktet bare gjelder for personer med lovlig opphold i Norge og for dem som driver lovlig virksomhet her. Formålet er å avgrense regelverket til det norske arbeidsmarkedet. Kravet om lovlig opphold innebærer ikke et krav om arbeidstillatelse eller bosetting. Reglene i kapittel 8 og 9 kan i tillegg omfatte ulovlig opphold og virksomheter som driver ulovlig i Norge.
+Bestemmelsen regulerer arbeidsmarkedslovens rekkevidde og hvem den gjelder for. Det følger av første ledd at rettigheter og plikter etter arbeidsmarkedsloven kapittel 1-7 i utgangspunktet bare gjelder for personer med lovlig opphold i Norge og for dem som driver lovlig virksomhet he*r. Loven legger grunnlaget for gjennomføringen av arbeidsmarkedspolitikken i Norge. K*ravet om lovlig opphold innebærer ikke et krav om arbeidstillatelse eller bosetting. Reglene i kapittel 8 og 9 kan i tillegg omfatte ulovlig opphold og virksomheter som driver ulovlig i Norge.
 
 Selv om loven i utgangspunktet er avgrenset til Norge, kan arbeidsmarkedstiltak og tilhørende ytelser i enkelte tilfeller gjennomføres eller ytes utenfor Norges grenser. Dette gjelder i de tilfellene Nav har tildelt tiltaket og gjennomføringen i utlandet er hjemlet i forskrift eller følger av internasjonale forpliktelser.
+
+*Kravet om at virksomheten må drive «lovlig virksomhet» i Norge innebærer ikke at virksomheten må være etablert i Norge. Det avgjørende er at virksomheten tilbyr sine tjenester i Norge og driver i samsvar med norsk lovgivning der norsk regelverk oppstiller relevante krav. Virksomheter etablert i andre EØS-land kan derfor tilby arbeidsmarkedstjenester eller arbeidsmarkedstiltak i Norge så lenge virksomheten drives i samsvar med norsk rett og øvrige vilkår i regelverket er oppfylt.*
 
 #### Internasjonale forpliktelser
 

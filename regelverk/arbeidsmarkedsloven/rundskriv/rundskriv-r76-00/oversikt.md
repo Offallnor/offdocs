@@ -1,6 +1,6 @@
 # Rundskriv til arbeidsmarkedsloven
 
-Rundskriv til Arbeidsmarkedsloven. Lagt inn 2026-11-04 fra `original/arbeidsmarkedsloven-rundskriv-r76-00.html`. Dette er ikke lov- eller forskriftstekst.
+Rundskriv til Arbeidsmarkedsloven. Lagt inn 2026-11-23 fra `original/arbeidsmarkedsloven-rundskriv-r76-00.html`. Dette er ikke lov- eller forskriftstekst.
 
 ## Innhold
 

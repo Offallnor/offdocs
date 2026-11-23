@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 12 – Uføretrygd"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r12-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-23"
 paragraf: "§ 2-3"
 gjelder: "forskrift"
 ---
@@ -61,6 +61,8 @@ En person har i flere år arbeidet i samme 40 prosent stilling. Vedkommende har 
 
 ###### Tredje punktum – Medlem må be om endring av inntekt før uførhet
 
-Endring av inntekt før uførhet (IFU) forutsetter at medlem selv ber om dette. Dette må ses i sammenheng med reglene om reduksjon av uføretrygd ved inntekt over inntektsgrensen, jf. [folketrygdloven § 12-14](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-14).
+\[Endret 11/26\]
+
+Endring av inntekt før uførhet (IFU) forutsetter at medlem selv ber om dette. Dette må ses i sammenheng med reglene om reduksjon av uføretrygd ved inntekt ove*r bunnfradraget, j*f. [folketrygdloven § 12-14](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-14).
 
 Personen må skriftlig be om ny fastsettelse av IFU og inntektsøkningen må dokumenteres. Dokumentasjonen skal inneholde opplysninger fra arbeidsgiver som viser at inntektsøkningen ikke skyldes økt stillingsandel eller økt arbeidsinnsats. Det må for eksempel dokumenteres at inntektsøkningen ikke skyldes overtidsjobbing eller ekstravakter.

@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til arbeidsmarkedsloven"
 lov: "Arbeidsmarkedsloven"
 kilde: "original/arbeidsmarkedsloven-rundskriv-r76-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-23"
 paragraf: "§ 12"
 gjelder: "lov"
 ---

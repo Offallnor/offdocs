@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 12 – Uføretrygd"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r12-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-23"
 paragraf: "§ 2-1"
 gjelder: "forskrift"
 ---
@@ -21,13 +21,13 @@ Bestemmelsen inneholder i første ledd en unntaksbestemmelse for fastsettelse av
 
 Den fremtidige inntekten til en person som har blitt delvis ufør, kan være forholdsmessig høyere enn det vedkommende har hatt tidligere. Hovedregelen for fastsettelse av inntekt før uførhet (IFU) i [folketrygdloven § 12-9](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-9) første ledd første punktum kan gi uheldige utslag i slike tilfeller. Dette kan skyldes at personen har fått ny jobb som er bedre betalt enn den jobben vedkommende hadde tidligere. Det er derfor gitt en unntaksregel for fastsettelse av IFU for arbeidstakere. Etter unntaksregelen kan IFU fastsettes ut fra den fremtidige stillingsandelen.
 
-Bestemmelsen vil være aktuell i tilfeller hvor en person arbeider deltid, og tjener forholdsmessig mer enn hva vedkommende gjorde tidligere enten i full stilling eller i deltidsstilling. Bruk av hovedregelen for fastsettelse av IFU vil kunne medføre avslag på kravet om uføretrygd fordi en sammenligning av inntekt før og etter uførhet ikke tilsier en nedsatt inntektsevne med minst 50 prosent, eventuelt 40 prosent ved overgang fra arbeidsavklaringspenger, jf. [folketrygdloven § 12-7](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-7) første og andre ledd. Uføregraden kan også bli satt for lavt selv om det er vurdert at inngangsvilkårene for uføretrygd er oppfylt. Unntaksbestemmelsen skal sikre at personenfår korrekt uføregrad ut fra hvilken stillingsandel vedkommende klarer å arbeide i.
+Bestemmelsen vil være aktuell i tilfeller hvor en person arbeider deltid, og tjener forholdsmessig mer enn hva vedkommende gjorde tidligere enten i full stilling eller i deltidsstilling. Bruk av hovedregelen for fastsettelse av IFU vil kunne medføre avslag på kravet om uføretrygd fordi en sammenligning av inntekt før og etter uførhet ikke tilsier en nedsatt inntektsevne med minst 50 prosent, eventuelt 40 prosent ved overgang fra arbeidsavklaringspenger, jf. [folketrygdloven § 12-7](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-7) første og andre ledd. Uføregraden kan også bli satt for lavt selv om det er vurdert at inngangsvilkårene for uføretrygd er oppfylt. Unntaksbestemmelsen skal sikre at personen får korrekt uføregrad ut fra hvilken stillingsandel vedkommende klarer å arbeide i.
 
 Ved fastsetting av IFU etter andre ledd skal inntekten på virkningstidspunktet justeres opp til 100 prosent stilling og deretter nedjusteres ut fra endringer i folketrygdens grunnbeløp tilbake til uføretidspunktet.
 
 Unntaksregelen gjelder bare for arbeidstakere som innvilges gradert uføretrygd og har en fremtidig arbeidsinntekt. Selvstendig næringsdrivende omfattes ikke av unntaksregelen fordi de ikke har en angitt stillingsandel. En person som har både arbeids- og næringsinntekt kan omfattes av unntaksregelen for den delen som utgjør arbeidsinntekt, se nedenfor angående dette.
 
-Det er ikke krav til at medlem tidligere har vært i arbeid. Unntaksregelen kan derfor anvendes i tilfeller hvor personenfør uførheten oppstod for eksempel var under utdanning eller var hjemmeværende med små barn. Regelen kan også anvendes når personen var i deltidsarbeid før uførhet.
+Det er ikke krav til at medlem tidligere har vært i arbeid. Unntaksregelen kan derfor anvendes i tilfeller hvor personen før uførheten oppstod for eksempel var under utdanning eller var hjemmeværende med små barn. Regelen kan også anvendes når personen var i deltidsarbeid før uførhet.
 
 ###### Første ledd første punktum – Unntaket gjelder for arbeidstakere med ett eller flere arbeidsforhold
 
@@ -69,13 +69,13 @@ Personens inntektstap er:
 
 Etter [folketrygdloven § 12-7](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-7) er det et vilkår for innvilgelse av uføretrygd at inntektsevnen er varig nedsatt med minst halvparten, eventuelt 40 prosent ved overgang fra arbeidsavklaringspenger. Personen skal fortsette å arbeide i en 50 prosent stilling, men det reelle inntektstapet er bare på 34 prosent. Her er det en klar fordel for personen at IFU fastsettes etter unntaksregelen. Inntekten må deretter oppjusteres til 100 prosent stilling.
 
-Hadde IFU blitt fastsatt ut fra hovedregelen, ville personenfått avslag på kravet om uføretrygd. Ved bruk av unntaksbestemmelsen kan personen innvilges 50 prosent uføretrygd.
+Hadde IFU blitt fastsatt ut fra hovedregelen, ville personen fått avslag på kravet om uføretrygd. Ved bruk av unntaksbestemmelsen kan personen innvilges 50 prosent uføretrygd.
 
 IFU blir fastsatt til 496 456 kroner. Oppjustert til virkningstidspunktet utgjør dette 580 000 kroner. Inntekt etter uførhet (IEU) er lik fremtidig inntekt og blir 290 000 kroner.
 
 **Eksempel 2:**
 
-En person har ikke vært i arbeid de siste årene før uføretidspunktet. Når personenønsker å gå tilbake til arbeidslivet, blir vedkommende utsatt for en ulykke. Personen klarer likevel å arbeide i en 40 prosent stilling. Uføretidspunktet er mai 2011, og virkningstidspunktet er mars 2015. Videre inntekt i 40 prosent stilling utgjør 180 000 kroner. Justert opp til 100 prosent stilling blir dette:
+En person har ikke vært i arbeid de siste årene før uføretidspunktet. Når personen ønsker å gå tilbake til arbeidslivet, blir vedkommende utsatt for en ulykke. Personen klarer likevel å arbeide i en 40 prosent stilling. Uføretidspunktet er mai 2011, og virkningstidspunktet er mars 2015. Videre inntekt i 40 prosent stilling utgjør 180 000 kroner. Justert opp til 100 prosent stilling blir dette:
 
 180 000 x 100 /40 = 450 000 kr
 

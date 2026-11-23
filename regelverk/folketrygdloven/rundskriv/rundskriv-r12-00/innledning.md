@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 12 – Uføretrygd"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r12-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-23"
 ---
 
 # Rundskriv til ftrl kap 12 – Uføretrygd
@@ -13,14 +13,11 @@ Myndighet: NAV – Arbeids- og velferdsetaten
 Dato: 2000-11-01  
 Doknr/publisert: R12-00  
 Sammendrag: Rundskriv til ftrl kap 12: Uføretrygd Henvisninger: Folketrygdloven (1997) kap 12 , §12-1 , §12-2 , §12-3 , §12-4 , §12-5 , §12-6 , §12-7 , §12-8 , §12-9 , §12-10 , §12-11 , §12-12 , §12-13 , §12-14 , §12-15 , §12-16 , §12-17 , §12-18 , §12-19 , §12-21 \| Forskrift om utbetaling av uredusert ytelse (2014) §1 , §2 , §3 , §4 \| Forskrift om beregning av uføretrygd og pensjon mv. under opphold i institusjon (2014) §1 , §2 , §3 , §4 \| Overgangsregler for redusert ytelse under straffegjennomføring m.m. (2014) §1 , §2 , §3 , §4 , §5 \| Forskrift om uføretrygd fra folketrygden (2014) §2-1 , §2-2 , §2-3 , §3-1 , §3-2 , §3-3 , §3-4 , §3-5 , §3-6 , §3-7 , §4-1 , §4-2 , §5-1 , §5-2 , §5-3 , §5-4 , §6-1 , §6-2 , §6-3 , §7-4  
-Sist endret: 2026-10-01  
+Sist endret: 2026-11-20  
 
  
 
-Sist endret 01.10.2026, se  
-- § 12-14 første ledd og avsnitt markert 10/26  
-- § 12-14 sjette ledd: Forskriftshjemmel  
-- kommentarer til forskriftsbestemmelser til § 12-14 – Forskrift om uføretrygd fra folketrygden - Kapittel 3 § 3-1: Fribeløp ved varig tilrettelagt arbeid (VTA)
+Sist endret 20.11.2026, se § 12-9 og avsnitt markert 11/26
 
 ## Generell del – Kapittel 12 – Uføretrygd
 
@@ -764,4 +761,4 @@ For nærmere orientering om AFP i privat sektor, se rundskrivene i Hovednummer 6
 
 Omarbeidet 01.01.2015
 
-Sist endret endret 01.10.2026, se § 12-14 første ledd og avsnitt markert 10/26, § 12-14 sjette ledd: Forskriftshjemmel og kommentarer til forskriftsbestemmelser til § 12-14 – Forskrift om uføretrygd fra folketrygden - Kapittel 3 § 3-1: Fribeløp ved varig tilrettelagt arbeid (VTA)
+Sist endret 20.11.2026, se § 12-9 og avsnitt markert 11/26 .

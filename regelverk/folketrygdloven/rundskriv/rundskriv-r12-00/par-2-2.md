@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 12 – Uføretrygd"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r12-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-23"
 paragraf: "§ 2-2"
 gjelder: "forskrift"
 ---
@@ -49,7 +49,7 @@ IEU fastsettes til:
 
 ###### Første ledd andre punktum – Inntektsmuligheter som ikke benyttes
 
-I andre punktum presiseres det at inntektsmuligheter som personenikke benytter seg av, skal tas med ved fastsettelse av inntekt etter uførhet (IEU). Det er derfor nødvendig å foreta en konkret vurdering av om personens fremtidige inntekt er i samsvar med de inntektsmuligheter vedkommende har. Personen vil ha inntektsmuligheter som ikke benyttes hvis vedkommende for eksempel velger å arbeide i en lavere stillingsprosent enn det vedkommende helsemessig kan klare.
+I andre punktum presiseres det at inntektsmuligheter som personen ikke benytter seg av, skal tas med ved fastsettelse av inntekt etter uførhet (IEU). Det er derfor nødvendig å foreta en konkret vurdering av om personens fremtidige inntekt er i samsvar med de inntektsmuligheter vedkommende har. Personen vil ha inntektsmuligheter som ikke benyttes hvis vedkommende for eksempel velger å arbeide i en lavere stillingsprosent enn det vedkommende helsemessig kan klare.
 
 For selvstendig næringsdrivende må det vurderes hvilken arbeidsinnsats vedkommende kan utøve og hvilke sannsynlige inntekter dette kan innbringe. Valg av oppdrag og tidspunktet for disse kan være avgjørende her.
 
@@ -59,7 +59,7 @@ En person skal ha en fremtidig inntekt på 130 000 kroner. Dette er fra en 30 p
 
 **Eksempel 2:**
 
-En person har en 50 prosent restinntektsevne. Vedkommende er dataingeniør og har tidligere arbeidet som dette. Personenarbeider nå med undervisning, men kunne helsemessig ha fortsatt som dataingeniør. Videre inntekt er 240 000 kroner i en 50 prosent stilling. Ved å ta en 50 prosent jobb som dataingeniør kunne vedkommende få en inntekt på 300 000 kroner. Her skal det tas utgangspunkt i den inntekten vedkommende kunne hatt ved å endre arbeidsforhold.
+En person har en 50 prosent restinntektsevne. Vedkommende er dataingeniør og har tidligere arbeidet som dette. Personen arbeider nå med undervisning, men kunne helsemessig ha fortsatt som dataingeniør. Videre inntekt er 240 000 kroner i en 50 prosent stilling. Ved å ta en 50 prosent jobb som dataingeniør kunne vedkommende få en inntekt på 300 000 kroner. Her skal det tas utgangspunkt i den inntekten vedkommende kunne hatt ved å endre arbeidsforhold.
 
 **Eksempel 3:**
 
@@ -69,9 +69,9 @@ IEU fastsettes til den faktiske fremtidige inntekten på 80 000 kroner.
 
 **Eksempel 4:**
 
-En person er selvstendig næringsdrivende og arbeider som snekker. Inntekt før uførhet (IFU) er fastsatt til 550 000 kroner ut fra bestemmelsen i [folketrygdloven § 12-9](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-9) første ledd andre punktum. Vedkommende oppgir at videre inntekt er 100 000 kroner, og forklarer dette med at arbeidsinnsatsen skal reduseres til en dag per uke. Vedkommende skal fortsette som snekker men ta færre og mindre omfattende oppdrag. Hvis inntektsreduksjonen og reduksjonen i arbeidsinnsats samsvarer med de helsemessige begrensningene, vil personen anses for å utnytte alle inntektsmulighetene. Er det derimot sannsynlig at vedkommende på tross av reduksjonen i arbeidsinnsatsen kan ha en inntekt på 150 000 kroner ved å ta andre oppdrag, skal disse inntektsmulighetene tas med ved fastsettelsen av IEU.
+En person er selvstendig næringsdrivende og arbeider som snekker. Inntekt før uførhet (IFU) er fastsatt til 550 000 kroner ut fra bestemmelsen i [folketrygdloven § 12-9](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-9) første ledd andre punktum. Vedkommende oppgir at videre inntekt er 100 000 kroner, og forklarer dette med at arbeidsinnsatsen skal reduseres til en dag per uke. Vedkommende skal fortsette som snekker, men ta færre og mindre omfattende oppdrag. Hvis inntektsreduksjonen og reduksjonen i arbeidsinnsats samsvarer med de helsemessige begrensningene, vil personen anses for å utnytte alle inntektsmulighetene. Er det derimot sannsynlig at vedkommende på tross av reduksjonen i arbeidsinnsatsen kan ha en inntekt på 150 000 kroner ved å ta andre oppdrag, skal disse inntektsmulighetene tas med ved fastsettelsen av IEU.
 
-###### Andre ledd – Pensjonsgivende inntekter som ikke skal tas med ved fastsettng av inntekt etter uførhet (IEU)
+###### Andre ledd – Pensjonsgivende inntekter som ikke skal tas med ved fastsetting av inntekt etter uførhet (IEU)
 
 [FOR-2014-12-05-1602-§2-2](https://lovdata.no/nav/forskrift/2014-12-05-1602/%C2%A72-2)  
 
