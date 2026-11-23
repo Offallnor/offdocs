@@ -1,6 +1,6 @@
 # 7 Regjeringsmedlemmers habilitet i regjeringskonferanse
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 ## 7.1 Generelt om habilitetsreglene
 
@@ -38,4 +38,6 @@ Kultur- og likestillingsministeren (settestatsråd NN) har følgende merknad:
 
 «………………………………»
 
-Hvis mottakeren av notatet på foreleggelse ikke får oppnevnt settestatsråd (f.eks. fordi det ikke er praktisk mulig innen utløpet av fristen), kan saken ikke behandles i departementet. Statsråden inngir da kun merknad om at han eller hun er inhabil, og at notatet ikke er vurdert. Det kan ikke treffes beslutning om merknader til notatet, heller ikke at departementet eller statsråden ikke hadde merknader.
+Hvis mottakeren av notatet på foreleggelse ikke får oppnevnt settestatsråd (f.eks. fordi det ikke er praktisk mulig innen utløpet av fristen), kan saken ikke behandles i departementet. Statsråden inngir da kun merknad om at han eller hun er inhabil, og at notatet ikke er vurdert. Det kan ikke treffes beslutning om merknader til notatet, heller ikke at departementet eller statsråden ikke hadde merknader. Slike tilfeller skal angis slik:
+
+Notatet har vært forelagt …….. (eller alle statsrådene). Finansministeren er inhabil og har ikke vurdert saken.

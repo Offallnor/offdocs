@@ -1,6 +1,6 @@
 # 2 Hvilke saker skal behandles i regjeringskonferanse?
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 ## 2.1 Generelt
 

@@ -1,6 +1,6 @@
 # 1 Om regjeringskonferansene
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 ## 1.1 Regjeringens møter
 

@@ -7,7 +7,7 @@ Denne mappen har veiledere og retningslinjer for arbeidet i departementene. Stat
 | Dokument | Utgave | Utgitt av | Mappe |
 |---|---|---|---|
 | Om Kongen i statsråd | Ajourført oktober 2026 | Statsministerens kontor | `veiledere/om-kongen-i-statsrad/` |
-| Om r-konferanser | Sist oppdatert 11. mars 2026 | Statsministerens kontor | `veiledere/om-r-konferanser/` |
+| Om r-konferanser | Sist oppdatert 11. november 2026 | Statsministerens kontor | `veiledere/om-r-konferanser/` |
 | Veileder i statlig budsjettarbeid | Juni 2023 | Finansdepartementet | `veiledere/statlig-budsjettarbeid/` |
 | Digitaliseringsrundskrivet og Felles arkitektur for samhandling | Hentes hver uke | Digitaliseringsdirektoratet (rundskrivet utgis på regjeringen.no) | `veiledere/digitalisering/` |
 

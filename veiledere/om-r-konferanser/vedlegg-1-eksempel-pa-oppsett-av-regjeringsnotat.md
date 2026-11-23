@@ -1,11 +1,11 @@
 # Vedlegg 1 Eksempel på oppsett av regjeringsnotat
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 *I originalen er vedlegget et bilde. Teksten er skrevet av fra bildet. Plassholdere i vinkelparentes og prikker står slik de står i originalen.*
 
 ```text
-<Ministertittel – bestemt form>                       FORTROLIG
+<Statsrådstittel – bestemt form>                      FORTROLIG
                                                       jf. beskyttelsesinstr. § 4 tredje ledd.
                                                       Unntatt offentlighet, jf. offentleglova § 14
                                                       første ledd.
@@ -17,25 +17,26 @@ Regjeringens medlemmer
 <Tittel>
 
 1. Innledning
-(Kort beskrivelse av de politiske spørsmålene/forslagene regjeringen skal ta stilling til.)
+(Kort omtale av de politiske spørsmålene/forslagene regjeringen skal ta stilling til.)
 
 2. Bakgrunn
-(Kort omtale av problemet de foreslåtte tiltakene skal løse, og redegjørelse for tidligere
-behandling av saken i regjering eller Stortinget.)
+(Kort omtale av problemet de foreslåtte tiltakene skal løse, og helt overordnet om de politiske
+sidene av saken. Tidligere behandling av saken i regjering eller Stortinget refereres kort.)
 
 3. Alternative løsninger
-(Vurdering av alternative løsninger på problemstillingene saken reiser, herunder konsekvensene
-av å ikke gjøre noe.)
+(For å gi regjeringen reelle valgmuligheter skal det her skisseres alternative løsninger på
+problemet. Virkninger beskrives under pkt. 4, mens avveininger og vurderinger tas under pkt. 5.)
 
-4. Økonomiske og samfunnsmessige virkninger
-(Vurdering av forslagets økonomiske og samfunnsmessige virkninger. Hva som er relevant å
-belyse vil variere fra sak til sak. Hensikten er å få fram de viktigste konsekvensene for samfunnet
-som helhet, både negative og positive. Se eksempler under 3.8 i Rødt hefte. Konsekvenser for
-statsbudsjettet skal alltid framgå.)
+4. Økonomiske og andre samfunnsmessige virkninger
+(Her beskrives de mest sentrale virkningene av alternativene som er skissert, både negative og
+positive sider for samfunnet som helhet. Budsjettmessig håndtering skal alltid beskrives. Hvilke
+øvrige virkninger som bør belyses vil variere fra sak til sak, jf. eksempler under 3.8 i Rødt hefte.)
 
 5. Vurderinger og politiske avveininger
-Etter en avveining av de kryssende hensyn i saken har jeg kommet til å ville anbefale alternativ
-... Jeg har da lagt avgjørende vekt på ……………………………………………
+(Dette er den drøftende delen av et r-notat. Vurderingene skal baseres på alternativene som er
+skissert under punkt 3 og beskrivelsen av virkninger i punkt 4. I de politiske avveiningene skal
+det alltid framgå hvilke momenter som har vært avgjørende for den anbefalte konklusjonen i
+saken.)
 
 6. Foreleggelse
 Regjeringsnotatet har vært forelagt finansministeren og utenriksministeren.

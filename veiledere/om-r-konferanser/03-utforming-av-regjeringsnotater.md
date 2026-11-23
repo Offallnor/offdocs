@@ -1,6 +1,6 @@
 # 3 Utforming av notater til behandling i regjeringskonferanse
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 ## 3.1 Presentasjonsform
 
@@ -8,15 +8,15 @@ En sak som skal behandles i regjeringskonferanse, skal presenteres skriftlig i f
 
 Dersom det er tale om sammensatte saker, som for eksempel større lovarbeider eller omfattende meldinger til Stortinget, kan saken legges fram i flere notater. De kan behandles i samme regjeringskonferanse eller i flere runder. I sammensatte og kompliserte saker vil oppdeling i noen flere notater gi et bedre beslutningsgrunnlag for de enkelte problemstillingene regjeringen skal ta stilling til. Oppdeling i for mange notater kan imidlertid gjøre saken mindre oversiktlig for regjeringen. For eksempel trenger ikke hvert enkelt spørsmål i en lovproposisjon et eget notat, og alle notater skal ha operative konklusjoner på et nivå som regjeringen kan forholde seg til. Se ellers omtale av terskelen for å legge fram regjeringsnotat og omtale av de ulike sakstypene i kapittel 2.
 
-Når en sak skal presenteres i flere notater bør det benyttes en hovedtittel med undertitler til hvert enkelt notat. Notatene nummereres i den rekkefølgen de ønskes satt på dagsorden. Det er ikke nødvendig å gjenta innledning og bakgrunn i hvert enkelt notat, annet enn å vise til beskrivelsen i det første notatet og ev. omtale spesifikke momenter for det enkelte notatet. Slike «pakker» av r-notater til én r-konferanse bør normalt ikke overstige 5-6 notater.
+Når en sak skal presenteres i flere notater bør det benyttes en hovedtittel med undertitler til hvert enkelt notat. Notatene nummereres i den rekkefølgen de ønskes satt på dagsorden. Det er ikke nødvendig å gjenta innledning og bakgrunn i hvert enkelt notat, annet enn å vise til beskrivelsen i det første notatet og ev. omtale spesifikke momenter for det enkelte notatet. Slike «pakker» av r-notater til én r-konferanse bør normalt ikke overstige 5-6 notater. Notater i notatpakker merkes med (notat x av y).
 
 Eksempel:
 
-Endringer i plan- og bygningsloven mv. – Enklere tilgang til opplysninger om infrastruktur i grunnen mv. (notat 1)
+Endringer i plan- og bygningsloven mv. – Enklere tilgang til opplysninger om infrastruktur i grunnen mv. (notat 1 av 3)
 
-Endringer i plan- og bygningsloven mv. – Regler om konsekvensutredninger (notat 2)
+Endringer i plan- og bygningsloven mv. – Regler om konsekvensutredninger (notat 2 av 3)
 
-Endringer i plan- og bygningsloven mv. – Enklere klagesaksbehandling (notat 3)
+Endringer i plan- og bygningsloven mv. – Enklere klagesaksbehandling (notat 3 av 3)
 
 ## 3.2 Formålet med regjeringsnotater
 
@@ -26,7 +26,7 @@ I notatet skal det derfor redegjøres for hva saken gjelder, hvilke alternative 
 
 ## 3.3 Felles regjeringsnotater
 
-Dersom en sak berører flere statsråders ansvarsområde, kan det ofte være hensiktsmessig at den legges fram i et felles regjeringsnotat fra de aktuelle statsrådene. For eksempel bør regjeringsnotater av prinsipiell betydning for EØS- og schengensamarbeidet fremmes som felles notater mellom statsråden(e) med ansvar for det aktuelle saksområdet og utenriksministeren. Felles regjeringsnotater kan benyttes selv om berørte statsråder er uenige om forslag til konklusjon. I slike tilfeller er det viktig at det legges arbeid i en felles saksframstilling, og at uenigheten deretter kommer klart fram når det gjelder statsrådenes ulike vurderinger og respektive forslag til konklusjoner. I de tilfellene det sendes ut felles regjeringsnotater, skal navnet på den statsråden som har det tekniske ansvaret for utsendingen av notatet, stå øverst.
+Dersom en sak berører flere statsråders ansvarsområde, kan det ofte være hensiktsmessig at den legges fram i et felles regjeringsnotat fra de aktuelle statsrådene. For eksempel bør regjeringsnotater av prinsipiell betydning for EØS- og Schengensamarbeidet fremmes som felles notater mellom statsråden(e) med ansvar for det aktuelle saksområdet og utenriksministeren. Felles regjeringsnotater kan benyttes selv om berørte statsråder er uenige om forslag til konklusjon. I slike tilfeller er det viktig at det legges arbeid i en felles saksframstilling, og at uenigheten deretter kommer klart fram når det gjelder statsrådenes ulike vurderinger og respektive forslag til konklusjoner. I de tilfellene det sendes ut felles regjeringsnotater, skal navnet på den statsråden som har det tekniske ansvaret for utsendingen av notatet, stå øverst.
 
 ## 3.4 Avklaring i forkant av regjeringsbehandling
 
@@ -84,7 +84,7 @@ R-notater skal normalt ha følgende disposisjon og standardelementer:
 1. Innledning
 2. Bakgrunn
 3. Alternative løsninger
-4. Økonomiske og samfunnsmessige virkninger
+4. Økonomiske og andre samfunnsmessige virkninger
 5. Vurderinger og politiske avveininger
 6. Foreleggelse
 
@@ -96,27 +96,30 @@ Et kort første avsnitt som angir formålet med å fremme notatet, herunder de p
 
 2. Bakgrunn
 
-Det skal redegjøres for hvilket problem forslaget skal løse, og hva en vil oppnå med foreslåtte tiltak. I problembeskrivelsen må også de politiske sidene framheves.
+Det skal redegjøres kort for hvilket problem forslaget skal løse, og hva en vil oppnå med foreslåtte tiltak. I problembeskrivelsen må også de politiske sidene framheves.
 
-Inneholder et regjeringsnotat forslag om å legge fram proposisjoner eller meldinger til Stortinget, skal de sentrale problemstillingene tydelig fremgå. Inneholder proposisjonen eller meldingen forslag av prinsipiell karakter, skal det redegjøres for hva disse innebærer. Det er ikke tilstrekkelig å si at meldingen eller proposisjonen drøfter sentrale prinsipielle spørsmål, uten å redegjøre for hva de går ut på.
+Inneholder et regjeringsnotat forslag om å legge fram proposisjoner eller meldinger til Stortinget, skal de sentrale problemstillingene tydelig fremgå. Inneholder proposisjonen eller meldingen forslag av prinsipiell karakter, skal det redegjøres for hva disse innebærer.
 
-Dersom saken tidligere har vært behandlet i regjeringen, skal den tidligere beslutningen i saken kort refereres. Har Stortinget behandlet saken eller har noen av Stortingets organer ytret seg i saken, må det framgå om det har resultert i vedtak (for eksempel anmodningsvedtak), eller om det har vært gitt uttrykk for ønsker eller synspunkter inntatt i komitémerknader. Dersom notatet er en oppfølging av en utredning, for eksempel en NOU, opplyses det.
+I notater der det er relevant skal det alltid opplyses om følgende:
 
-Det skal alltid opplyses om lovforslag og forslag til forskrifter og annet regelverk har vært på alminnelig høring eller ikke. For saker som har vært på høring, skal det framgå hvilke hovedsynspunkter som er kommet til uttrykk i høringen og sentrale instansers merknader skal omtales.
-
-I saker der det etter sameloven kapittel 4 er plikt til å konsultere Sametinget og/eller andre samiske interesser, skal det gå fram om slike konsultasjoner har blitt gjennomført eller pågår. Det skal gå fram hva det er oppnådd enighet om, ev. med forbehold om regjeringsbehandling. Der det ikke er oppnådd enighet, skal den samiske konsultasjonspartens standpunkt gå fram, sammen med hovedinnholdet i den samiske partens begrunnelse eller vurderinger.
-
-Hvis saken helt unntaksvis gjelder et enkeltvedtak, skal det framgå om departementets vedtak vil være endelig eller om det vil kunne påklages til Kongen i statsråd.
+- Ev. tidligere beslutninger i regjeringen i samme sak.
+- Ev. behandling i Stortinget av saken, herunder anmodningsvedtak.
+- Hvorvidt saken følger opp en NOU eller andre utredninger.
+- Hvorvidt lovforslag og forslag til forskrifter og annet regelverk har vært på alminnelig høring.
+- Hvilke hovedsynspunkter som er kommet til uttrykk i en ev. høring og sentrale instansers merknader.
+- Hvis saken helt unntaksvis gjelder et enkeltvedtak, skal det framgå om departementets vedtak vil være endelig eller om det vil kunne påklages til Kongen i statsråd. Dersom det er gjennomført konsultasjoner med Sametinget, skal det framgå hva det er oppnådd enighet om. Der det ikke er oppnådd enighet, skal den samiske konsultasjonspartens standpunkt gå fram, sammen med hovedinnholdet i den samiske partens begrunnelse eller vurderinger.
 
 3. Alternative løsninger
 
-Det skal skisseres alternative løsninger på problemstillingene saken reiser, herunder konsekvensene ved å ikke gjøre noe.
+For å gi regjeringen reelle valgmuligheter skal det skisseres alternative løsninger på problemstillingene saken reiser. Alternativene kan, men må ikke være gjensidige utelukkende, det kan være å helt eller delvis gjennomføre endring, eller kombinasjoner av disse. Virkninger av de skisserte alternativene beskrives under punkt 4, mens politiske avveininger og vurderinger av konsekvenser for måloppnåelse drøftes under punkt 5.
 
-4. Økonomiske og samfunnsmessige virkninger
+4. Økonomiske og andre samfunnsmessige virkninger
 
-Her skal det gis en vurdering av forslagets økonomiske og samfunnsmessige virkninger. Det skal alltid redegjøres for konsekvenser for statsbudsjettet, herunder eventuelle flerårige effekter, og bevilgningsmessig dekning for det som foreslås. Deretter skal andre vesentlige virkninger av forslaget belyses. Et forslag kan være godt politisk begrunnet, men likevel ha negative samfunnsmessige sider som bør være kjent når regjeringen skal fatte en beslutning. Et godt r-notat får fram både argumenter for og mot forslag som fremmes. Politiske vurderinger og avveininger rundt forslagets virkninger skal framgå under punkt 5.
+Hensikten med denne delen av et r-notat er å beskrive de mest sentrale virkningene for samfunnet av alternativene som er vurdert. Et alternativ kan være godt politisk begrunnet, men likevel ha negative samfunnsmessige sider som bør være kjent når regjeringen skal fatte en beslutning.
 
-Hvilke samfunnsmessige virkninger som er relevante å trekke fram vil variere fra sak til sak. Eksempler på slike virkninger kan være:
+Det skal alltid redegjøres for konsekvenser for statsbudsjettet, herunder eventuelle flerårige effekter, og bevilgningsmessig dekning for det som foreslås.
+
+Hvilke samfunnsmessige virkninger som er relevante å beskrive vil variere fra sak til sak. Eksempler på slike virkninger kan være:
 
 - Konsekvenser for nasjonale sikkerhetsinteresser.
 - Positiv eller negativ effekt på arbeidstilbudet.
@@ -128,11 +131,11 @@ Hvilke samfunnsmessige virkninger som er relevante å trekke fram vil variere fr
 - Positive eller negative virkninger for natur og miljø.
 - Samfunnsøkonomisk nettonytte av ulike konseptvalg, avbøtende vilkår mv. (typisk for samferdselsprosjekter og konsesjoner til kraftproduksjon og strømnett).
 
-Listen ovenfor er verken uttømmende eller ment som en sjekkliste for alle saker. Hensikten med denne delen av et r-notat er å få fram de mest sentrale virkningene for samfunnet som helhet, både negative og positive.
+Listen ovenfor er verken uttømmende eller ment som en sjekkliste for alle saker.
 
 5. Vurderinger og politiske avveininger
 
-På basis av forslagets økonomiske og samfunnsmessige virkninger presenteres de politiske avveiningene i saken. I vurderingene bør det framgå hvilke argumenter som har vært avgjørende for den anbefalte løsningen. Der det er relevant bør det også gis en tilråding om gjennomføring, eksempelvis en tidsplan for arbeidet, eventuelle behov for videre utredninger, overgangsordninger mv.
+Dette er den drøftende delen av et r-notat. Vurderingene skal baseres på alternativene som er skissert under punkt 3 og beskrivelsen i punkt 4 av økonomiske og andre samfunnsmessige virkninger, men utdype de politiske avveiningene i saken. Det skal alltid framgå hvilke momenter som har vært avgjørende for den anbefalte konklusjonen i saken. Der det er relevant bør det også gis en tilråding om gjennomføring, eksempelvis en tidsplan for arbeidet, eventuelle behov for videre utredninger, overgangsordninger mv.
 
 ## 3.9 Forslag til konklusjon
 
@@ -149,9 +152,9 @@ b. Det gis unntak for…
 c. Endringene gjennomføres…
 3. Etter høringen kommer næringsministeren og justis- og beredskapsministeren tilbake til regjeringen med en nærmere vurdering av hvordan forslagene eventuelt bør følges opp.
 
-Dersom forslaget til konklusjon inneholder flere beslutningspunkter, skal disse utformes i nummererte punkter. Nummerering er ikke nødvendig dersom konklusjonen bare består av ett punkt. Det skal ikke benyttes unummererte lister som kulepunkter eller strekpunkter. Skal et beslutningspunkt deles opp i flere underpunkter, benyttes bokstaver (a. b. c. osv.)
+Dersom forslaget til konklusjon inneholder flere beslutningspunkter, skal disse utformes i nummererte punkter. Det skal ikke benyttes unummererte lister som kulepunkter eller strekpunkter. Skal et beslutningspunkt deles opp i flere underpunkter, benyttes bokstaver (a. b. c. osv.)
 
-Regjeringen konkluderer normalt ikke med et konkret framleggelsestidspunkt for proposisjoner og meldinger eller lignende når arbeidet planlegges. I slike tilfeller bør man benytte formuleringen «det tas sikte på framleggelse i (måned, år/årstid, år). Normalt bør man heller ikke i sluttfasen legge opp til at konklusjonen spesifiserer når et stortingsdokument, handlingsplan e.l. legges frem.
+Regjeringen konkluderer normalt ikke med et konkret framleggelsestidspunkt for proposisjoner og meldinger eller lignende når arbeidet planlegges. I slike tilfeller bør man benytte formuleringen «det tas sikte på framleggelse i (måned, år/årstid, år)». Normalt bør man heller ikke i sluttfasen legge opp til at konklusjonen spesifiserer når et stortingsdokument, handlingsplan e.l. legges frem.
 
 ## 3.10 Bruk av vedlegg
 
@@ -175,7 +178,7 @@ Tilleggsnotater vil bli ført opp på dagsorden sammen med det opprinnelige nota
 
 ## 3.12 Notater gradert etter beskyttelsesinstruksen eller sikkerhetsloven
 
-Fagdepartementene må vurdere om et regjeringsnotat inneholder opplysninger av en slik karakter at det trenger å beskyttes etter reglene i beskyttelsesinstruksen eller i sikkerhetsloven. Har notatet et slikt innhold, må det merkes med korrekt gradering og behandles i samsvar med reglene som gjelder for graderte dokumenter. Ev. oversendelsesbrev må også merkes i henhold til reglene for det aktuelle graderingsnivå, og forsendelsen mellom departementene gjøres slik det aktuelle regelverket krever.
+Fagdepartementene må vurdere om et regjeringsnotat inneholder opplysninger av en slik karakter at det trenger å beskyttes etter reglene i beskyttelsesinstruksen eller i sikkerhetsloven. Har notatet et slikt innhold, må det merkes med korrekt gradering og behandles i samsvar med reglene som gjelder for graderte dokumenter. Tittelen på r-notatet skal normalt ikke i seg selv inneholde gradert informasjon, men utformes slik at den kan omtales i fortrolig dagsorden og protokoll. Dersom tittelen i et gradert notat også er gradert skal det opplyses om dette ved oppmelding. Ev. oversendelsesbrev må også merkes i henhold til reglene for det aktuelle graderingsnivå, og forsendelsen mellom departementene gjøres slik det aktuelle regelverket krever.
 
 ## 3.13 Notater som inneholder innsideinformasjon
 

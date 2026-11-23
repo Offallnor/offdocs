@@ -1,6 +1,6 @@
 # 9 Oppbevaring og tilgang til regjeringsnotater mv.
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 ## 9.1 Sittende regjeringer
 

@@ -1,6 +1,6 @@
 # 4 Foreleggelsesplikt for andre statsråder og Statsministerens kontor
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 ## 4.1 Foreleggelsesplikten generelt
 
@@ -90,7 +90,7 @@ Kommunal- og distriktsministerens merknad:
 
 Det må alltid klart framgå om statsråden som avgir merknad er uenig i konklusjonen eller ikke. Rene støtteerklæringer som ikke inneholder nye opplysninger, bør unngås. Dersom statsråden ikke er enig i avsenderens forslag til konklusjon, skal han eller hun normalt foreslå en alternativ konklusjon. Hvis en merknad faller bort dersom den innarbeides i teksten eller ivaretas i konklusjonen, skal dette framgå ved oversendelse. Inneholder konklusjonen i utkastet til regjeringsnotat flere nummererte punkter, angis det hvilket eller hvilke punkt(er) som ønskes endret.
 
-Den alternative konklusjonen bør ta utgangspunkt i den foreslåtte konklusjonen. Det skal da brukes gjennomstreking eller kursivering av ord for å vise hvilke ord som foreslås hhv. tatt ut eller satt inn. For eksempel kan dette skrives «Konklusjonspunkt 1-3. Som finansministeren. 4. Arbeidsgruppen består av FIN (leder), HOD, KD, KUD, LMD og FIN.».
+Den alternative konklusjonen bør ta utgangspunkt i den foreslåtte konklusjonen. Det skal da brukes gjennomstreking eller kursivering av ord for å vise hvilke ord som foreslås hhv. tatt ut eller satt inn. For eksempel kan dette skrives «Konklusjonspunkt 1-3. Som finansministeren. 4. Arbeidsgruppen består av FIN (leder), HOD, ~~KD~~, KUD, LMD og FIN.».
 
 Dersom mottakende departement mener at fristen for merknader til et utkast til r-notat er satt uforsvarlig kort, må dette drøftes direkte med avsendende departement. Dersom avsenderen fastholder en frist som mottakeren mener er uforsvarlig, kan en be om at det tas inn en merknad om dette (se nærmere punkt 4.5). I regjeringsnotatet som meldes opp til behandling skal det alltid gå klart fram hva som har vært tilbakemeldingen fra alle statsrådene som har hatt utkastet til regjeringsnotat på foreleggelse.
 
@@ -121,6 +121,10 @@ Dersom saken har vært behandlet av en settestatsråd (se kapittel 7), skal dett
 Finansministeren (v/settestatsråd NN) har følgende merknad:
 
 «[merknad i kursiv]»
+
+Dersom det i foreleggelsesrunden har vist seg at en statsråd er inhabil og det ikke er oppnevnt settestatsråd (se kapittel 7), skrives det slik:
+
+Notatet har vært forelagt …….. (eller alle statsrådene). Finansministeren er inhabil og har ikke vurdert saken.
 
 Dersom statsråden ikke er enig i avsenderens forslag til konklusjon, må den alternative konklusjonen tas inn på slutten av merknaden slik:
 

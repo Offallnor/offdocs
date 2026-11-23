@@ -1,6 +1,6 @@
 # Forord
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 Regjeringskonferansene er viktige møter for den politiske avklaringen av saker som er til behandling i forvaltningen. Det betyr mye for regjeringens arbeid at regjeringskonferansene er godt forberedt. Disse retningslinjene skal bidra til det.
 
@@ -17,4 +17,4 @@ Anne Nafstad Lyftingsmo
 
 regjeringsråd
 
-Sist oppdatert 11. mars 2026
+Sist oppdatert 11. november 2026

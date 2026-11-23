@@ -1,6 +1,6 @@
 # 5 Oppmelding og utsendelse av saker til regjeringskonferanse – dagsorden
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 ## 5.1 Oppmelding
 
@@ -63,9 +63,7 @@ For regjeringsnotater med sensitivt innhold bør det benyttes korte, generelle o
 
 ## 5.6 Avvisning av notater
 
-Saker som meldes opp etter at fristen er utløpt, vil ikke bli ført opp på dagsordenen. Notatet skal være sendt innen fristen (se punkt 5.3). Dersom det framgår av regjeringsnotatet at det ikke er forelagt finansministeren og andre berørte statsråder, eller ikke er egnet som beslutningsgrunnlag for regjeringen på grunn av notatets form eller manglende prosess etter foreleggelse, vil saken normalt heller ikke bli akseptert ført opp på dagsordenen. Tilsvarende gjelder når notatet har vært forelagt med for kort frist (se punkt 4.5), mangler konklusjon eller – inklusive merknader fra andre statsråder
-
-- overstiger tre sider.
+Saker som meldes opp etter at fristen er utløpt, vil ikke bli ført opp på dagsordenen. Notatet skal være sendt innen fristen (se punkt 5.3). Dersom det framgår av regjeringsnotatet at det ikke er forelagt finansministeren og andre berørte statsråder, eller ikke er egnet som beslutningsgrunnlag for regjeringen på grunn av notatets form eller manglende prosess etter foreleggelse, vil saken normalt heller ikke bli akseptert ført opp på dagsordenen. Tilsvarende gjelder når notatet har vært forelagt med for kort frist (se punkt 4.5), mangler konklusjon eller – inklusive merknader fra andre statsråder – overstiger tre sider.
 
 Eksempler på saker som ikke er egnet som beslutningsgrunnlag kan være dersom notatet ikke har tilstrekkelig fokus på de politiske sidene av saken, dersom notatet har en vanskelig tilgjengelig eller uklar saksframstilling, eller dersom notatet og innkomne merknader indikerer at dialogen mellom de berørte departementene ikke har vært god nok.
 

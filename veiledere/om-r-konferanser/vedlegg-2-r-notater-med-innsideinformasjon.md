@@ -1,10 +1,10 @@
-# Vedlegg 2 Retningslinjer for arbeid med r-notater med innsideinformasjon
+# Vedlegg 2 Retningslinjer for arbeid med r-notater som inneholder innsideinformasjon
 
-*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. mars 2026.*
+*Om r-konferanser. Retningslinjer fra Statsministerens kontor, sist oppdatert 11. november 2026.*
 
 ## 1. Innledning
 
-For behandling av regjeringsnotater er det gitt strenge retningslinjer for å unngå at innholdet blir kjent for uvedkommende, jf. punkt 1.1 og 1.3. I visse tilfeller vil imidlertid skadevirkningen av lekkasjer fra regjeringsnotater kunne være særlig stor. Det gjelder blant annet notater som inneholder innsideinformasjon, jf. også nærmere omtale i Politisk håndbok punkt 4.4 om regler og rutiner om behandling av innsideinformasjon. Ved behandlingen av slike notater med innsideinformasjon, er en underlagt kravene i verdipapirhandelloven og markedsmisbruksforordningen (MAR) om tilbørlig informasjonshåndtering, taushetsplikt, misbruk mv. Virksomheter som regelmessig er i besittelse av innsideinformasjon skal ha rutiner for sikker behandling av innsideinformasjon. I slike tilfeller skal disse retningslinjene følges. Brudd på reglene om innsideinformasjon er forbundet med straffeansvar.
+For behandling av regjeringsnotater er det gitt strenge retningslinjer for å unngå at innholdet blir kjent for uvedkommende, jf. punkt 1.1 og 1.3. I visse tilfeller vil imidlertid skadevirkningen av lekkasjer fra regjeringsnotater kunne være særlig stor. Det gjelder blant annet notater som inneholder innsideinformasjon, jf. også nærmere omtale i Håndbok for politisk ledelse del II punkt 2.5 om regler og rutiner om behandling av innsideinformasjon. Ved behandlingen av notater med innsideinformasjon, er en underlagt kravene i verdipapirhandelloven og markedsmisbruksforordningen (MAR) om tilbørlig informasjonshåndtering, taushetsplikt, misbruk mv. Virksomheter som regelmessig er i besittelse av innsideinformasjon skal ha rutiner for sikker behandling av innsideinformasjon. I slike tilfeller skal disse retningslinjene følges. Brudd på reglene om innsideinformasjon er forbundet med straffeansvar.
 
 ## 2. Hva er innsideinformasjon
 
