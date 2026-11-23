@@ -1,0 +1,34 @@
+kode	kategori
+00	Klinisk undersøkelse uten tilleggsundersøkelser utenfor sykehus
+10	Klinisk undersøkelse uten tilleggsundersøkelser i sykehus
+20	Bildediagnostikk
+22	Klinisk melding når det vites at det er gjort cytologisk undersøkelse av primærsvulst eller metastase som bekrefter diagnosen
+23	Stråledata og NPR data og/eller dødsattest. Dødsattest og NPR data. 
+29	Prostata-spesifikt antigen
+30	Biokjemisk undersøkelse
+31	Endoskopisk undersøkelse
+32	Cytologisk undersøkelse fra primærsvulst
+33	Blodutstryk
+34	Benmargsutstryk
+35	Spinalvæskeundersøkelse
+36	Cytologisk undersøkelse av metastase
+37	Cytologisk undersøkelse av lokalt residiv
+38	Cytologisk undersøkelse med immunfenotyping
+39	Cytologisk undersøkelse, usikkert om fra primærsvulst eller metastase
+40	Operativt inngrep (eksplorativt eller terapeutisk) uten morfologisk undersøkelse
+41	Obduksjon uten histologisk undersøkelse
+45	Ploiditetsanalyse av primærtumor
+46	Hormonreceptoranalyse av primærtumor
+47	Molekylærgenetisk undersøkelse av primærtumor
+57	Histologisk undersøkelse av lokoregionalt residiv
+60	Histologisk undersøkelse av metastase
+68	Kombinasjon av histologisk undersøkelse av metastase og obduksjon
+70	Histologisk undersøkelse av primær solid svulst og alle non-solide svulster som ikke kodes basis 74, 75, 76
+72	Klinisk melding når det vites at det er gjort histologisk undersøkelse av primærsvulst eller metastase som bekrefter diagnosen
+74	Histologisk undersøkelse med elektronmikroskopi
+75	Histologisk undersøkelse med immunfenotyping
+76	Histologisk undersøkelse med cytogenetisk undersøkelse
+78	Histologisk undersøkelse av primærsvulst og obduksjon
+79	Histologisk undersøkelse, ukjent om vevsprøven er fra primærsvulst eller metastase
+90	Dødsmelding
+98	Vevsprøve (histologisk eller cytologisk) uten svulstvev

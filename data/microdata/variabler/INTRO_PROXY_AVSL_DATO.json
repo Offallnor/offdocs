@@ -44,7 +44,7 @@
  "dataStore": "no.ssb.fdb",
  "globalTemporalCoverage": {
   "start": -1096,
-  "stop": 20766
+  "stop": 20778
  },
  "id": "INTRO_PROXY_AVSL_DATO@no.ssb.fdb",
  "identifierVariables": [
@@ -117,5 +117,5 @@
  ],
  "temporality": "STATUS",
  "updatedAt": 1792156648,
- "version": "59.0.0.0"
+ "version": "60.0.0.0"
 }

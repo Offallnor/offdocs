@@ -44,7 +44,7 @@
  "dataStore": "no.ssb.fdb",
  "globalTemporalCoverage": {
   "start": -1096,
-  "stop": 20766
+  "stop": 20778
  },
  "id": "ARBEIDSSOKER_REG_STAT@no.ssb.fdb",
  "identifierVariables": [
@@ -466,5 +466,5 @@
  ],
  "temporality": "STATUS",
  "updatedAt": 1760683763,
- "version": "59.0.0.0"
+ "version": "60.0.0.0"
 }

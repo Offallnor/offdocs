@@ -1,0 +1,125 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20773
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20773
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.fhi.kreftregisteret",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20778
+ },
+ "id": "S_KJEMO@no.fhi.kreftregisteret",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "En enkelt kreftsykdom hos en pasient, inkludert spredning, tilbakefall og progresjon av den samme kreftsykdommen. En pasient kan ha flere krefttilfeller.",
+    "label": "Krefttilfelle",
+    "name": "KRG_KREFTTILFELLE"
+   },
+   "label": "Krefttilfelle-indentifikator",
+   "name": "KRG_TILFELLEID",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for krefttilfelle i microdata",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20773
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert løpenummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Kjemoterapi",
+  "name": "S_KJEMO",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Informasjon om kjemoterapi som fylles ut manuelt av behandlende lege (ja/nei). \nFor informasjon om medikamentell kreftbehandling som pasienten har mottatt, se \"behandlingsregime\" og relaterte variabler.\n\nFor mer informasjon om variabelen, besøk Kreftregisterets [metadatabase](https://metadata.kreftregisteret.no/variables/detail/114)",
+    "validPeriod": {
+     "start": -6209
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Nei",
+       "code": "0"
+      },
+      {
+       "category": "Ja",
+       "code": "1"
+      },
+      {
+       "category": "Vet ikke",
+       "code": "9"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "S_KJEMO",
+ "populationDescription": "Informasjon om kjemoterapi som fylles ut manuelt av behandlende lege (ja/nei). \nFor informasjon om medikamentell kreftbehandling som pasienten har mottatt, se \"behandlingsregime\" og relaterte variabler.",
+ "sensitivityLevel": "PERSON_SPECIAL",
+ "subjectFields": [
+  "Helse",
+  "Helsetjenester"
+ ],
+ "temporalCoverage": {
+  "start": -25567,
+  "stop": 20773
+ },
+ "temporality": "FIXED",
+ "updatedAt": 1794909969,
+ "version": "1.0.0.0"
+}

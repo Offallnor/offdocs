@@ -44,7 +44,7 @@
  "dataStore": "no.ssb.fdb",
  "globalTemporalCoverage": {
   "start": -1096,
-  "stop": 20766
+  "stop": 20778
  },
  "id": "SB14019_KOSTRA_DRIFTSUTGIFTER_YTELSE_LIVSOPPHOLD@no.ssb.fdb",
  "identifierVariables": [
@@ -1671,5 +1671,5 @@
  },
  "temporality": "ACCUMULATED",
  "updatedAt": 1708361066,
- "version": "59.0.0.0"
+ "version": "60.0.0.0"
 }

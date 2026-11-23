@@ -1,0 +1,5 @@
+kode	kategori
+1	Akutt = uten opphold eller innen 24 timer
+4	Planlagt
+5	Hastegrad ikke satt - tilbakeføring av pasient fra annet sykehus
+NA	Ikke rapportert (missing)

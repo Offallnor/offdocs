@@ -1,0 +1,19 @@
+kode	kategori
+00	Intet inngrep
+01	Biopsi uten kirurgisk inngrep/eksplorasjon
+02	Kirurgisk åpning/eksplorasjon med eller uten biopsi
+07	Uttak av vaktpostlymfeknute
+09	Lokal ablativ terapi av primærsvulst med eller uten tidligere/samtidig diagnostisk biopsi
+10	Kirurgisk fjernelse av hele eller deler av det affiserte organet med primærsvulst (evt. med lymfadenektomi)
+11	Reseksjon av affisert organ med primærsvulst (evt. med lymfadenektomi)
+12	Lymfadenektomi
+13	Transvesikal reseksjon
+14	Større spesialiserte kirurgiske prosedyrer
+16	Mastektomi, lymfadenektomi ikke spesifisert
+19	Brystbevarende kirurgi, lymfadenektomi ikke spesifisert
+20	Spesialiserte kirurgiske prosedyrer
+35	Utvidet eksisjon etter tidligere eksisjon av primærsvulst.
+95	Biopsi fra metastase, lokalt residiv eller uklassifisert tumor
+96	Cytologisk prøve
+97	Terapeutisk inngrep mot metastase, lokalt residiv eller uklassifisert tumor
+99	Mangelfulle opplysninger om kirurgisk inngrep

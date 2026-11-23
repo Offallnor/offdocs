@@ -44,7 +44,7 @@
  "dataStore": "no.ssb.fdb",
  "globalTemporalCoverage": {
   "start": -1096,
-  "stop": 20766
+  "stop": 20778
  },
  "id": "SB12362_KOSTRA_LONNSUTGIFTER_F_ADM_KOMM@no.ssb.fdb",
  "identifierVariables": [
@@ -6545,5 +6545,5 @@
  },
  "temporality": "ACCUMULATED",
  "updatedAt": 1717144192,
- "version": "59.0.0.0"
+ "version": "60.0.0.0"
 }

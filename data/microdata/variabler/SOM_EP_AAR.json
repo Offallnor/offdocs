@@ -1,0 +1,158 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20755
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20755
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.fhi.npr",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20778
+ },
+ "id": "SOM_EP_AAR@no.fhi.npr",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Tidsperiode hvor pasienten får helsehjelp ved én og samme helseinstitusjon for ett og samme helseproblem. En episode kan være en poliklinisk kontakt eller et avdelingsopphold (dagopphold eller døgnopphold). En episode betegner aktivitet, ikke bare behandling.",
+    "label": "Episode NPR",
+    "name": "NPR_EPISODE"
+   },
+   "label": "Episodeidentifikator",
+   "name": "NPR_EPISODEID",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for NPR-episode",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20755
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert episodeidentifikator",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Somatiske sykehus - Episode - Rapporteringsår",
+  "name": "SOM_EP_AAR",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Rapporteringsår knyttet til episode ved somatiske sykehus.\n                       \nFor mer informasjon om variabelen, gå inn på variabelutforskeren på [Helsedata.no](https://helsedata.no). \n",
+    "validPeriod": {
+     "start": 10957
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "2016",
+       "code": "2016"
+      },
+      {
+       "category": "2017",
+       "code": "2017"
+      },
+      {
+       "category": "2018",
+       "code": "2018"
+      },
+      {
+       "category": "2019",
+       "code": "2019"
+      },
+      {
+       "category": "2020",
+       "code": "2020"
+      },
+      {
+       "category": "2021",
+       "code": "2021"
+      },
+      {
+       "category": "2022",
+       "code": "2022"
+      },
+      {
+       "category": "2023",
+       "code": "2023"
+      },
+      {
+       "category": "2024",
+       "code": "2024"
+      },
+      {
+       "category": "2025",
+       "code": "2025"
+      },
+      {
+       "category": "Ikke rapportert (missing)",
+       "code": "NA"
+      }
+     ],
+     "missingValues": [
+      "NA"
+     ]
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "SOM_EP_AAR",
+ "populationDescription": "Episoder ved somatiske sykehus og klinikker. Episode betegner tidsperiode hvor pasienten får helsehjelp for ett og samme helseproblem i form av en poliklinisk kontakt, dagbehandling eller døgnopphold. En episode betegner aktivitet, ikke bare behandling.",
+ "sensitivityLevel": "PERSON_SPECIAL",
+ "subjectFields": [
+  "Norsk pasientregister"
+ ],
+ "temporalCoverage": {
+  "start": -25567,
+  "stop": 20755
+ },
+ "temporality": "FIXED",
+ "updatedAt": 1794904626,
+ "version": "1.0.0.0"
+}

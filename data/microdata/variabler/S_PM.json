@@ -1,0 +1,220 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20773
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20773
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.fhi.kreftregisteret",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20778
+ },
+ "id": "S_PM@no.fhi.kreftregisteret",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "En enkelt kreftsykdom hos en pasient, inkludert spredning, tilbakefall og progresjon av den samme kreftsykdommen. En pasient kan ha flere krefttilfeller.",
+    "label": "Krefttilfelle",
+    "name": "KRG_KREFTTILFELLE"
+   },
+   "label": "Krefttilfelle-indentifikator",
+   "name": "KRG_TILFELLEID",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for krefttilfelle i microdata",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20773
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert løpenummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "pM",
+  "name": "S_PM",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Patologisk M-stadium.\n\nFor mer informasjon om variabelen, besøk Kreftregisterets [metadatabase](https://metadata.kreftregisteret.no/variables/detail/182)",
+    "validPeriod": {
+     "start": 8401,
+     "stop": 13878
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "0",
+       "code": "0"
+      },
+      {
+       "category": "1",
+       "code": "1"
+      },
+      {
+       "category": "1a",
+       "code": "1a"
+      },
+      {
+       "category": "1a(0)",
+       "code": "1a(0)"
+      },
+      {
+       "category": "1a(1)",
+       "code": "1a(1)"
+      },
+      {
+       "category": "1b",
+       "code": "1b"
+      },
+      {
+       "category": "1b(0)",
+       "code": "1b(0)"
+      },
+      {
+       "category": "1b(1)",
+       "code": "1b(1)"
+      },
+      {
+       "category": "1c",
+       "code": "1c"
+      },
+      {
+       "category": "1c(0)",
+       "code": "1c(0)"
+      },
+      {
+       "category": "1c(1)",
+       "code": "1c(1)"
+      },
+      {
+       "category": "1d",
+       "code": "1d"
+      },
+      {
+       "category": "1d(0)",
+       "code": "1d(0)"
+      },
+      {
+       "category": "1d(1)",
+       "code": "1d(1)"
+      },
+      {
+       "category": "X",
+       "code": "X"
+      },
+      {
+       "category": "Ukjent",
+       "code": "Y"
+      }
+     ],
+     "missingValues": []
+    }
+   },
+   {
+    "description": "Patologisk M-stadium.\n\nFor mer informasjon om variabelen, besøk Kreftregisterets [metadatabase](https://metadata.kreftregisteret.no/variables/detail/182)",
+    "validPeriod": {
+     "start": 13879,
+     "stop": 20088
+    },
+    "valueDomain": {
+     "delta": {
+      "insert": {},
+      "remove": [
+       15
+      ],
+      "reorder": [],
+      "replace": {}
+     },
+     "missingValues": []
+    }
+   },
+   {
+    "description": "Patologisk M-stadium.\n\nFor mer informasjon om variabelen, besøk Kreftregisterets [metadatabase](https://metadata.kreftregisteret.no/variables/detail/182)",
+    "validPeriod": {
+     "start": 20089
+    },
+    "valueDomain": {
+     "delta": {
+      "insert": {
+       "11": {
+        "category": "1c1",
+        "code": "1c1"
+       },
+       "12": {
+        "category": "1c2",
+        "code": "1c2"
+       }
+      },
+      "remove": [],
+      "reorder": [],
+      "replace": {}
+     },
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "S_PM",
+ "populationDescription": "Patologisk M-stadium.",
+ "sensitivityLevel": "PERSON_SPECIAL",
+ "subjectFields": [
+  "Helse",
+  "Helsetjenester"
+ ],
+ "temporalCoverage": {
+  "start": -25567,
+  "stop": 20773
+ },
+ "temporality": "FIXED",
+ "updatedAt": 1794909969,
+ "version": "1.0.0.0"
+}

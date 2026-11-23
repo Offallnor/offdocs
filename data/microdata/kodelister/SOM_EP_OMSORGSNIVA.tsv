@@ -1,0 +1,7 @@
+kode	kategori
+1	Døgnopphold
+2	Dagbehandling
+3	Poliklinisk konsultasjon/kontakt
+8	Poliklinisk kontakt inneliggende pasient stråleterapi, radiologi, NM
+0	Ugyldig verdi - ikke treff mot kodeverk
+NA	Ikke rapportert (missing)

@@ -44,7 +44,7 @@
  "dataStore": "no.ssb.fdb",
  "globalTemporalCoverage": {
   "start": -1096,
-  "stop": 20766
+  "stop": 20778
  },
  "id": "KJORETOY_MAALERAVLESNING_KM@no.ssb.fdb",
  "identifierVariables": [
@@ -133,5 +133,5 @@
  ],
  "temporality": "STATUS",
  "updatedAt": 1783077002,
- "version": "59.0.0.0"
+ "version": "60.0.0.0"
 }

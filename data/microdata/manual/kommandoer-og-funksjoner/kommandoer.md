@@ -1565,15 +1565,17 @@ Vis hjelpetekst for den spesifiserte funksjonen. `help-function` uten parametre 
 
 `help-function sqrt` Vis hjelpeteksten til `sqrt`-funksjonen
 
+### citation
+
+`citation `
+
+Lag en sitering til datakildene brukt i analysen
+
 ### history
 
 `history `
 
 List ut alle kommandoene i den gjeldende kommandolinjeøkten uten resultatene. Dette kan være nyttig for å få oversikt over arbeidet så langt, eller for å enkelt kopiere rekken av kommandoer over i et annet program
-
-#### **Eksempler**
-
-`history` Lister ut alle kommandoene i den gjeldende kommandolinjeøkten
 
 ### textblock
 
