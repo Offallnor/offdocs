@@ -1,11 +1,12 @@
 # Høyesteretts avgjørelser om Politiloven
 
-17 avgjørelser fra 1. november 2021 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i avgjørelsen. Avgjørelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også».
+18 avgjørelser fra 1. november 2021 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i avgjørelsen. Avgjørelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også».
 
 «Avdeling» og «storkammer» er dommer og kjennelser med full begrunnelse og størst vekt som prejudikat. «Ankeutvalget» er ofte korte beslutninger om å nekte en anke fremmet. Søk i tabellen etter paragraf eller stikkord, og åpne filen før du bruker avgjørelsen.
 
 | Dato | Avgjørelse | Type | Tittel | Paragrafer | Også | Fil |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | HR-2026-2439-U | ankeutvalget | Opphevelse av ankenektelse i sak om ileggelse av bøter etter demonstrasjon | § 2, § 5, § 30 |  | `HR-2026-2439-U.md` |
 | 2026-06-16 | HR-2026-1333-U | ankeutvalget | Begrunnet ankenektelse i sak om grov narkotikaovertredelse | § 8, § 11, § 30 |  | `HR-2026-1333-U.md` |
 | 2026-05-18 | HR-2026-1133-U | ankeutvalget | Begrunnet ankenektelse i sak om straff for handlinger begått i forbindelse med demonstrasjoner | § 8, § 11, § 30 |  | `HR-2026-1133-U.md` |
 | 2026-04-27 | HR-2026-978-U | ankeutvalget | Begrunnet ankenektelse i sak om sivil ulydighet | § 2, § 5, § 6, § 30 |  | `HR-2026-978-U.md` |
