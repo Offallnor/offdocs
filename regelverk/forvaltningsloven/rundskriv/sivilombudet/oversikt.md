@@ -1,11 +1,12 @@
 # Sivilombudets uttalelser om forvaltningsloven
 
-859 uttalelser fra 2010 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i uttalelsen. Uttalelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også». Uttalelsene er ikke bindende, men tillegges stor vekt i forvaltningen.
+860 uttalelser fra 2010 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i uttalelsen. Uttalelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også». Uttalelsene er ikke bindende, men tillegges stor vekt i forvaltningen.
 
 Søk i tabellen etter paragraf eller stikkord i tittelen, og åpne filen før du bruker uttalelsen.
 
 | Dato | Sak | Tittel | Paragrafer | Også | Fil |
 |---|---|---|---|---|---|
+| 2026-11-10 | 2025/2770 | Oppheving av vedtak om tilknytning til offentlig avløpsledning | § 11a, § 17, § 24, § 25, § 32, § 33, § 34 |  | `oppheving-av-vedtak-om-tilknytning-til-offentlig-avlopsledning.md` |
 | 2026-10-31 | 2025/6285 | Departementets ansvar for tilgangen til digitale offentlige tjenester gjennom ID-porten | § 15a |  | `departementets-ansvar-for-tilgangen-til-digitale-offentlige-tjenester-gjennom-id-porten.md` |
 | 2026-10-30 | 2026/749 | Krav til begrunnelse når klageinstansen tidligere har opphevet underinstansens vedtak i samme sak | § 25, § 33, § 34 |  | `krav-til-begrunnelse-nar-klageinstansen-tidligere-har-opphevet-underinstansens-vedtak-i-samme-sak.md` |
 | 2026-10-27 | 2025/2831 | Bidragsplikt og reduksjon av uføretrygd ved straffegjennomføring | § 11, § 17, § 35 | Folketrygdloven | `bidragsplikt-og-reduksjon-av-uforetrygd-ved-straffegjennomforing.md` |

@@ -6,7 +6,7 @@ lover: "Forvaltningsloven; Arbeidsmiljøloven; Arkivlova"
 dato: "2023-09-11"
 saksnummer: "2022/5131"
 kilde: "https://www.sivilombudet.no/uttalelser/om-arbeidstilsynet-bestar-av-ett-eller-flere-selvstendige-forvaltningsorganer-i-innsynssaker/"
-lagt_inn: "2026-11-05"
+lagt_inn: "2026-11-23"
 ---
 
 # Om Arbeidstilsynet består av ett eller flere selvstendige forvaltningsorganer i innsynssaker
@@ -24,45 +24,7 @@ Ombudet har også enkelte merknader til Arbeidstilsynets arkiv, journal og infor
 
 Se oppdatering fra forvaltningen
 
-Sakens bakgrunn
-
-Våre undersøkelser
-
-Spørsmål om organiseringen av tilsynet
-
-[Spørsmål om praksis knyttet til arkiv, journal og informasjon på eInnsyn](http://sporsmaalompraksis)
-
-[Sivilombudets syn på saken](http://sivilombudetssynpaasaken)
-
-Rettslige utgangspunkter
-
-Betydningen av om noe anses som ett eller flere organer etter offentleglova og arkivlova
-
-Hva er ett forvaltningsorgan?
-
-Særlig om organbegrepet ved arbeidsgrupper, utvalg og særlige samarbeidsformer
-
-Klageinstans for avgjørelser etter offentleglova – «nærmast overordna» forvaltningsorgan
-
-Organbegrepet – spørsmål knyttet til Arbeidstilsynet
-
-Om Arbeidstilsynet består av ett eller flere selvstendige forvaltningsorganer etter offentleglova
-
-Konsekvenser og særlige vurderinger knyttet til offentleglova §§ 14 og 29
-
-Om Direktoratet for arbeidstilsynet er overordnet organ etter offentleglova § 32
-
-Arkiv, journal og informasjon på eInnsyn – rettslige utgangspunkter
-
-Arkiv, journal og informasjon på eInnsyn – korrespondanse innad i Arbeidstilsynet
-
-Journalføring av korrespondanse mellom enheter innad i tilsynet
-
-[Opplysninger i journalen og informasjon på eInnsyn](http://"opplysningerijournalen)
-
-Konklusjon
-
-## Sakens bakgrunn
+### Sakens bakgrunn
 
 Sivilombudet har gjennom konkrete klagesaker blitt oppmerksom på at organiseringen av enkelte statlige etater har ført til spørsmål om hvilken betydning dette har for behandlingen av innsynssaker. Ombudet fant derfor grunn til å ta opp spørsmål knyttet til dette på generelt grunnlag og av eget tiltak.
 
@@ -74,9 +36,9 @@ Undersøkelsen rettet mot Arbeidstilsynet tok utgangspunkt i opplysninger om org
 
 Ombudet valgte å undersøke etatenes lovforståelse og praksis knyttet til tre bestemmelser; offentleglova § 32 om klageinstans, offentleglova § 14 om unntak for organinterne dokumenter og offentleglova § 29 om hvem som skal behandle innsynskrav.
 
-## Våre undersøkelser
+### Våre undersøkelser
 
-### 1.  Spørsmål om organiseringen av tilsynet
+#### 1.  Spørsmål om organiseringen av tilsynet
 
 I brev 7. november 2022 ba vi Arbeidstilsynet om å besvare en rekke spørsmål om den faktiske organiseringen, men også tilsynets rettslige vurderinger knyttet til om tilsynet består av ett eller flere selvstendige organer.
 
@@ -124,7 +86,7 @@ Arbeidstilsynet viste til at arbeidsgrupper med deltakere fra ulike forvaltnings
 
 «Hva som utgjør et organ etter offl. § 14 vil dermed kunne variere og ha betydning for hvilke dokument som kan unntas etter bestemmelsen. Likedan må `organet som mottar eit innsynskrav´ og som skal behandle innsynskravet, jf. offl. § 29, kunne være de ulike organene som inngår i eksempelvis en arbeidsgruppe. Innsynskrav må kunne fremmes hos de ulike organene, og klageinstansen etter offl. § 32 vil da måtte være det forvaltningsorganet som er overordnet det organet som behandler innsynskravet.»
 
-### 2. Spørsmål om praksis knyttet til arkiv, journal og informasjon på eInnsyn
+#### 2. Spørsmål om praksis knyttet til arkiv, journal og informasjon på eInnsyn
 
 Den andre delen av Sivilombudets undersøkelse knyttet seg til arkivering, journalføring og synliggjøring av journalopplysninger på eInnsyn. Formålet med spørsmålene om dette var å få informasjon om praksis som er relevant for vurderingene etter offentleglova §§ 14, 29 og 32. Vårt første spørsmål var om dokumenter som sendes mellom ulike divisjoner/regioner/direktorat mv. ble kategorisert som organinterne dokumenter, jf. offentleglova § 14 første ledd. Til dette svarte Arbeidstilsynet at dokumenttypen «notat» benyttes ved korrespondanse mellom de ulike avdelingene i ytre etat og mellom ytre etat og direktoratet. Dokumenter som er sendt mellom de ulike avdelingene og direktoratet, blir ikke kategorisert som organinterne. Videre blir alle dokumenter som skal journalføres etter forskrift om offentlege arkiv (arkivforskriften) § 9, journalført. I brev 3. mars 2023 presiserte tilsynet at dokumenter sendt mellom de ulike enhetene, kategoriseres som organinterne og unntas offentlighet i medhold av 14 «etter saksbehandlers konkrete vurdering av vilkårene».
 
@@ -142,11 +104,11 @@ Arbeidstilsynet oversendte instrukser, rutiner og en intern rapport til bruk for
 
 På forespørsel fra ombudet oversendte Arbeidstilsynet et journaluttrekk for dokumenter sendt mellom de ulike enhetene i tilsynet for perioden 1. til 30. november 2022.
 
-## Sivilombudets syn på saken
+### Sivilombudets syn på saken
 
-### 1. Rettslige utgangspunkter
+#### 1. Rettslige utgangspunkter
 
-#### 1.1 Betydningen av om noe anses som ett eller flere organer etter offentleglova og arkivlova
+##### 1.1 Betydningen av om noe anses som ett eller flere organer etter offentleglova og arkivlova
 
 Et forvaltningsorgan kan med hjemmel i offentleglova § 14 første ledd avslå innsyn i et dokument som «organet» har utarbeidet for sin egen interne saksforberedelse. Hva som utgjør ett og samme forvaltningsorgan, har derfor betydning for forvaltningens adgang til å unnta dokumenter fra innsyn. Dokumenter som er utvekslet mellom organer, kan ikke unntas etter § 14.
 
@@ -154,9 +116,9 @@ Også plikten til å ha eget arkiv og egen journalføring er knyttet til hva som
 
 Sentral betydning har det også at det i offentleglova § 32 første ledd heter at klageorganet er «det forvaltningsorganet som er nærmast overordna det forvaltningsorganet som har gjort vedtaket». Som utgangspunkt vil det si det overordnete forvaltningsorganet «innenfor det ordinære forvaltningshierarkiet», se NOU 2003: 30 Ny offentlighetslov punkt 19.2.3.1. I enkelte tilfeller er det spesielt regulert hvilket forvaltningsorgan som skal være klageorgan, se offentleglova § 32 første ledd tredje punktum og offentlegforskrifta § 11. I begge tilfeller er imidlertid lovens forutsetning at klagen skal behandles av et annet organ enn det som opprinnelig mottok og avgjorde innsynskravet.
 
-#### 1.2 Hva er ett forvaltningsorgan?
+##### 1.2 Hva er ett forvaltningsorgan?
 
-##### 1.2.1 Utgangspunkter
+###### 1.2.1 Utgangspunkter
 
 Hva som er ett (forvaltnings)organ, er ikke regulert verken i offentleglova eller andre steder. Det er heller ikke fastsatt kriterier for hva som utgjør ett forvaltningsorgan. Offentleglova bygger likevel på at det eksisterer flere separate forvaltningsorganer.
 
@@ -166,7 +128,7 @@ Både lovens ordlyd, den manglende definisjonen av begrepet «organ» for offent
 
 Det tilsier også at svaret på hva som er ett forvaltningsorgan, i utgangspunktet er det samme i tilknytning til alle bestemmelser som knytter rettsvirkninger til organbegrepet. I hvert fall må det som anses som ett organ i tilknytning til én regel i offentleglova, som hovedregel også være det i tilknytning til andre regler i offentleglova.
 
-##### 1.2.2 Hva er avgjørende for hva som utgjør ett forvaltningsorgan?
+###### 1.2.2 Hva er avgjørende for hva som utgjør ett forvaltningsorgan?
 
 Det sentrale spørsmålet deretter er hvordan man avgjør hva som utgjør ett forvaltningsorgan.
 
@@ -188,7 +150,7 @@ Også Forvaltningslovutvalget behandler spørsmålet om hva som er ett forvaltni
 
 Som det fremgår peker utvalget på at hva som er ett organ, i praksis har vært løst forskjellig i forskjellige sammenhenger og saker. Det er i samsvar med utsagn i Ot.prp. nr. 102 (2004–2005) side 130. Men i motsetning til omtalen i Ot.prp. nr. 102 (2004–2005), trekker Forvaltningsutvalget inn at inndelingen i ulike enheter kan være rettslig forankret i lov, forskrift eller generell instruks. Etter ombudets syn er dette et sentralt utgangspunkt. Der organinndelingen er fastsatt på slike måter, vil den måtte legges til grunn, og forvaltningen må opptre i samsvar med dette. Det er først og fremst i tilfeller hvor slike rettslige direktiver ikke gir noe klart svar på hvordan organinndelingen skal være, at de øvrige momentene får sentral betydning.
 
-##### 1.2.3 Hva er i praksis normalt ansett som egne forvaltningsorganer?
+###### 1.2.3 Hva er i praksis normalt ansett som egne forvaltningsorganer?
 
 For mange organers vedkommende er det i praksis avklart hva som anses som ett eller flere organer, se Ot.prp. nr. 102 (2004–2005) side 130. Hvert departement anses i utgangspunktet som et eget organ. Det samme gjelder for eksempel hvert statsforvalterembete, hvert politidistrikt, den enkelte kommune og vanlige frittstående direktorater. Departementene anses derimot samlet som ett organ når de utøver sekretariatsfunksjoner for regjeringen.
 
@@ -198,7 +160,7 @@ For direktorater og andre sentrale organer med ulike tilknyttede enheter, er det
 
 Der sentrale organer har lokale enheter med oppgaver og myndighet for bestemte geografiske områder, har de lokale enhetene ofte vært ansett som egne organer. Det er vanskeligere å gi noen generell beskrivelse av hvordan dette ser ut ved andre typer inndeling i administrative enheter. Det skyldes først og fremst at det for slike organisasjonsstrukturer er større variasjon mellom ulike etater eller virksomhetsområder enn det som i praksis har vært tilfellet ved organisasjonsstrukturer som bygger på en geografisk inndeling. For Skatteetaten (som har funksjonsinndelt organisering) har både ombudet og Finansdepartementet lagt til grunn at hver av divisjonene utgjør egne forvaltningsorganer, og at Skattedirektoratet er det overordnede organet. Se ombudets uttalelse 27. juni 2022 (SOM-2022-1340).
 
-##### 1.2.4 Ombudets oppsummering
+###### 1.2.4 Ombudets oppsummering
 
 Ved den konkrete helhetsvurderingen av hva som utgjør ett organ, er det etter ombudets syn naturlig å ta utgangspunkt i forvaltningens egen oppfatning av organinndelingen, også der denne ikke følger direkte av forskrift eller instruks fra overordnet myndighet. Dersom det dreier seg om en klar og konsistent oppfatning, må det etter ombudets syn foreligge forholdsvis klare holdepunkter for å avvike denne. Slike holdepunkter kan blant annet være at den organinndelingen forvaltningen mener gjelder, ikke harmonerer med grunnleggende trekk ved forvaltningsorganer, f.eks. at et forvaltningsorgan må være en egen og avgrenset enhet med en egen ledelse, og at et organ ikke samtidig kan være både sideordnet og overordnet et annet organ.
 
@@ -212,7 +174,7 @@ Dersom forvaltningens faktiske praktisering helt eller delvis avviker fra den or
 
 Ombudet finner for øvrig grunn til å presisere at en etat må etterleve den organiseringen som er bestemt fra overordnet myndighet. Dette innebærer blant annet at det organisatorisk og i praksis er tilstrekkelig klare skiller mellom enheter som utgjør eller hører til forskjellige organer. Det innebærer også – som nevnt – at forvaltningen må ta utgangspunkt i den samme organinndelingen i alle tilfeller hvor dette har betydning etter offentleglova og arkivlova. Det kreves særskilte holdepunkter for å legge til grunn en annen organinndeling i enkelttilfeller.
 
-#### 1.3 Særlig om organbegrepet ved arbeidsgrupper, utvalg og særlige samarbeidsformer
+##### 1.3 Særlig om organbegrepet ved arbeidsgrupper, utvalg og særlige samarbeidsformer
 
 Enkelte av etatene som denne undersøkelsen har vært rettet mot, har trukket frem at det kan være sammenhenger der to enheter kan anses som ett organ. De har også pekt på oppgaver der det er behov for et tett samarbeid mellom enheter i etaten.
 
@@ -232,7 +194,7 @@ Noen etater har også vist til en eldre uttalelse fra Lovavdelingen i Justis- og
 
 Utgangspunktet og hovedregelen vil altså være at samarbeid som skjer mellom forskjellige organer innad i en etat, ikke vil føre til at dokumentene kan unntas som organinterne.
 
-#### 1.4 Klageinstans for avgjørelser etter offentleglova – «nærmast overordna» forvaltningsorgan
+##### 1.4 Klageinstans for avgjørelser etter offentleglova – «nærmast overordna» forvaltningsorgan
 
 Avslag på innsyn etter offentleglova kan påklages. Hovedregelen er at klageinstansen er det organet som er «nærmast overordna» til organet som har truffet avgjørelsen, jf. § 32 første ledd første punktum. Offentleglovas ordning er på dette punktet den samme som ved klage over enkeltvedtak, jf. forvaltningsloven § 28 første ledd.
 
@@ -248,9 +210,9 @@ I tillegg følger det av § 32 tredje ledd at «[el]les gjeld reglane i forvaltn
 
 Begge de ovennevnte grunnlagene for å særregulere hvilket organ som er klageinstans, forutsetter at reguleringen skjer i forskrifts form.
 
-### 2. Organbegrepet – spørsmål knyttet til Arbeidstilsynet
+#### 2. Organbegrepet – spørsmål knyttet til Arbeidstilsynet
 
-#### 2.1 Om Arbeidstilsynet består av ett eller flere selvstendige forvaltningsorganer etter offentleglova
+##### 2.1 Om Arbeidstilsynet består av ett eller flere selvstendige forvaltningsorganer etter offentleglova
 
 Sivilombudet har vurdert hvilken betydning Arbeidstilsynets gjeldende organisering har for praktiseringen av offentleglovas regler. Ombudet uttaler seg ikke om hvordan etaten mest hensiktsmessig bør organisere seg.
 
@@ -300,7 +262,7 @@ Slik ytre etat i dag er organisert, må det derfor legges til grunn at hver av d
 
 Ombudet overlater til Arbeidstilsynet, i samråd med Arbeids- og inkluderingsdepartementet, å vurdere om det bør foretas endringer i organisasjonsstrukturen for å oppnå en annen organinndeling enn den som må legges til grunn i dag. Arbeidstilsynet bør deretter vurdere tiltak for å gjennomføre og i tillegg synliggjøre organisasjonsstrukturen både internt og eksternt.
 
-#### 2.2 Konsekvenser og særlige vurderinger knyttet til offentleglova §§ 14 og 29
+##### 2.2 Konsekvenser og særlige vurderinger knyttet til offentleglova §§ 14 og 29
 
 At direktoratet og hver av avdelingene i ytre etat må anses som selvstendige forvaltningsorganer, får konsekvenser for hvilke dokumenter som kan unntas som organinterne etter offentleglova § 14 første ledd. For eksempel vil dokumenter som ressurs- og fellesfunksjoner utarbeider for et annet selvstendig forvaltningsorgan i etaten, i utgangspunktet ikke kunne unntas som organinterne. Det vil kunne være grunnlag for unntak etter en konkret vurdering, se ovenfor under punkt 1.3. Men det er viktig å presisere at vurderingen skal ta utgangspunkt i hva som utad fremstår som en selvstendig enhet, og ikke med utgangspunkt i hvilke dokumenter det er praktisk eller hensiktsmessig at regnes som organinterne.
 
@@ -308,7 +270,7 @@ Ut fra journaluttrekkene Arbeidstilsynet har oversendt hit, synes det å være f
 
 Ombudet har forstått det slik at seksjon Svartjenesten i avdeling Kommunikasjon og brukerdialog behandler og treffer avgjørelse i førsteinstans i alle innsynssaker sendt til ytre etat. Ombudet gjør oppmerksom på at det etter offentleglova § 29 første ledd er det organet som mottar et innsynskrav, som skal vurdere dette konkret og selvstendig. Så lenge ytre etat ikke kan anses som ett og samme forvaltningsorgan, innebærer dette at Svartjenesten ikke kan behandle alle innsynskrav som kommer til avdelingene i ytre etat. Arbeidstilsynet må sørge for at hver av de selvstendige forvaltningsorganene behandler innsynskrav de mottar i tråd med kravet i loven. Det presiseres også at i de tilfellene der det fremmes krav om innsyn i dokumenter som f.eks. er sendt fra en avdeling til direktoratet, må det vurderes om innsynskravet er innkommet til avdelingen, direktoratet, eller begge steder.
 
-#### 2.3 Om Direktoratet for arbeidstilsynet er overordnet organ etter offentleglova § 32
+##### 2.3 Om Direktoratet for arbeidstilsynet er overordnet organ etter offentleglova § 32
 
 Arbeidstilsynet har opplyst at direktoratet anses å være nærmeste overordnede organ etter forvaltningsloven § 28, noe som også er nedfelt i arbeidsmiljøloven § 18-6 syvende ledd og i Arbeidstilsynets instrukser. Videre mener tilsynet at hva som anses som overordnet forvaltningsorgan, må være det samme etter forvaltningsloven og offentleglova, og at Direktoratet for arbeidstilsynet er klageorganet etter offentleglova § 32 for avgjørelser truffet i ytre etat.
 
@@ -318,7 +280,7 @@ Sivilombudet har ellers ingen rettslige innvendinger til tilsynets rutine om at 
 
 Ombudet påpeker likevel at tilsynets ønske om å fremstå helhetlig utad kan skape et inntrykk av at avstanden mellom over- og underinstansen ikke er tilstrekkelig stor, samt etterlate et inntrykk av en klageordning som ikke innebærer en reell overprøving. Det er viktig for klage¬behandlingens legitimitet at Arbeidstilsynet er oppmerksom på denne problemstillingen, spesielt ved behandlingen av enkeltsaker, og vurderer tiltak for å synliggjøre avstanden som er nødvendig for å opprette tillit til en reell to-instansbehandling i Arbeidstilsynet. Ombudet ber Arbeidstilsynet om å merke seg Forvaltningslovutvalgets synspunkter om at det ikke er mulig å se på enhetene som adskilte organer der det sitter både direktør for klageenheten og direktører for enheter som treffer vedtak i førsteinstans i samme ledergruppe. Ombudet viser også til at hvordan Arbeidstilsynet presenteres på nettsider, i informasjonsmateriell og i brevhoder, vil kunne ha betydning for hvordan enhetene i tilsynet fremstår utad.
 
-### 3. Arkiv, journal og informasjon på eInnsyn – rettslige utgangspunkter
+#### 3. Arkiv, journal og informasjon på eInnsyn – rettslige utgangspunkter
 
 Hovedregelen er at det er innsynsrett i «[s]aksdokument, journalar og liknande register for organet», se offentleglova § 3. Innsynsretten etter offentleglova gjelder uavhengig av hva som er arkivert eller journalført hos forvaltningsorganet. Imidlertid forutsetter innsynsretten at dokumenter kan identifiseres og gjenfinnes. Offentlige forvaltningsorganers plikt til å ha arkiv og til å føre journal over inngående og utgående dokumenter er derfor en forutsetning for at reglene om innsyn skal oppfylle sin funksjon, se eksempelvis ombudets uttalelse 22. desember 2020 (SOM-2020-1929). I St.meld. nr. 32 (1997–98) er journalen omtalt som «nøkkelen til forvaltningens arkiver», se meldingen kapittel 5.3.1.1.
 
@@ -354,9 +316,9 @@ Alle etatene ombudet har rettet undersøkelser mot, publiserer journalen for hel
 
 Sivilombudet har uttalt at dersom et forvaltningsorgan har valgt å benytte eInnsyn for å gjøre postjournalen tilgjengelig for innsyn, så står ikke forvaltningsorganet fritt til å bestemme hva som skal publiseres på eInnsyn. Dersom det finnes saker og dokumenttyper som forvaltningsorganet behandler som ikke fremgår av den offentlige postjournalen, må det som et minimum kreves at forvaltningsorganet tydelig opplyser om dette og gir informasjon om hvordan en kan søke innsyn i forvaltningsorganets fullstendige postjournal, se ombudets uttalelse 16. november 2022 (SOM-2022-3550).
 
-### 4. Arkiv, journal og informasjon på eInnsyn – korrespondanse innad i Arbeidstilsynet
+#### 4. Arkiv, journal og informasjon på eInnsyn – korrespondanse innad i Arbeidstilsynet
 
-#### 4.1 Journalføring av korrespondanse mellom enheter innad i tilsynet
+##### 4.1 Journalføring av korrespondanse mellom enheter innad i tilsynet
 
 Sivilombudet etterspurte skriftlige rutiner for journalføring av korrespondanse mellom enheter innad i etaten. Noe av bakgrunnen for spørsmålet var at ombudet er kjent med at det i stor grad brukes notatsform i sak- og arkivsystemet for korrespondanse mellom enheter innad i etatene. Ved bruk av systemer utenom sak- og arkivsystemet for kommunikasjon mellom ulike forvaltningsorganer, er det videre en kjent fare for at saksdokumenter ikke journalføres, se eksempelvis Riksrevisjonens undersøkelse av arkivering og åpenhet i statlig forvaltning (Dokument 3:10 (2016–2017)). Noe av grunnen til dette kan være at journalføring av e poster, Teams-chatter mv. krever manuelt, og til dels tidkrevende, arbeid fra saksbehandleren.
 
@@ -364,7 +326,7 @@ Etter det ombudet kan se av de oversendte uttrekkene fra journalen til Arbeidsti
 
 Sivilombudet har merket seg Arbeidstilsynets rutiner for opprettelse av notater med oppfølging ved oversendelse av klagesaker og rutinene for journalføring av e-post, SMS og samtaler i Teams. Sett hen til den store aktiviteten Arbeidstilsynet har, mener ombudet likevel at det er sannsynlig at det er saksdokumenter sendt mellom de enkelte forvaltningsorganene i etaten som ikke er journalført slik det er krav om etter arkivforskriften § 9 første ledd. Ombudet minner om at saksdokumenter som er sendt mellom ulike forvaltningsorganer, ikke regnes som organinterne, men som inngående og utgående dokumenter. Dette skal etter arkivforskriften § 9 fremgå av forvaltningsorganenes postjournaler, dersom vilkårene for journalføring for øvrig er oppfylt. Da ombudet har kommet til at Arbeidstilsynet består av flere selvstendige organer også i ytre etat, må Arbeidstilsynet gjennomgå journalføringsrutinene og det bør også undersøkes om det er mulig å sende korrespondanse mellom de ulike forvaltningsorganene i etaten som utgående brev. I forlengelsen av dette må Arbeidstilsynet vurdere om inndelingen av arkivet er i tråd med arkivlova § 6 om at hvert forvaltningsorgan skal ha sitt eget arkiv. Inndelingen av arkivet vil antakelig ha betydning for opprettelsen av saker og registreringen av dokumenter som sendes mellom to selvstendige forvaltningsorgan selv om organene inngår i samme etat.
 
-#### 4.2 Opplysninger i journalen og informasjon på eInnsyn
+##### 4.2 Opplysninger i journalen og informasjon på eInnsyn
 
 Sivilombudet registrerer at det etter omorganiseringen av Arbeidstilsynet i januar 2020, ikke lenger er mulig å skille ut enheter i tilsynet i postjournalen som publiseres på eInnsyn. Ut fra journalen på eInnsyn er det heller ikke mulig å identifisere korrespondanse mellom de ulike forvaltningsorganene i tilsynet. Disse dokumentene har ingen informasjon oppført i feltet for «til/fra», og dokumenttypen er angitt til «Internt». Sivilombudet ser at uttrekket av journalen som Arbeidstilsynet har oversendt hit inneholder opplysninger om avsender og mottaker. Noen av journalpostene identifiserer avsender/mottaker ved seksjonsnavn, mens andre ved avdelingsnavn, og atter igjen noen med både seksjons- og avdelingsnavn. Etter ombudets syn må navnet på avsender/mottaker som et minimum inneholde navnet på avsender- og mottakerorganet, jf. arkivforskriften § 10 første ledd bokstav c.
 
@@ -374,7 +336,7 @@ All den tid Arbeidstilsynet benytter eInnsyn til å offentliggjøre journalen si
 
 Sivilombudet vil sende kopi av denne uttalelsen til Arbeids- og inkluderingsdepartementet og Arkivverket. Ombudet forutsetter at Arbeidstilsynet, i samråd med departementet og Arkivverket, vurderer om Arbeidstilsynets arkiv må organiseres/inndeles på en annen måte enn det gjøres i dag.
 
-## Konklusjon
+### Konklusjon
 
 Sivilombudet har ikke innvendinger mot at Arbeidstilsynets standpunkt om at Direktoratet for arbeidstilsynet utgjør et selvstendig forvaltningsorgan etter offentleglova.
 
@@ -393,5 +355,17 @@ Ombudet har også enkelte merknader til Arbeidstilsynets arkiv, journal og infor
 Sivilombudet ba om en orientering om hva Arbeidstilsynet hadde foretatt seg etter ombudets uttalelse. Arbeidstilsynet ga en redegjørelse 8. mars 2024 for hvilke tiltak som var igangsatt og hvilke tiltak som var planlagt for å sikre at tilsynet i praksis både var organisert som, og fremsto som to adskilte forvaltningsorganer. Videre arbeid skulle fortsette etter at ny direktør for Arbeidstilsynet var tiltrådt.
 
 Sivilombudet tok Arbeidstilsynets orientering til etterretning, men påpekte at det er viktig at det videre arbeidet gjøres så snart som mulig etter at ny direktør for tilsynet har tiltrådt.
+
+**Oppdatering 18.11.2026:**
+
+I brev 26. juni 2026 ba ombudet Arbeidstilsynet om å redegjøre for den videre oppfølgingen av ombudets uttalelse etter den siste oppdateringen 8. mars 2024. Arbeidstilsynet ble særlig bedt om å belyse om ytre etat er en egen og avgrenset enhet med en egen ledelse og hvordan dette forholder seg til ledelsen for den enkelte avdeling i tilsynet (ytre etat).
+
+Arbeidstilsynet svarte i brev 31. august 2026 blant annet at det er fastslått i Arbeidstilsynets instruks for organisering og ansvarsfordeling at Arbeidstilsynet har to nivåer, og at tilsynet er et eget forvaltningsorgan. Videre opplyste Arbeidstilsynet at instruksen fastslår at tilsynet har en felles leder og ledelse og at ledelsen i tilsynet behandler saker som omfatter tilsynets ansvarsområder og fatter beslutninger som er førende for tilsynets avdelinger. Om tilsynets ledergruppe ble det opplyst at alle avdelingsdirektørene i tilsynet deltok og at «[l]edelse av ledergruppen går på åremål mellom avdelingsdirektørene i tilsynet». Det ble også opplyst at tilsynet hadde felles profil, e-post og arkiv som skilte seg fra direktoratet, og at ansvaret for operativ planlegging og gjennomføring av prioriteringene var fordelt på avdelingsdirektørene i tilsynet, som planla på tvers av avdelingene. Felles koordinering ble gjort i ledergruppen for tilsynet og ble besluttet av leder for tilsynet. Arbeidstilsynet mente at tiltakene samlet gjorde at tilsynet i Arbeidstilsynet oppfylte kravene til å være ett organ.
+
+I brev 30. oktober 2026 skrev ombudet at ombudet hadde merket seg Arbeidstilsynets redegjørelse. Ombudet viste til uttalelsen kapittel 2.1 avsnitt 83 følgende. Det var uklart for ombudet om det var ledermøtet som var felles ledelse av tilsynet, eller om det var lederen på åremål som var leder. Ombudet skrev videre at så langt det var brakt på det rene, forelå det ikke en ny instruks fastsatt av Arbeids- og inkluderingsdepartementet. Det var Instruks om virksomhets- og økonomistyring fastsatt 24. mai 2018 som sto oppført på Arbeidstilsynets og Arbeids- og inkluderingsdepartementets nettsider. Ombudet kunne heller ikke se at Arbeidstilsynet hadde publisert Arbeidstilsynets instruks for organisering og ansvarsdeling på sine nettsider. Etter det ombudet forsto pågikk arbeidet fortsatt med å oppdatere instruksen, men det var noe uklart om dette gjaldt instruksen fastsatt av departementet og/eller om det gjaldt instruksen som ble fastsatt av Arbeidstilsynets direktør. Ombudet viste til at det nærmet seg ett år siden ny organisering ble vedtatt for Arbeidstilsynet, og ba Arbeidstilsynet i samråd med Arbeids- og inkluderingsdepartementet å prioritere arbeidet med å oppdatere instruksene og publisere disse på organenes nettsider.
+
+For ombudet var det uklart om det arbeidet som er gjort ved organiseringen per 1. januar 2026 var tilstrekkelig for å etterkomme de rettslige kravene som gjelder for at ytre etat skal kunne anses som ett forvaltningsorgan. Usikkerheten knyttet seg særlig til om det forelå en felles ledelse for den ytre etaten og hva som var endret fra situasjonen som var tilfelle ved ombudets uttalelse 11. september 2023. Ombudet viste til et mottatt anonymt tips om at det var ukjent internt i etaten at ledelsen i ytre etat gikk på omgang (åremål) mellom lederne i ytre etat. Ombudet uttalte at uavhengig av om ledelsen av tilsynets ledermøte i ytre etat gikk på åremål mellom avdelingsdirektørene eller ikke, mente ombudet at det knyttet seg begrunnet tvil til om ytre etat hadde en felles ledelse. Det var ikke utad, så langt ombudet hadde klart å bringe på det rene, kommunisert hvem som til enhver tid var leder for ytre etat, eller om det kun var i ledermøtet at denne lederfunksjonen ble praktisert. Ved søk på Arbeidstilsynets nettsider sto det ikke oppført en leder for ytre etat og ombudet var ikke kjent med om den til enhver tid sittende leder undertegnet som leder for ytre etat. Videre var ombudet ikke kjent med hvilke oppgaver og myndighet som eventuelt var delegert denne lederen alene.
+
+Ombudet ba Arbeidstilsynet om å merke seg ombudets påpekninger og vurdere om det er behov for ytterligere tiltak for å sikre at den organiseringen som Arbeidstilsynet ønsker å ha er i tråd med gjeldende rettstilstand. Ombudets brev ble sendt i kopi til Arbeids- og inkluderingsdepartementet. I tillegg ble det gitt en orientering til Statsministerens kontor, Justis- og beredskapsdepartementet, Kommunal- og distriktsdepartementet og Nasjonalarkivet.
 
 Saken ble etter dette avsluttet her.

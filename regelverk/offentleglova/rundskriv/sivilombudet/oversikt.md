@@ -1,11 +1,12 @@
 # Sivilombudets uttalelser om offentleglova
 
-210 uttalelser fra 2010 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i uttalelsen. Uttalelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også». Uttalelsene er ikke bindende, men tillegges stor vekt i forvaltningen.
+211 uttalelser fra 2010 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i uttalelsen. Uttalelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også». Uttalelsene er ikke bindende, men tillegges stor vekt i forvaltningen.
 
 Søk i tabellen etter paragraf eller stikkord i tittelen, og åpne filen før du bruker uttalelsen.
 
 | Dato | Sak | Tittel | Paragrafer | Også | Fil |
 |---|---|---|---|---|---|
+| 2026-10-30 | 2026/3789 | Innsyn i saksdokumenter knyttet til et styremøte i Bane NOR SF – om klageinstansens plikt til å opplyse saken | § 14, § 29, § 32 | Forvaltningsloven | `innsyn-i-saksdokumenter-knyttet-til-et-styremote-i-bane-nor-sf-om-klageinstansens-plikt-til-a-opplyse-saken.md` |
 | 2026-10-26 | 2026/2592 | Innsyn i EHF-fakturaer, fakturagrunnlag mv. | § 3, § 4, § 30, § 32 | Forvaltningsloven | `innsyn-i-ehf-fakturaer-fakturagrunnlag-mv.md` |
 | 2026-09-25 | 2026/1665 | Om saksbehandlingen og saksbehandlingstiden i innsynssak | § 15, § 29, § 32 |  | `om-saksbehandlingen-og-saksbehandlingstiden-i-innsynssak.md` |
 | 2026-06-17 | 2025/7710 | Innsyn i dokumenter om tilskuddsordningen for sysselsetting av sjøfolk | § 3, § 11, § 13, § 14, § 15, § 20 | Forvaltningsloven | `innsyn-i-dokumenter-om-tilskuddsordningen-for-sysselsetting-av-sjofolk.md` |

@@ -6,7 +6,7 @@ lover: "Arkivlova"
 dato: "2023-09-11"
 saksnummer: "2022/5128"
 kilde: "https://www.sivilombudet.no/uttalelser/om-skatteetatens-praksis-knyttet-til-arkivering-journalforing-og-handtering-av-etatsintern-korrespondanse-mv/"
-lagt_inn: "2026-11-05"
+lagt_inn: "2026-11-23"
 ---
 
 # Om Skatteetatens praksis knyttet til arkivering, journalføring og håndtering av etatsintern korrespondanse mv.
@@ -126,5 +126,15 @@ Skatteetaten må vurdere om inndelingen av arkivet er i tråd med arkivlova § 6
 Sivilombudet ba om en orientering om hva Skatteetaten hadde foretatt seg etter ombudets uttalelse. Skatteetaten ga en redegjørelse 20. februar 2024 hvor det fremgikk at Skatteetaten ikke har konkludert med hvordan ombudets funn kan bli ivertatt og fulgt opp på best mulig måte. Det ble pekt på at endringer i eksisterende arkivordning, prosesser og rutiner vil kreve langvarige forberedelser og planlegging som må spilles inn i budsjettprosessen for fremtidige år. Skatteetaten redegjorde også for tiltak som vil kunne iverksettes innenfor eksisterende ressursrammer.
 
 Sivilombudet merket seg Skatteetatens redegjørelse, men påpekte at verken økonomiske eller administrative konsekvenser kan ha avgjørende betydning dersom dagens arkiv- og journalløsning ikke er i tråd med de lovpålagte kravene.
+
+**Oppdatering 18.11.2026:**
+
+I brev 26. juni 2026 ba ombudet Skatteetaten om å redegjøre for den videre oppfølgingen av ombudets uttalelse etter den siste oppdateringen 20. februar 2024. Skatteetaten ble blant annet bedt om å redegjøre for dagens arkivordning, journalføring av etatsintern korrespondanse mellom det som anses som selvstendige forvaltningsorganer, samt om hvordan Skatteetaten sikrer at det er mulig å be om innsyn etter offentleglova anonymt.
+
+Skatteetaten svarte i brev 25. september 2026 blant annet at dagens arkivordning er i tråd med regelverket, og at korrespondanse mellom de ulike organene i Skatteetaten i all hovedsak journalføres som notater hvor informasjon om avsender/mottaker ikke er tilgjengelig i den offentlige journalen. Videre viste Skatteetaten at en kan be om innsyn anonymt via kontaktskjema på skatteetaten.no, eller via eInnsyn for innsyn i Skattedirektoratets offentlige journal.
+
+Ombudet tok i brev 30. oktober 2026 Skatteetatens redegjørelse til etterretning, men påpekte at det er uheldig at Skatteetaten over mange år har hatt en arkivløsning som medfører at den offentlige journalen ikke er i tråd med gjeldende regler. Videre mente ombudet at det var uklart om dagens arkivordning er fullt ut i tråd med regelverket.
+
+Ombudets brev ble sendt i kopi til Finansdepartementet. I tillegg ble det gitt en orientering til Statsministerens kontor, Justis- og beredskapsdepartementet, Kommunal- og distriktsdepartementet og Nasjonalarkivet.
 
 Saken ble etter dette avsluttet her.

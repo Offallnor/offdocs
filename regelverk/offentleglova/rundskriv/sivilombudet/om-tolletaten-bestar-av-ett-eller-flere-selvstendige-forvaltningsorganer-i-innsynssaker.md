@@ -6,7 +6,7 @@ lover: "Forvaltningsloven; Arkivlova"
 dato: "2023-09-11"
 saksnummer: "2022/5127"
 kilde: "https://www.sivilombudet.no/uttalelser/om-tolletaten-bestar-av-ett-eller-flere-selvstendige-forvaltningsorganer-i-innsynssaker/"
-lagt_inn: "2026-11-05"
+lagt_inn: "2026-11-23"
 ---
 
 # Om Tolletaten består av ett eller flere selvstendige forvaltningsorganer i innsynssaker
@@ -22,45 +22,7 @@ Ombudet har knyttet enkelte merknader til Tolletatens arkiv, journal og informas
 
 Se oppdatering fra forvaltningen
 
-Sakens bakgrunn
-
-Våre undersøkelser
-
-Spørsmål om organiseringen av Tolletaten
-
-Spørsmål om praksis knyttet til arkiv, journal og informasjon på eInnsyn
-
-Sivilombudets syn på saken
-
-Rettslige utgangspunkter
-
-Betydningen av om noe anses som ett eller flere organer etter offentleglova og arkivlova
-
-Hva er ett forvaltningsorgan?
-
-Særlig om organbegrepet ved arbeidsgrupper, utvalg og særlige samarbeidsformer
-
-Klageinstans for avgjørelser etter offentleglova – «nærmast overordna» forvaltningsorgan
-
-Organbegrepet – spørsmål knyttet til Tolletaten
-
-Om Tolletaten består av ett eller flere selvstendige forvaltningsorganer etter offentleglova
-
-Konsekvenser og særlige vurderinger knyttet til offentleglova §§ 14 og 29
-
-Om hvem som er klageinstans etter offentleglova § 32
-
-Arkiv, journal og informasjon på eInnsyn – rettslige utgangspunkter
-
-Arkiv, journal og informasjon på eInnsyn – korrespondanse innad i Tolletaten
-
-Journalføring av korrespondanse mellom enheter innad i Tolletaten
-
-Opplysninger i journalen og informasjon på eInnsyn
-
-Konklusjon
-
-## Sakens bakgrunn
+### Sakens bakgrunn
 
 Sivilombudet har gjennom konkrete klagesaker blitt oppmerksom på at endringer i organiseringen av enkelte statlige etater har ført til spørsmål om hvilken betydning dette har for behandlingen av innsynssaker. Ombudet fant derfor grunn til å ta opp spørsmål knyttet til dette på generelt grunnlag og av eget tiltak.
 
@@ -72,9 +34,9 @@ Undersøkelsen rettet mot Tolletaten tok utgangspunkt i opplysninger om organise
 
 Ombudet valgte å undersøke etatenes lovforståelse og praksis knyttet til tre bestemmelser; offentleglova § 32 om klageinstans, offentleglova § 14 om unntak for organinterne dokumenter og offentleglova § 29 om hvem som skal behandle innsynskrav.
 
-## Våre undersøkelser
+### Våre undersøkelser
 
-### 1. Spørsmål om organiseringen av Tolletaten
+#### 1. Spørsmål om organiseringen av Tolletaten
 
 I brev 7. november 2022 ba vi Tolletaten om å besvare en rekke spørsmål om den faktiske organiseringen, men også etatens rettslige vurderinger knyttet til om etaten består av ett eller flere selvstendige organer.
 
@@ -114,7 +76,7 @@ For det andre stilte vi Tolletaten spørsmål om hvordan innsynskrav som sendes 
 
 Det tredje spørsmålet knyttet til organbegrepet gjaldt klageorgan i innsynssaker etter offentleglova § 32. Vi ba om Tolletatens syn på om dette ville være det samme organet som regnes som nærmeste overordnet forvaltningsorgan etter forvaltningsloven § 28 første ledd eller andre særskilte klageregler. Vi ba også om Tolletatens syn på om klageordningen sikrer en reell to-instansbehandling av innsynsklager. Tolletaten svarte at Juridisk stab er klageorgan både etter offentleglova og for saker som påklages etter forvaltningslovens regler. Etter Tolletatens syn sikrer organiseringen en reell to instansbehandling. Det ble videre vist til dokumentene «Direktorat i Tolletaten – rolle og rettslige rammer» fra Juridisk divisjon i Tolletaten høsten 2021, betenkning av professor Eivind Smith av 1. april 2022 om «Direktorat i Tolletaten? Særlig om klageordningen», og brev 30. august og 14. oktober 2022 fra Finansdepartementet om endring av organisasjonsstrukturen i Tolletaten. Til sammen skal rutinene og instruksene vise at Juridisk stab er et selvstendig og overordnet organ.
 
-### 2. Spørsmål om praksis knyttet til arkiv, journal og informasjon på eInnsyn
+#### 2. Spørsmål om praksis knyttet til arkiv, journal og informasjon på eInnsyn
 
 Den andre delen av Sivilombudets undersøkelse knyttet seg til arkivering, journalføring og synliggjøring av journalopplysninger på eInnsyn. Formålet med spørsmålene om dette var å få informasjon om praksis som er relevant for vurderingene etter offentleglova §§ 14, 29 og 32. Vårt første spørsmål var om dokumenter som sendes mellom ulike divisjoner/regioner/direktorat mv. ble kategorisert som organinterne dokumenter, jf. offentleglova § 14 første ledd. Til dette svarte Tolletaten at det for dokumenter som sendes mellom ulike divisjoner og staber internt i etaten, benyttes dokumentkategori «Interne notater» i saks- og arkivsystemet. I brev 3. mars 2023 presiserte Tolletaten at når det snakkes om «dokumentkategorier», er det først og fremst tale om en teknisk betegnelse på hvordan dokumentet skal være registrert i saksbehandlingssystemet. For øvrig ble det vist til at det ville bero på en konkret vurdering om dokumentene anses som organinterne.
 
@@ -136,11 +98,11 @@ Tolletaten oversendte og viste til relevant dokumentasjon for klageordningen, or
 
 På forespørsel fra ombudet oversendte Tolletaten et journaluttrekk for dokumenter sendt mellom de ulike enhetene i etaten for perioden 1. til 30. november 2022.
 
-## Sivilombudets syn på saken
+### Sivilombudets syn på saken
 
-### 1. Rettslige utgangspunkter
+#### 1. Rettslige utgangspunkter
 
-#### 1.1 Betydningen av om noe anses som ett eller flere organer etter offentleglova og arkivlova
+##### 1.1 Betydningen av om noe anses som ett eller flere organer etter offentleglova og arkivlova
 
 Et forvaltningsorgan kan med hjemmel i offentleglova § 14 første ledd avslå innsyn i et dokument som «organet» har utarbeidet for sin egen interne saksforberedelse. Hva som utgjør ett og samme forvaltningsorgan, har derfor betydning for forvaltningens adgang til å unnta dokumenter fra innsyn. Dokumenter som er utvekslet mellom organer, kan ikke unntas etter § 14.
 
@@ -148,9 +110,9 @@ Også plikten til å ha eget arkiv og egen journalføring er knyttet til hva som
 
 Sentral betydning har det også at det i offentleglova § 32 første ledd heter at klageorganet er «det forvaltningsorganet som er nærmast overordna det forvaltningsorganet som har gjort vedtaket». Som utgangspunkt vil det si det overordnete forvaltningsorganet «innenfor det ordinære forvaltningshierarkiet», se NOU 2003: 30 Ny offentlighetslov punkt 19.2.3.1. I enkelte tilfeller er det spesielt regulert hvilket forvaltningsorgan som skal være klageorgan, se offentleglova § 32 første ledd tredje punktum og offentlegforskrifta § 11. I begge tilfeller er imidlertid lovens forutsetning at klagen skal behandles av et annet organ enn det som opprinnelig mottok og avgjorde innsynskravet.
 
-#### 1.2 Hva er ett forvaltningsorgan?
+##### 1.2 Hva er ett forvaltningsorgan?
 
-##### 1.2.1 Utgangspunkter
+###### 1.2.1 Utgangspunkter
 
 Hva som er ett (forvaltnings)organ, er ikke regulert verken i offentleglova eller andre steder. Det er heller ikke fastsatt kriterier for hva som utgjør ett forvaltningsorgan. Offentleglova bygger likevel på at det eksisterer flere separate forvaltningsorganer.
 
@@ -160,7 +122,7 @@ Både lovens ordlyd, den manglende definisjonen av begrepet «organ» for offent
 
 Det tilsier også at svaret på hva som er ett forvaltningsorgan, i utgangspunktet er det samme i tilknytning til alle bestemmelser som knytter rettsvirkninger til organbegrepet. I hvert fall må det som anses som ett organ i tilknytning til én regel i offentleglova, som hovedregel også være det i tilknytning til andre regler i offentleglova.
 
-##### 1.2.2 Hva er avgjørende for hva som utgjør ett forvaltningsorgan?
+###### 1.2.2 Hva er avgjørende for hva som utgjør ett forvaltningsorgan?
 
 Det sentrale spørsmålet deretter er hvordan man avgjør hva som utgjør ett forvaltningsorgan.
 
@@ -182,7 +144,7 @@ Også Forvaltningslovutvalget behandler spørsmålet om hva som er ett forvaltni
 
 Som det fremgår peker utvalget på at hva som er ett organ, i praksis har vært løst forskjellig i forskjellige sammenhenger og saker. Det er i samsvar med utsagn i Ot.prp. nr. 102 (2004–2005) side 130. Men i motsetning til omtalen i Ot.prp. nr. 102 (2004–2005), trekker Forvaltningsutvalget inn at inndelingen i ulike enheter kan være rettslig forankret i lov, forskrift eller generell instruks. Etter ombudets syn er dette et sentralt utgangspunkt. Der organinndelingen er fastsatt på slike måter, vil den måtte legges til grunn, og forvaltningen må opptre i samsvar med dette. Det er først og fremst i tilfeller hvor slike rettslige direktiver ikke gir noe klart svar på hvordan organinndelingen skal være, at de øvrige momentene får sentral betydning.
 
-##### 1.2.3 Hva er i praksis normalt ansett som egne forvaltningsorganer?
+###### 1.2.3 Hva er i praksis normalt ansett som egne forvaltningsorganer?
 
 For mange organers vedkommende er det i praksis avklart hva som anses som ett eller flere organer, se Ot.prp. nr. 102 (2004–2005) side 130. Hvert departement anses i utgangspunktet som et eget organ. Det samme gjelder for eksempel hvert statsforvalterembete, hvert politidistrikt, den enkelte kommune og vanlige frittstående direktorater. Departementene anses derimot samlet som ett organ når de utøver sekretariatsfunksjoner for regjeringen.
 
@@ -192,7 +154,7 @@ For direktorater og andre sentrale organer med ulike tilknyttede enheter, er det
 
 Der sentrale organer har lokale enheter med oppgaver og myndighet for bestemte geografiske områder, har de lokale enhetene ofte vært ansett som egne organer. Det er vanskeligere å gi noen generell beskrivelse av hvordan dette ser ut ved andre typer inndeling i administrative enheter. Det skyldes først og fremst at det for slike organisasjonsstrukturer er større variasjon mellom ulike etater eller virksomhetsområder enn det som i praksis har vært tilfellet ved organisasjonsstrukturer som bygger på en geografisk inndeling. For Skatteetaten (som har funksjonsinndelt organisering) har både ombudet og Finansdepartementet lagt til grunn at hver av divisjonene utgjør egne forvaltningsorganer, og at Skattedirektoratet er det overordnede organet. Se ombudets uttalelse 27. juni 2022 (SOM-2022-1340).
 
-##### 1.2.4 Ombudets oppsummering
+###### 1.2.4 Ombudets oppsummering
 
 Ved den konkrete helhetsvurderingen av hva som utgjør ett organ, er det etter ombudets syn naturlig å ta utgangspunkt i forvaltningens egen oppfatning av organinndelingen, også der denne ikke følger direkte av forskrift eller instruks fra overordnet myndighet. Dersom det dreier seg om en klar og konsistent oppfatning, må det etter ombudets syn foreligge forholdsvis klare holdepunkter for å avvike denne. Slike holdepunkter kan blant annet være at den organinndelingen forvaltningen mener gjelder, ikke harmonerer med grunnleggende trekk ved forvaltningsorganer, f.eks. at et forvaltningsorgan må være en egen og avgrenset enhet med en egen ledelse, og at et organ ikke samtidig kan være både sideordnet og overordnet et annet organ.
 
@@ -206,7 +168,7 @@ Dersom forvaltningens faktiske praktisering helt eller delvis avviker fra den or
 
 Ombudet finner for øvrig grunn til å presisere at en etat må etterleve den organiseringen som er bestemt fra overordnet myndighet. Dette innebærer blant annet at det organisatorisk og i praksis er tilstrekkelig klare skiller mellom enheter som utgjør eller hører til forskjellige organer. Det innebærer også – som nevnt – at forvaltningen må ta utgangspunkt i den samme organinndelingen i alle tilfeller hvor dette har betydning etter offentleglova og arkivlova. Det kreves særskilte holdepunkter for å legge til grunn en annen organinndeling i enkelttilfeller.
 
-#### 1.3 Særlig om organbegrepet ved arbeidsgrupper, utvalg og særlige samarbeidsformer
+##### 1.3 Særlig om organbegrepet ved arbeidsgrupper, utvalg og særlige samarbeidsformer
 
 Enkelte av etatene som denne undersøkelsen har vært rettet mot, har trukket frem at det kan være sammenhenger der to enheter kan anses som ett organ. De har også pekt på oppgaver der det er behov for et tett samarbeid mellom enheter i etaten.
 
@@ -226,7 +188,7 @@ Noen etater har også vist til en eldre uttalelse fra Lovavdelingen i Justis- og
 
 Utgangspunktet og hovedregelen vil altså være at samarbeid som skjer mellom forskjellige organer innad i en etat, ikke vil føre til at dokumentene kan unntas som organinterne.
 
-#### 1.4 Klageinstans for avgjørelser etter offentleglova – «nærmast overordna» forvaltningsorgan
+##### 1.4 Klageinstans for avgjørelser etter offentleglova – «nærmast overordna» forvaltningsorgan
 
 Avslag på innsyn etter offentleglova kan påklages. Hovedregelen er at klageinstansen er det organet som er «nærmast overordna» til organet som har truffet avgjørelsen, jf. § 32 første ledd første punktum. Offentleglovas ordning er på dette punktet den samme som ved klage over enkeltvedtak, jf. forvaltningsloven § 28 første ledd.
 
@@ -244,9 +206,9 @@ Begge de ovennevnte grunnlagene for å særregulere hvilket organ som er klagein
 
 I tilfeller hvor et organ er klageorgan i kraft av å være det organet som er «nærmast overordna», jf. offentleglova § 32, vil det gjelde enkelte ytterligere begrensninger i adgangen til å delegere. For det første kan det ikke delegeres til det (underordnede) organet som har fattet den påklagde avgjørelse. Som påpekt i punkt 1.1, forutsetter nemlig offentleglova § 32 at klager skal avgjøres av et annet organ enn det som fattet avgjørelsen i første omgang. For det andre tilsier reelle hensyn at det heller ikke kan delegeres til et organ som står i et underordningsforhold til det organet som har fattet den påklagde avgjørelsen.
 
-### 2. Organbegrepet – spørsmål knyttet til Tolletaten
+#### 2. Organbegrepet – spørsmål knyttet til Tolletaten
 
-#### 2.1 Om Tolletaten består av ett eller flere selvstendige forvaltningsorganer etter offentleglova
+##### 2.1 Om Tolletaten består av ett eller flere selvstendige forvaltningsorganer etter offentleglova
 
 Sivilombudet har vurdert hvilken betydning Tolletatens gjeldende organisering har for praktiseringen av offentleglovas regler. Ombudet uttaler seg ikke om hvordan etaten mest hensiktsmessig bør organisere seg.
 
@@ -290,7 +252,7 @@ Ettersom Tolletaten ikke gir noe entydig svar på om etaten består av ett eller
 
 Ombudet ber på denne bakgrunn Tolletaten, i samråd med Finansdepartementet, om å ta stiling til om de fem divisjonene og tre stabene skal være selvstendige forvaltningsorganer, eller om de skal inngå i andre organer i etaten. Tolletaten må deretter vurdere tiltak for å synligjøre organisasjonsstrukturen både internt og eksternt, og sørge for at den praktiske virksomheten innrettes i tråd med det som er besluttet.
 
-#### 2.2 Konsekvenser og særlige vurderinger knyttet til offentleglova §§ 14 og 29
+##### 2.2 Konsekvenser og særlige vurderinger knyttet til offentleglova §§ 14 og 29
 
 Som det fremgår ovenfor, er det etter ombudets syn uklart hvorvidt Tolletaten består av ett eller flere forvaltningsorganer.
 
@@ -298,7 +260,7 @@ Hvorvidt Tolletaten består av ett eller flere forvaltningsorganer, har betydnin
 
 Det er for øvrig positivt at den enkelte enhet (hver divisjon og stab) behandler innsynskrav etter offentleglova i de sakene de er ansvarlige for. Denne praksisen bidrar til å sikre at Tolletaten etterlever offentleglova § 29 for det tilfelle at noen av enhetene er å anse som egne forvaltningsorganer. Det presiseres imidlertid at i de tilfellene der det fremmes krav om innsyn i dokumenter som er sendt mellom organer i etaten, må det vurderes om innsynskravet er innkommet til kun én av organene eller begge.
 
-#### 2.3 Om hvem som er klageinstans etter offentleglova § 32
+##### 2.3 Om hvem som er klageinstans etter offentleglova § 32
 
 Det er ikke gitt egne lov- eller forskriftsbestemmelser som særskilt regulerer hvilket organ som er klageinstans for avgjørelser truffet av de ulike enhetene i Tolletaten i saker etter offentleglova. Dette beror derfor i utgangspunktet på hvilket organ som er «det forvaltningsorganet som er nærmast overordna det forvaltningsorganet som har gjort vedtaket», jf. offentleglova § 32 første ledd og omtale ovenfor i punkt 1.4. Dette er samme ordlyd som den generelle bestemmelsen i forvaltningsloven § 28 første ledd.
 
@@ -334,7 +296,7 @@ Ombudet ber samtidig Tolletaten om å merke seg Forvaltningslovutvalgets synspun
 
 På generelt grunnlag vil ombudet for øvrig påpeke at etatens ønske om å fremstå helhetlig utad kan skape et inntrykk av at avstanden mellom over- og underinstansen ikke er tilstrekkelig stor, samt etterlate et inntrykk av en klageordning som ikke innebærer en reell overprøving. Det er viktig for klagebehandlingens legitimitet at Tolletaten er oppmerksom på denne problemstillingen, spesielt ved behandlingen av enkeltsaker, og vurderer tiltak for å synliggjøre avstanden som er nødvendig for å opprette tillit til en reell to-instansbehandling i Tolletaten.
 
-### 3. Arkiv, journal og informasjon på eInnsyn – rettslige utgangspunkter
+#### 3. Arkiv, journal og informasjon på eInnsyn – rettslige utgangspunkter
 
 Hovedregelen er at det er innsynsrett i «[s]aksdokument, journalar og liknande register for organet», se offentleglova § 3. Innsynsretten etter offentleglova gjelder uavhengig av hva som er arkivert eller journalført hos forvaltningsorganet. Imidlertid forutsetter innsynsretten at dokumenter kan identifiseres og gjenfinnes. Offentlige forvaltningsorganers plikt til å ha arkiv og til å føre journal over inngående og utgående dokumenter er derfor en forutsetning for at reglene om innsyn skal oppfylle sin funksjon, se eksempelvis ombudets uttalelse 22. desember 2020 (SOM-2020-1929). I St.meld. nr. 32 (1997¬–98) er journalen omtalt som «nøkkelen til forvaltningens arkiver», se meldingen kapittel 5.3.1.1.
 
@@ -370,9 +332,9 @@ Alle etatene ombudet har rettet undersøkelsen mot, publiserer journalen for hel
 
 Sivilombudet har uttalt at dersom et forvaltningsorgan har valgt å benytte eInnsyn for å gjøre postjournalen tilgjengelig for innsyn, så står ikke forvaltningsorganet fritt til å bestemme hva som skal publiseres på eInnsyn. Dersom det finnes saker og dokumenttyper som forvaltningsorganet behandler som ikke fremgår av den offentlige postjournalen, må det som et minimum kreves at forvaltningsorganet tydelig opplyser om dette og gir informasjon om hvordan en kan søke innsyn i forvaltningsorganets fullstendige postjournal, se ombudets uttalelse 16. november 2022 (SOM-2022-3550).
 
-### 4. Arkiv, journal og informasjon på eInnsyn – korrespondanse innad i Tolletaten
+#### 4. Arkiv, journal og informasjon på eInnsyn – korrespondanse innad i Tolletaten
 
-#### 4.1 Journalføring av korrespondanse mellom enheter innad i Tolletaten
+##### 4.1 Journalføring av korrespondanse mellom enheter innad i Tolletaten
 
 Sivilombudet etterspurte skriftlige rutiner for journalføring av korrespondanse mellom enheter innad i etaten. Noe av bakgrunnen for spørsmålet var at ombudet er kjent med at det i stor grad brukes notatsform i sak- og arkivsystemet for korrespondanse mellom enheter innad i etatene. Ved bruk av systemer utenom sak- og arkivsystemet for kommunikasjon mellom ulike forvaltningsorganer er det videre en kjent fare for at saksdokumenter ikke journalføres, se eksempelvis Riksrevisjonens undersøkelse av arkivering og åpenhet i statlig forvaltning (Dokument 3:10 (2016–2017)). Noe av grunnen til dette kan være at journalføring av e-poster, Teams-chatter mv. krever manuelt, og til dels tidkrevende, arbeid fra saksbehandleren.
 
@@ -388,7 +350,7 @@ Ombudet minner om at saksdokumenter som er sendt mellom ulike forvaltningsorgane
 
 Dersom Tolletaten består av flere selvstendige organer, må Tolletaten gjennomgå journalføringsrutinene. Det bør også undersøkes om det er mulig å sende korrespondanse mellom de ulike forvaltningsorganene i etaten som utgående brev (forutsatt at etaten består av flere organer). I forlengelsen av dette må Tolletaten i så fall vurdere om inndelingen av arkivet er i tråd med arkivlova § 6 om at hvert forvaltningsorgan skal ha sitt eget arkiv. Sivilombudet mener videre at det er ryddig om det opprettes nytt saksnummer ved klagebehandlingen. Ombudet antar også dette vil være en konksekvens av at hvert forvaltningsorgan har sitt eget arkiv. Inndelingen vil antakelig ha betydning for opprettelsen av saker og registreringen av dokumenter som sendes mellom to selvstendige forvaltningsorgan, selv om organene inngår i samme etat.
 
-#### 4.2 Opplysninger i journalen og informasjon på eInnsyn
+##### 4.2 Opplysninger i journalen og informasjon på eInnsyn
 
 Sivilombudet registrerer at det ikke er mulig å skille ut enheter i etaten i postjournalen som publiseres på eInnsyn. Det er heller ikke mulig, ut fra journalopplysningene på eInnsyn, å identifisere korrespondanse mellom de ulike forvaltningsorganene i Tolletaten. Disse dokumentene har ingen informasjon oppført i feltet for til/fra, og dokumenttypen er angitt til «Internt». Sivilombudet ser at uttrekket av journalen som Tolletaten har oversendt hit, inneholder opplysninger om avsender og mottaker. Journalpostene identifiserer avsender/mottaker ved både avdelingsnavn og seksjonsnavn, likevel slik at divisjonsnavnet er forkortet, for eksempel synes Grensedivisjonen å være betegnet GD.
 
@@ -398,7 +360,7 @@ Gitt at Tolletaten består av flere organer, er det også uheldig at etaten ikke
 
 Sivilombudet vil sende kopi av denne uttalelsen til Finansdepartementet og til Arkivverket. Ombudet forutsetter at Tolletaten, i samråd med departementet og Arkivverket vurderer om Tolletatens arkiv må organiseres/inndeles på en annen måte enn det gjøres i dag.
 
-## Konklusjon
+### Konklusjon
 
 Sivilombudet er kommet til at det fremstår som usikkert hvordan organinndelingen i Tolletaten faktisk er per i dag.
 
@@ -417,5 +379,15 @@ Sivilombudet ba om en orientering om hva Tolletaten hadde foretatt seg etter omb
 Videre redegjorde Tolletaten for endringer i arkivet for klagesaksbehandlingen, herunder om synliggjøring av avsender/mottaker på den offentlige journalen.
 
 Sivilombudet merket seg Tolletatens redegjørelse, men minnet blant annet om at informasjon om avsender/mottaker må fremgå av journalen for all inn- og utgående korrespondanse mellom ulike forvaltningsorgan, ikke bare i klagesaker.
+
+**Oppdatering 18.11.2026:**
+
+I brev 26. juni 2026 ba ombudet Tolletaten om å redegjøre for den videre oppfølgingen av ombudets uttalelse etter den siste oppdateringen 20. februar 2024. Tolletaten ble blant annet bedt om å redegjøre for dagens arkivordning, journalføring av etatsintern korrespondanse mellom det som anses som selvstendige forvaltningsorganer, og status for arbeidet med mulig lovfesting av eget klageorgan i Tolletaten.
+
+Tolletaten svarte i brev 27. august 2026 blant annet at innføringen av nytt saks- og arkivsystem var forsinket, men nå forventet å være på plass i løpet av første kvartal 2027. Den nye løsningen vil være utformet slik at arkiv- og journalinformasjon kan avgrenses og tilgjengeliggjøres i tråd med den organinndelingen som legges til grunn av etaten. Videre ble det opplyst om at det ikke var funnet grunn til å gå videre med organisatoriske endringer eller arbeid med lovfesting av en egen klageordning.
+
+Ombudet tok i brev 30. oktober 2026 Tolletatens redegjørelse til etterretning, men påpekte at det er uheldig at Tolletaten over mange år har hatt en arkivløsning som medfører at den offentlige journalen ikke er i tråd med gjeldende regler.
+
+Ombudets brev ble sendt i kopi til Finansdepartementet. I tillegg ble det gitt en orientering til Statsministerens kontor, Justis- og beredskapsdepartementet, Kommunal- og distriktsdepartementet og Nasjonalarkivet.
 
 Saken ble etter dette avsluttet her.
