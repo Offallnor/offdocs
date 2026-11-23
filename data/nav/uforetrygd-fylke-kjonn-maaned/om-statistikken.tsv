@@ -1,7 +1,7 @@
 # Kilde: Nav
 # Tabell: Mottakere av uføretrygd etter fylke og kjønn, måned (PST300)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk
-# Lagt inn: 2026-11-10
+# Lagt inn: 2026-11-23
 # Ark:  Om statistikken
 # PST300 Mottakere av uføretrygd. Antall og andel av befolkningen 18-67 år. Fylke. Kjønn. År. Måned.
 # Merknad: Rapporten viser antall og andel personer med uføretrygd. Rapporten inneholder en fullstendig månedsserie per år.
@@ -21,4 +21,4 @@
 # Merknad: Oppdatering/statistikkperiode
 # Merknad: I november 2018 byttet vi geografivariabel slik at personer med ukjent bostedskommune er fordelt på forrige bostedskommune, slik at det blir færre med ukjent bostedskommune i statistikken. Antall med ukjent kommune går ned fra ca 1300 til ca 100 på landsplan og ca 1200 er fordelt på øvrige kommuner. De fleste av de 1300 er personer uten fast bopel. Små tall stjernes ut.
 # Merknad: Endringer
-rad	Om statistikken	Rapport oppdatert: 05.10.2026
+rad	Om statistikken	Rapport oppdatert: 06.11.2026
