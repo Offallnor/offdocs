@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/alle-skytjenesteleverandorer-er-underlagt-etterretning"
-hentet: "2026-11-17"
+hentet: "2026-11-24"
 ---
 
 # Alle skytjenesteleverandører er underlagt etterretning

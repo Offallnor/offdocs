@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/betyr-skytjenesters-forbehold-i-avtalen-jeg-instruerer-dem"
-hentet: "2026-11-17"
+hentet: "2026-11-24"
 ---
 
 # Betyr skytjenesters forbehold i avtalen at jeg instruerer dem?

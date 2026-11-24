@@ -2,7 +2,7 @@
 veileder: "KI Norges veiledning om kunstig intelligens i offentlig sektor"
 utgiver: "KI Norge (Digitaliseringsdirektoratet)"
 kilde: "https://ki.norge.no/veiledning/gjor-ki-arbeidet-enklere-med-standarder"
-hentet: "2026-11-14"
+hentet: "2026-11-24"
 ---
 
 # Gjør KI-arbeidet enklere med standarder

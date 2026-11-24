@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/oppsummering-av-gruppens-vurderinger"
-hentet: "2026-11-17"
+hentet: "2026-11-24"
 ---
 
 # Oppsummering av gruppens vurderinger
@@ -13,9 +13,9 @@ Hvor er jeg i veiledningen?
 
 Tilbake til hovedsiden
 
-## 1         Sammendrag av gruppens vurderinger
+## 1 Sammendrag av gruppens vurderinger
 
-### 1.1        Risiko skal vurderes ved valg av skytjenesteleverandør som databehandler
+### 1.1 Risiko skal vurderes ved valg av skytjenesteleverandør som databehandler
 
 Behandlingsansvarlig skal gjøre [risikovurderinger ved valg av databehandler](https://markedsplassen.anskaffelser.no/personvernforordningens-sentrale-bestemmelser-vurdering-av-etterretningsrisiko) med utgangspunkt i sin konkrete behandling av personopplysninger, jf. artikkel 32, jf. 28 nr. 1. Slike vurderinger må gjennomføres uavhengig av om det [overføres personopplysninger](https://markedsplassen.anskaffelser.no/hva-er-en-overforing) i henhold til personvernforordningens kapittel V. I vurderingene kan det være relevant å vurdere risikoen for andre land innhenter personopplysninger til etterretningsformål.
 
@@ -44,7 +44,7 @@ Lovgivningen er kun et utgangspunkt, men det er ofte et naturlig sted å starte.
 
 Les mer her
 
-### 1.3        Hvordan vurderer jeg risikoen for innhenting av personopplysninger til etterretningsformål?
+### 1.3 Hvordan vurderer jeg risikoen for innhenting av personopplysninger til etterretningsformål?
 
 Det er utfordrende å gjøre gode vurderinger av risikoen for at andre land innhenter personopplysninger til etterretningsformål. Dette skyldes blant annet at slik innhenting kan skje på mange måter, se punkt 2.2 på siden ["Hjelp til å vurdere personvernrisikoen for innhenting til etterretningsformål"](https://markedsplassen.anskaffelser.no/veiledning/veiledning-etter-schrems-ii/personvernrisiko-for-etterretning/96). Hvilke typer innhenting som må vurderes avhenger av den konkrete behandlingen. På bakgrunn av spørsmålene i Schrems II fokuserer arbeidsgruppen særlig på to former for innhenting til etterretningsformål og [gir veiledning til hvordan risikovurderinger av disse hendelsene kan gjøres](https://markedsplassen.anskaffelser.no/veiledning/veiledning-etter-schrems-ii/personvernrisiko-for-etterretning/96):
 
@@ -53,7 +53,7 @@ Det er utfordrende å gjøre gode vurderinger av risikoen for at andre land innh
 
 Arbeidsgruppen har kun sett på riskovurderinger i personvernforordningen etter Schrems II. **Gruppen har ikke vurdert og gir ikke veiledning for vurderinger etter sikkerhetsloven.**
 
-### 1.4        Skytjenester hvor lagring og prosessering skjer i EU/EØS
+### 1.4 Skytjenester hvor lagring og prosessering skjer i EU/EØS
 
 Bruk av amerikanske skytjenester med region i EU/EØS innebærer ikke [en overføring av personopplysninger](https://markedsplassen.anskaffelser.no/hva-er-en-overforing) så lenge dataflyten skjer internt i EU/EØS. Dersom skytjenesteleverandøren uten instruks fra deg likevel overfører opplysninger ut av EU/EØS, eksempelvis for å imøtekomme en utleveringsbegjæring, er skytjenesteleverandøren normalt selv behandlingsansvarlig for dette, se [punkt 4 i "Hva er en overføring".](https://markedsplassen.anskaffelser.no/hva-er-en-overforing)
 
@@ -61,7 +61,7 @@ Hva er en overføring?
 
 Arbeidsgruppen legger til grunn at overføringsbegrepet i personvernforordningens kapittel V forutsetter at personopplysninger i form av digital informasjon faktisk krysser grensene til EU/EØS. Eksempler på dette er når opplysninger sendes og når en fjerntilgang blir benyttet. Overføringen skjer kun **når**personopplysningene sendes eller fjerntilgangen benyttes. En teoretisk mulighet for at en overføring kan skjemedfører altså ikke at opplysninger har blitt overført. Dette innebærer at muligheten for fjerntilgang i seg selv ikke innebærer at det skjer en overføring, det er først når den benyttes.
 
-### 1.5        Skytjenester hvor lagring og prosessering skjer i tredjeland
+### 1.5 Skytjenester hvor lagring og prosessering skjer i tredjeland
 
 Når det benyttes skytjenester eller funksjoner i skytjenester med lagring og prosessering i tredjeland slik at det skjer en flyt av personopplysninger til dette tredjelandet, overføres det personopplysninger i henhold til overføringsbegrepet i pvf. kapittel V. Hvis [Standard Contractual Clauses (SCC)](https://www.datatilsynet.no/rettigheter-og-plikter/virksomhetenes-plikter/overforing-av-personopplysninger-ut-av-eos/overforingsgrunnlag/) benyttes som overføringsmekanisme [skal det foretas en helhetsvurdering](https://markedsplassen.anskaffelser.no/oppsummering-av-relevante-rettskilder-overforing-av-personopplysninger), jf. pvf. kapittel V, EMK artikkel 8 og Schrems II. I denne helhetsvurderingen er det **opplysningene som faktisk overføres** som skal vurderes.
 
@@ -89,20 +89,20 @@ Vi har lagt [stor vekt på EMK artikkel 8](https://markedsplassen.anskaffelser.n
 
 Ved en overføring har den registrerte krav på et vernenivå som er "essentially equivalent" til det vi har i EU/EØS. Vi har imidlertid ikke et absolutt vern mot etterretning. Det avgjørende er derfor at [inngrepet som overføringen medfører ikke utgjør en krenkelse.](https://markedsplassen.anskaffelser.no/hvilket-vern-mot-innhenting-til-etterretningsformal-har-vare-personopplysninger-etter-emk-og)
 
-### 1.6       Overføringer som arbeidsgruppen særlig har vurdert
+### 1.6 Overføringer som arbeidsgruppen særlig har vurdert
 
 Arbeidsgruppen har sett nærmere på to situasjoner hvor det skjer overføringer:
 
 - [Arbeidsrelaterte personopplysninger](https://markedsplassen.anskaffelser.no/overforing-av-arbeidsrelaterte-personopplysninger): Ved bruk av en skytjeneste eller et annet skybasert digitalt verktøy i arbeidssammenheng, vil det ofte overføres visse opplysninger om de ansatte som skal bruke verktøyet ("arbeidsrelaterte personopplysninger"). Dette kan eksempelvis være fordi serverne for autentisering og tilgangsstyring er utenfor EU/EØS. For overføring av arbeidsrelaterte opplysninger anser arbeidsgruppen at inngrepet som overføringen medfører normalt vil være så lite at det ikke er behov for ytterligere tiltak og rettsikkerhetsmekanismer enn det som allerede følger av personvernforordningens øvrige bestemmelser.
 - [Supporttjenester](https://markedsplassen.anskaffelser.no/overforing-av-personopplysninger-ved-supporttjenester): Bruk av supporttjenester kan medføre overføring av personopplysninger, men det finnes flere tiltak som begrenser muligheten for overføring ved bruk av supporttjenester. Dersom slike tiltak er gjennomført i tilstrekkelig grad, anser gruppen som hovedregel ikke supporttjenester som problematisk med hensyn til tredjelands etterretning.
 
-### 1.7        Skytjenestenes standardvilkår
+### 1.7 Skytjenestenes standardvilkår
 
 Skytjenestenes standardvilkår gir behandlingsansvarlig viktig informasjon om hva skytjenesteleverandøren kan foreta seg. Informasjonen bør brukes til å gjøre gode risikovurderinger ved anskaffelse og bruk av skytjenesten. Standardvilkårene gir likevel ikke uttømmende informasjon om det som kan skje. Det er alltid en risiko ved bruk av digitale verktøy. Aktuelle risikoer må vurderes på en tilstrekkelig måte for den konkrete behandling, jf. blant annet artikkel 32, jf. artikkel 28 nr. 1.
 
 Behandlingsansvarlig fastsetter mål og midler for behandlingen, herunder å instruere skytjenesteleverandøren om hva denne skal gjøre. Skytjenesteleverandøren skal kun behandle opplysninger på instruks fra behandlingsansvarlig. Dersom de selv fastsetter mål og midler for behandlingen, behandler de ikke på instruks og er selv behandlingsansvarlige.
 
-### 1.8        Er et forbehold i standardvilkårene om utlevering av personopplysninger en instruks?
+### 1.8 Er et forbehold i standardvilkårene om utlevering av personopplysninger en instruks?
 
 Forbehold i standardvilkårene om mulig utlevering av opplysninger til etterretningsmyndigheter bidrar til klarhet i avtaleforholdet, men hva betyr det at behandlingsansvarlig har akseptert dette forbeholdet? [Det betyr ikke nødvendigvis at behandlingsansvarlig har instruert skytjenesteleverandøren.](https://markedsplassen.anskaffelser.no/betyr-skytjenesters-forbehold-i-avtalen-jeg-instruerer-dem)
 
@@ -128,7 +128,7 @@ Arbeidsgruppen mener det harmonerer dårlig med personvernforordningens systemat
 
 Du kan lese mer om denne problemstillingen og arbeidsgruppens vurdering under [punkt 6.3 i "Betyr skytjenesters forbehold i avtalen at jeg instruerer dem?"](https://markedsplassen.anskaffelser.no/betyr-skytjenesters-forbehold-i-avtalen-jeg-instruerer-dem).
 
-## 2         Er arbeidsgruppen uenig med Datatilsynet?
+## 2 Er arbeidsgruppen uenig med Datatilsynet?
 
 Det korte svaret er nei. Arbeidsgruppen har benyttet uttalelser og [veiledning fra Datatilsynet](https://www.datatilsynet.no/rettigheter-og-plikter/virksomhetenes-plikter/overforing-av-personopplysninger-ut-av-eos/) og [veiledning fra EDPB](https://edpb.europa.eu/system/files/2021-06/edpb_recommendations_202001vo.2.0_supplementarymeasurestransferstools_en.pdf) som rettskildefaktorer for å klarlegge de juridiske spørsmålene etter Schrems II. Her blir disse rettskildefaktorene sammenholdt med øvrige rettskildefaktorer i henhold til vanlig juridisk metode. Datatilsynet har ikke vært involvert i arbeidet.
 
@@ -142,9 +142,9 @@ Arbeidsgruppen har imidlertid også tatt stilling til visse juridiske spørsmål
 
 Vi er takknemlige for tilbakemeldinger!
 
-Arbeidsgruppen ønsker å gi god og korrekt veiledning. De juridiske spørsmålene på dette området er mange og kompliserte. Dette er også et område med rask utvikling. Leser du noe du mener er feil eller har du innspill? Da vil vi gjerne høre fra deg, slik at vi kan oppdatere tekstene og sørge for at vi hjelper hverandre med de vanskelige spørsmålene. Send oss tilbakemelding til [[email protected]](https://markedsplassen.anskaffelser.no/cdn-cgi/l/email-protection#c58e8485a1a3aaebabaa)
+Arbeidsgruppen ønsker å gi god og korrekt veiledning. De juridiske spørsmålene på dette området er mange og kompliserte. Dette er også et område med rask utvikling. Leser du noe du mener er feil eller har du innspill? Da vil vi gjerne høre fra deg, slik at vi kan oppdatere tekstene og sørge for at vi hjelper hverandre med de vanskelige spørsmålene. Send oss tilbakemelding til [[email protected]](https://markedsplassen.anskaffelser.no/cdn-cgi/l/email-protection#783339381c1e17561617)
 
-## 3         Praktiske tips
+## 3 Praktiske tips
 
 Behandlingsansvarlig skal ha gjort nødvendige vurderinger ved anskaffelsen av skytjenesten, og en [DPIA](https://www.datatilsynet.no/rettigheter-og-plikter/virksomhetenes-plikter/vurdere-personvernkonsekvenser/vurdering-av-personvernkonsekvenser/) dersom personvernreglene krever dette. DPIA gjort før Schrems II vil ikke nødvendigvis være dekkende i dag.
 

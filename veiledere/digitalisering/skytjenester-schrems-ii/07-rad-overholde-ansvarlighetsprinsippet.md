@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/rad-overholde-ansvarlighetsprinsippet"
-hentet: "2026-11-17"
+hentet: "2026-11-24"
 ---
 
 # Råd for å overholde ansvarlighetsprinsippet

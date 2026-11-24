@@ -2,7 +2,7 @@
 veileder: "KI Norges veiledning om kunstig intelligens i offentlig sektor"
 utgiver: "KI Norge (Digitaliseringsdirektoratet)"
 kilde: "https://ki.norge.no/veiledning/gjor-dataene-ki-klare/finn-ut-hvilke-data-du-trenger/gjor-data-ki-klare-med-fair-prinsippene"
-hentet: "2026-11-14"
+hentet: "2026-11-24"
 ---
 
 # Gjør data KI-klare med FAIR-prinsippene

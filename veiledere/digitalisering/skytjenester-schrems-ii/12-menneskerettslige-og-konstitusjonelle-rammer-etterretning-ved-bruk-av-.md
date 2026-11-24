@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/menneskerettslige-og-konstitusjonelle-rammer-etterretning-ved-bruk-av-skytjenester"
-hentet: "2026-11-17"
+hentet: "2026-11-24"
 ---
 
 # Hvilket vern mot innhenting til etterretningsformål har våre personopplysninger etter EMK og Grunnloven ved bruk av skytjenester?

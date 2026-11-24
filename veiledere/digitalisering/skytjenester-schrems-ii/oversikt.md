@@ -2,12 +2,12 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/kunnskap-og-veiledning/informasjonssikkerhet-og-personvern/hvordan-bruke-skytjenester-etter-schrems-ii"
-hentet: "2026-11-17"
+hentet: "2026-11-24"
 ---
 
 # Hvordan bruke skytjenester etter Schrems II
 
-Tekst fra Direktoratet for forvaltning og økonomistyring, hentet fra [markedsplassen.anskaffelser.no](https://markedsplassen.anskaffelser.no/kunnskap-og-veiledning/informasjonssikkerhet-og-personvern/hvordan-bruke-skytjenester-etter-schrems-ii) 2026-11-17. Den er veiledning, ikke lov eller forskrift. Hvilke krav som er pålagt statlige virksomheter, står i digitaliseringsrundskrivet.
+Tekst fra Direktoratet for forvaltning og økonomistyring, hentet fra [markedsplassen.anskaffelser.no](https://markedsplassen.anskaffelser.no/kunnskap-og-veiledning/informasjonssikkerhet-og-personvern/hvordan-bruke-skytjenester-etter-schrems-ii) 2026-11-24. Den er veiledning, ikke lov eller forskrift. Hvilke krav som er pålagt statlige virksomheter, står i digitaliseringsrundskrivet.
 
 Ved anskaffelser og bruk av skytjenester er det mange krevende personvernvurderinger som må foretas. Koordineringsarbeidet har på oppdrag fra SKATE nedsatt en arbeidsgruppe som skal gi veiledning til flere av disse vurderingene. På denne siden finner du arbeidsgruppens resultater.
 

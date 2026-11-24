@@ -2,12 +2,12 @@
 veileder: "KI Norges veiledning om kunstig intelligens i offentlig sektor"
 utgiver: "KI Norge (Digitaliseringsdirektoratet)"
 kilde: "https://ki.norge.no/veiledning"
-hentet: "2026-11-14"
+hentet: "2026-11-24"
 ---
 
 # KI Norges veiledning om kunstig intelligens i offentlig sektor
 
-Tekst fra KI Norge, hentet fra [ki.norge.no](https://ki.norge.no/veiledning) 2026-11-14. Den er veiledning, ikke lov eller forskrift. Hvilke krav som er pålagt statlige virksomheter, står i digitaliseringsrundskrivet.
+Tekst fra KI Norge, hentet fra [ki.norge.no](https://ki.norge.no/veiledning) 2026-11-24. Den er veiledning, ikke lov eller forskrift. Hvilke krav som er pålagt statlige virksomheter, står i digitaliseringsrundskrivet.
 
 Lurer du på hva det er lurt å tenke på når du skal bruke, anskaffe eller lage et KI-system? Her finner du veiledning fra det offentlige.
 
@@ -34,9 +34,9 @@ Ulike former for KI egner seg til å løse ulike problemer.
 
 ## Lær av andre
 
-### [KI-sentralbord](https://ki.norge.no/eksempler/ki-sentralbord)
+### [Microsoft 365 Copilot i Miljødirektoratet](https://ki.norge.no/eksempler/microsoft-365-copilot-i-miljodirektoratet)
 
-### [KI i Nav kontaktsenter](https://ki.norge.no/eksempler/ki-i-nav-kontaktsenter)
+### [KI-sentralbord](https://ki.norge.no/eksempler/ki-sentralbord)
 
 ## Kapitler
 

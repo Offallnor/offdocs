@@ -2,7 +2,7 @@
 veileder: "KI Norges veiledning om kunstig intelligens i offentlig sektor"
 utgiver: "KI Norge (Digitaliseringsdirektoratet)"
 kilde: "https://ki.norge.no/veiledning/gjor-dataene-ki-klare/analysere-skjevhet-i-data"
-hentet: "2026-11-14"
+hentet: "2026-11-24"
 ---
 
 # 3. Forberede data til bruk

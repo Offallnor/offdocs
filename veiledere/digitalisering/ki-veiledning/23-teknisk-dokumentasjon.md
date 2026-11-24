@@ -2,7 +2,7 @@
 veileder: "KI Norges veiledning om kunstig intelligens i offentlig sektor"
 utgiver: "KI Norge (Digitaliseringsdirektoratet)"
 kilde: "https://ki.norge.no/veiledning/gjor-dataene-ki-klare/teknisk-dokumentasjon"
-hentet: "2026-11-14"
+hentet: "2026-11-24"
 ---
 
 # 1. Før du samler inn data

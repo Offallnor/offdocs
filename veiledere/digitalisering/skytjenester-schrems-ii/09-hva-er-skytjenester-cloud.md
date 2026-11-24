@@ -2,7 +2,7 @@
 veileder: "Hvordan bruke skytjenester etter Schrems II"
 utgiver: "Direktoratet for forvaltning og økonomistyring (DFØ)"
 kilde: "https://markedsplassen.anskaffelser.no/hva-er-skytjenester-cloud"
-hentet: "2026-11-17"
+hentet: "2026-11-24"
 ---
 
 # Hva er skytjenester (cloud)

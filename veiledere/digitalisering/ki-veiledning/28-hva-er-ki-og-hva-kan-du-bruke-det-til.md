@@ -2,7 +2,7 @@
 veileder: "KI Norges veiledning om kunstig intelligens i offentlig sektor"
 utgiver: "KI Norge (Digitaliseringsdirektoratet)"
 kilde: "https://ki.norge.no/veiledning/hva-er-ki-og-hva-kan-du-bruke-det-til"
-hentet: "2026-11-14"
+hentet: "2026-11-24"
 ---
 
 # Hva er KI og hva kan du bruke det til?

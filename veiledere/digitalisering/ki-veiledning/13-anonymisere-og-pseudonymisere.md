@@ -2,7 +2,7 @@
 veileder: "KI Norges veiledning om kunstig intelligens i offentlig sektor"
 utgiver: "KI Norge (Digitaliseringsdirektoratet)"
 kilde: "https://ki.norge.no/veiledning/gjor-dataene-ki-klare/forsta-behandling-av-sensitive-personopplysninger/anonymisere-og-pseudonymisere"
-hentet: "2026-11-14"
+hentet: "2026-11-24"
 ---
 
 # Anonymisere og pseudonymisere data

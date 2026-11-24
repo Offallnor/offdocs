@@ -2,7 +2,7 @@
 veileder: "KI Norges veiledning om kunstig intelligens i offentlig sektor"
 utgiver: "KI Norge (Digitaliseringsdirektoratet)"
 kilde: "https://ki.norge.no/veiledning/kom-i-gang-med-ki/koble-data-til-ki"
-hentet: "2026-11-14"
+hentet: "2026-11-24"
 ---
 
 # 4. Implementere
