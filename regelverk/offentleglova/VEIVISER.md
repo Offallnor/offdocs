@@ -31,7 +31,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
-- Sivilombudets uttalelser (211 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+- Sivilombudets uttalelser (212 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -120,5 +120,5 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
-- `rundskriv/sivilombudet/` – 211 filer, start med `rundskriv/sivilombudet/oversikt.md`
+- `rundskriv/sivilombudet/` – 212 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

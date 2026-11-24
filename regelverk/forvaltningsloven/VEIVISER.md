@@ -39,7 +39,7 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 
 - Navs rundskriv (R36-00) – se «Rundskriv» under «Andre kilder» nederst
 - Høyesteretts avgjørelser fra november 2021 (rettspraksis) (16 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
-- Sivilombudets uttalelser (860 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+- Sivilombudets uttalelser (861 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -259,7 +259,7 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/rundskriv-r36-00/` – 56 filer, start med `rundskriv/rundskriv-r36-00/oversikt.md`
-- `rundskriv/sivilombudet/` – 860 filer, start med `rundskriv/sivilombudet/oversikt.md`
+- `rundskriv/sivilombudet/` – 861 filer, start med `rundskriv/sivilombudet/oversikt.md`
 
 ### Rettspraksis
 

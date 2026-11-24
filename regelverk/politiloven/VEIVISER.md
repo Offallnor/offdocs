@@ -32,7 +32,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
-- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (18 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (19 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - Sivilombudets uttalelser (10 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -276,5 +276,5 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rettspraksis
 
-- `rettspraksis/hoyesterett/` – 18 filer, start med `rettspraksis/hoyesterett/oversikt.md`
+- `rettspraksis/hoyesterett/` – 19 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->
