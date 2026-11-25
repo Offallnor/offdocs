@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 23 – 24 – Avgift"
 punkt: "Kapittel 23 – 24 – Avgift"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_22"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # Kapittel 23 – 24 – Avgift

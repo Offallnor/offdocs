@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 9 – Stønad ved barns og andre nærståendes sykdom"
 punkt: "9.1 Generelt"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_9-1"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 9.1 Generelt

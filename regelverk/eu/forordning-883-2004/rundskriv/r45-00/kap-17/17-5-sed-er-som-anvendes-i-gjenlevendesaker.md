@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 17 – Ytelser til gjenlevende ektefelle"
 punkt: "17.5 – SED'er som anvendes i gjenlevendesaker"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_16-5"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 17.5 – SED'er som anvendes i gjenlevendesaker

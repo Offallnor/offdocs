@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 7 – Stønad ved gravferd"
 punkt: "Kapittel 7 – Stønad ved gravferd"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_7"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # Kapittel 7 – Stønad ved gravferd

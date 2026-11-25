@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 14 – Ytelser ved svangerskap, fødsel og adopsjon"
 punkt: "14.8 Sammenlegging av opptjeningsperioder for rett til foreldrepenger – trygdeforordningen artikkel 6 og gjennomføringsforordningen artikkel 12"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_13-8"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 14.8 Sammenlegging av opptjeningsperioder for rett til foreldrepenger – trygdeforordningen artikkel 6 og gjennomføringsforordningen artikkel 12

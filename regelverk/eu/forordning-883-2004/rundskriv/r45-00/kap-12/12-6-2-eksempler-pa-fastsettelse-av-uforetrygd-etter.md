@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 12 – Uføretrygd"
 punkt: "12.6.2 Eksempler på fastsettelse av uføretrygd etter folketrygdloven og etter EØS-reglene"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_11-6-2"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 12.6.2 Eksempler på fastsettelse av uføretrygd etter folketrygdloven og etter EØS-reglene

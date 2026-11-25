@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 20 – Alderspensjon"
 punkt: "20.7 Andre trygdeavtaler som EØS-land har inngått seg imellom og betydning for alderspensjon – trygdeforordningen art. 8"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_19-7"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 20.7 Andre trygdeavtaler som EØS-land har inngått seg imellom og betydning for alderspensjon – trygdeforordningen art. 8

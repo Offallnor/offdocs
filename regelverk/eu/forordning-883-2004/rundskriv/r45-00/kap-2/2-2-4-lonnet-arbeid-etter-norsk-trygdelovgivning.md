@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 2 – Regler om medlemskap og om hvilket lands lovgivning som skal anvendes"
 punkt: "2.2.4. Lønnet arbeid etter norsk trygdelovgivning"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_2-2-4"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 2.2.4. Lønnet arbeid etter norsk trygdelovgivning

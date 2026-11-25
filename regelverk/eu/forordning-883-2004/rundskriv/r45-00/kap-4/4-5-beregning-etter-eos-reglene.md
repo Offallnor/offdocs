@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 4 – Dagpenger"
 punkt: "4.5. Beregning etter EØS-reglene"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_4-5"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 4.5. Beregning etter EØS-reglene
@@ -12,7 +12,7 @@ Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00). Kapittel 4 – 
 
 ## 4.5.1 Beregning av minsteinntekt for rett til dagpenger – folketrygdloven § 4-4
 
-\[Omarbeidet 10/26\]
+\[Omarbeidet 10/26, endret 11/26\]
 
 Arbeidsperioder utført som arbeidstaker og likestilte perioder i andre EØS-land, inngår i grunnlaget for beregning av kravet om minste arbeidsinntekt i [folketrygdloven § 4-4](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A74-4). Dette gjelder tilsvarende for et medlem som omfattes av EØS/EFTA-landenes konvensjon om trygdekoordinering med Storbritannia, samt konvensjon om trygdekoordinering med Sveits. Se rundskrivene til disse konvensjonene.
 
@@ -36,7 +36,7 @@ En person søker om dagpenger 15. oktober 2026. I de siste 12 avsluttede kalende
 
 I tillegg har vedkommende hatt arbeidsinntekt i et annet EØS-land på EUR 49 999 og mottatt foreldrepenger på EUR 999 i perioden oktober 2023 til september 2025.
 
-Arbeidsinntekten og de likestilte ytelsene fra det andre EØS-landet skal omregnes til norske kroner ved bruk av valutakursen som ECB har offentliggjort den siste dagen i referanseperioden. Valutakursen 30. september 2025 var 11,7265.
+Arbeidsinntekten og de likestilte ytelsene fra det andre EØS-landet skal omregnes til norske kroner ved bruk av valutakursen som ECB har offentliggjort den siste dagen i referanseperioden. Valutakursen 30. september 202*6* var 11,7265.
 
 Arbeidsinntekten på EUR 49 999 omregnes til kr 586 313,274 og foreldrepenger på EUR 999 omregnes til kr 11 714,7735. Etter avrunding til to desimaler etter vanlige avrundingsregler blir beløpene henholdsvis kr 586 313,27 og kr 11 714,77.
 
@@ -57,7 +57,7 @@ Vedkommende oppfyller ikke minsteinntektskravet på 1,5 G på grunnlag av arbeid
 
 ## 4.5.2 Beregning av stønadsperiodens lengde – folketrygdloven § 4-15
 
-\[Omarbeidet 10/26\]
+\[Omarbeidet 10/26, endret 11/26\]
 
 Etter opphevelsen av [dagpengeforskriften § 13-2](https://lovdata.no/nav/forskrift/1998-09-16-890/%C2%A713-2) fra 1. november 2026 finnes det ikke lenger noen egen regel for beregning av stønadsperiodens lengde for brukere med opptjening (delvis) i et annet land.
 
@@ -65,7 +65,7 @@ Stønadsperiodens lengde vurderes etter folketrygdloven § 4-15 på samme måte 
 
 **Eksempel:**
 
-Det vises til eksempelet i punkt 4.5.1. Samlet inntekt fra arbeids- og trygdeperioder fra Norge og andre EØS-land utgjør kr 748 028,04. Når vilkårene for sammenlegging etter artikkel 61 er oppfylt, inngår disse inntektene ved vurderingen etter [folketrygdloven § 4-15](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A74-15). Siden inntekten overstiger 2 G, har personen rett til en stønadsperiode på 104 uker.
+*Det vises til eksempelet i punkt 4.5.1. Når vilkårene for sammenlegging etter artikkel 61 er oppfylt, inngår disse inntektene ved vurderingen etter [folketrygdloven § 4-15](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A74-15). På virkningstidspunktet er 2G kr 273 098. Samlet inntekt siste 12 måneder er kr 150 000 som er under 2G. Samlet inntekt fra Norge og fra arbeids- og trygdeperioder i andre EØS-land siste 36 måneder utgjør kr 748 028,04. I gjennomsnitt siste 36 måneder utgjør dette kr 249 342,68 som er mindre enn 2G. Siden inntekten ikke overstiger 2G har personen rett til en stønadsperiode på 52 uker.*
 
 ## 4.5. 3 Beregning av dagpengegrunnlag – folketrygdloven § 4-11
 

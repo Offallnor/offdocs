@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 20 – Alderspensjon"
 punkt: "20.5 Sammenlegging av tid – trygdeforordningen artikkel 6"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_19-5"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 20.5 Sammenlegging av tid – trygdeforordningen artikkel 6

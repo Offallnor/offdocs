@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 12 – Uføretrygd"
 punkt: "12.6.4 Beregningsgrunnlaget for uføretrygd ved pro rata-beregning – forskriften § 2"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_11-6-4"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 12.6.4 Beregningsgrunnlaget for uføretrygd ved pro rata-beregning – forskriften § 2

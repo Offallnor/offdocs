@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 34 – Kontantstøtte"
 punkt: "34.6 Fastsetting av prioritet"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_28-6"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 34.6 Fastsetting av prioritet
@@ -152,7 +152,7 @@ Bor i land B</td>
 <td>Høyeste beløp fra land A eller C (refusjon til 50 % av beløpet fra sekundærlandet)</td>
 </tr>
 <tr>
-<td>Arbeid i land A 75 % <del></del> Arbeid i land B 25 % Bor i land A</td>
+<td>Arbeid i land A 75 % Arbeid i land B 25 % Bor i land A</td>
 <td>Arbeid i land D 100 %<br />
 Bor i land C</td>
 <td>Bor sammen med person 2 i land C</td>

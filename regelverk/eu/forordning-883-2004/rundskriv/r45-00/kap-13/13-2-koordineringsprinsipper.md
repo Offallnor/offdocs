@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 13 – Yrkesskadedekning"
 punkt: "13.2 – Koordineringsprinsipper"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_12-2"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 13.2 – Koordineringsprinsipper

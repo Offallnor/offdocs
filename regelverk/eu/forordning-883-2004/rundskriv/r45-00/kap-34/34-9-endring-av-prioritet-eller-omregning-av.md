@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 34 – Kontantstøtte"
 punkt: "34.9 Endring av prioritet eller omregning av differansebeløp"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_28-10"
-sist_endret: "2026-10-30"
+sist_endret: "2026-11-24"
 ---
 
 # 34.9 Endring av prioritet eller omregning av differansebeløp
