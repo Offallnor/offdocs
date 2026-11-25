@@ -68,3 +68,32 @@ sysselsetting-innvandrere	Integrering	Sysselsetting blant innvandrere og flyktni
 jobbsjansen	Integrering	Jobbsjansen	671	
 imdi-drift	Integrering	IMDi og andre integreringstiltak (mangfoldsrådgivere, negativ sosial kontroll)	670;671	kutt-driftsbevilgning;mangfoldsradgivere;bo-og-stottetilbud
 tilskudd-tildelingslister	Tilskudd	Lister over hvem som har fått tilskudd fra en ordning	 	
+barnehage-pris	Barnehage	Maksimalpris, moderasjon og gratis kjernetid i barnehage	231	
+barnehage-rett-til-plass	Barnehage	Rett til plass, opptak, utsatt og fleksibel skolestart	231	
+barnehage-bemanning	Barnehage	Bemanningsnorm, pedagognorm og årsverkskostnader i barnehage	231	
+barnehage-private	Barnehage	Tilskudd og pensjon til private barnehager	231	
+omradesatsing	Barnehage og skole	Tiltak i levekårsutsatte områder (pedagogtetthet, SFO, kjernetid)	226;231	
+sfo	Grunnopplæring	Gratis SFO, moderasjon og bemanning i SFO	226	
+timetall	Grunnopplæring	Timetall og kostnad per uketime, leksehjelp, skoleskyss og andre plikter i grunnskolen	226	
+laerertetthet	Grunnopplæring	Lærernorm, lærerårsverk, smågruppeundervisning, kontaktlærere og lærerlønn	226	
+laerer-kompetanse	Grunnopplæring	Videreutdanning, lærerspesialister, veiledning og nasjonale sentre	226	
+skolemiljo	Grunnopplæring	Skolemiljøteam, beredskapsteam og elever med behov for særlig oppfølging	226	
+skolemat	Grunnopplæring	Skolemåltid og skolefrukt	226	
+laeremidler	Grunnopplæring	Lærebøker, skolebibliotek, utstyr og læringsarenaer	226	
+prover-eksamen	Grunnopplæring	Nasjonale prøver, kartleggingsprøver, eksamen og internasjonale undersøkelser	226	
+privatskoler	Grunnopplæring	Tilskudd til private grunn- og videregående skoler	228	
+folkehogskoler	Grunnopplæring	Folkehøgskoler: tilskudd og stipendandel	253;2410	
+fag-og-yrkesopplaering	Videregående opplæring	Lærlingtilskudd, læreplasser, fagbrev på jobb og elever i videregående	225	
+vgo-stipend	Videregående opplæring	Utstyrsstipend og borteboerstipend	2410	
+fagskole	Fagskole	Studieplasser, driftstilskudd og tilsyn i fagskolene	240	
+studieplasser	Høyere utdanning	Studieplasser, søkere og frafall i høyere utdanning	260	
+uh-finansiering	Høyere utdanning	Rammebevilgning, resultatbasert finansiering, bygg og utgifter i universiteter og høyskoler	260	
+internasjonale-studenter	Høyere utdanning	Studenter fra land utenfor EØS og studieavgift	260	
+studentboliger	Høyere utdanning	Studentboliger og velferd i studentsamskipnadene	270	
+studiestotte-niva	Studiestøtte	Nivå på studiestøtten, kobling til G og antall måneder	2410	
+studiestotte-stipend	Studiestøtte	Stipendandel, omgjøring og inntektsgrense	2410	
+studiestotte-utland	Studiestøtte	Støtte og skolepenger for studenter i utlandet	2410	
+studielan-tilbakebetaling	Studiestøtte	Gjeldsslette, renter, betalingsutsettelse og mislighold	2410	
+kompetanse	Kompetanse	Kompetansepluss, bransjeprogram og studieforbund	257	
+forskning	Forskning	FoU-bevilgninger, Forskningsrådet, Horisont Europa og forskningsinfrastruktur	285;288	
+kd-drift	Kunnskapsområdet	Drift og årsverk i direktoratene og etatene på kunnskapsområdet	220;226;256	
