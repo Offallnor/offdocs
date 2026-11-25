@@ -1,0 +1,208 @@
+del	dep	kap	post	kap_navn	post_navn	prop1s_mill	tiltak	forlik_mill	endring_mill	merknad
+nysaldering 2026							Nysaldering Enova - blandede og biogene utslipp	1100	1100	
+nysaldering 2026							Nysaldering Enova - tungtransport	750	750	
+nysaldering 2026							Nysaldering Bistand	250	250	
+nysaldering 2026							Nysaldering Frivillig skogvern	300	300	
+nysaldering 2026							Nysaldering Investeringsmidler landbruket	100	100	
+utgift	AID	600	21				Prosjekt innenforskap Østfold	3	3	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+utgift	AID	621	70	Tilskudd til sosiale tjenester og sosial inkludering	Frivillig arbeid	121.9	Øke tilskuddet til Nav-opprydningen, Stiftelsen Rettferd og FØL Norge	3	3	
+utgift	AID	671	71	Bosetting av flyktninger og tiltak for innvandrere	Tilskudd til integreringsarbeid i regi av sivilsamfunn og frivillige organisasjoner	275.4	Tilskudd til nasjonale ressurssentre på integreringsfeltet	6.5	6.5	
+utgift	AID	2650	70	Sykepenger mv.	Sykepenger for arbeidstakere mv.	69722.0	Fulle sjukepengerettigheter for personer med VTA	3.8	3.8	
+utgift	AID	2650	75	Sykepenger mv.	Feriepenger av sykepenger	4070.0	Fulle sjukepengerettigheter for personer med VTA	0.2	0.2	
+utgift	BFD	840	70	Tiltak mot vold og overgrep	Tilskudd til voldsforebyggende tiltak mv.	164.6	Styrke arbeid mot vold i nære relasjoner, SEIF	2	2	
+utgift	BFD	865	50	Forbrukerpolitiske tiltak	Forskning og undervisning	9.2	Sikre videreføring av SIFOs økonomiske trygghetsbarometer	1.4	1.4	
+utgift	BFD	881	77	Tilskudd til trossamfunn m.m.	Nasjonaljubileet 2030	12.3	Nasjonaljubileet 2030	1.2	1.2	
+utgift	BFD	2350	70				Engangsstønad	106	106	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+utgift	DFD	1541	60				Bredbånd i distriktene	50	50	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+utgift	ED	1800	73				Tilskudd til Kielland-nettverket	2	2	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+utgift	FD	1700	71	Forsvarsdepartementet	Overføringer til andre	103.0	Foreningen Æresgjeld	1	1	
+utgift	FD	1700	71	Forsvarsdepartementet	Overføringer til andre	103.0	Stiftelsen KNM Narvik	2.5	2.5	
+utgift	FD	1700	71	Forsvarsdepartementet	Overføringer til andre	103.0	Det frivillige Skyttervesen	2	2	
+utgift	HOD	572	60	Rammetilskudd til fylkeskommuner	Innbyggertilskudd	59508.3	Tannhelsereform: 75 prosent kostnadsdekning for personer over 75 år, samt administrasjonskostnader anslått til 10 pst. av behandlingskostnader. Knyttet til rettigheter fom. 1. juli	1925	1925	
+utgift	HOD	700	1	Helse- og omsorgsdepartementet	Driftsutgifter	342.8	Driftsutgifter til forberedelse av gratis nødvendig tannregulering for barn	5	5	
+utgift	HOD	714	70	Folkehelse	Rusmiddeltiltak mv.	161.6	Støtteordning for brukerutstyr og rusmiddelforebygging, og en eventuell rusmiddelanalysetjeneste	5	5	
+utgift	HOD	732	72-75				Sykehusramma	1000	1000	Flere poster, beløpet er ikke fordelt i dokumentet
+utgift	HOD	740	1	Helsedirektoratet	Driftsutgifter	1971.0	Driftsutgifter til forberedelse av gratis nødvendig tannregulering for barn	10	10	
+utgift	HOD	760	62	Kommunale helse- og omsorgstjenester	Tilskudd til vertskommuner	611.5	Halv reversering av vertskommunetilskudd	109.4	109.4	
+utgift	HOD	760	70	Kommunale helse- og omsorgstjenester	Tilskudd	355.8	Amathea	10	10	
+utgift	HOD	760	70	Kommunale helse- og omsorgstjenester	Tilskudd	355.8	Camphill landsbystiftelse	5	5	
+utgift	HOD	760	70	Kommunale helse- og omsorgstjenester	Tilskudd	355.8	Livsglede for eldre	7.2	7.2	
+utgift	HOD	760	70	Kommunale helse- og omsorgstjenester	Tilskudd	355.8	Stiftelsen Frambu	1.2	1.2	
+utgift	HOD	760	70	Kommunale helse- og omsorgstjenester	Tilskudd	355.8	Verdighetssenteret	1	1	
+utgift	HOD	765	21	Psykisk helse, rus og vold	Spesielle driftsutgifter	165.0	Arbeid mot overdoser	1	1	
+utgift	HOD	765	73	Psykisk helse, rus og vold	Utviklingstiltak mv.	147.6	Fontenehusene	10	10	
+utgift	HOD	765	75	Psykisk helse, rus og vold	Vold og traumatisk stress	194.0	Opprettholde tilskuddet Helsetjenestetilbud ved overgrepsmottak - Nasjonalt kompetansesenter for legevaktmedisin	4	4	
+utgift	HOD	770	21	Tannhelsetjenester	Spesielle driftsutgifter	3.5	Utredningskapasitet tannhelse	5	5	
+utgift	HOD	781	79	Forsøk og utvikling mv.	Tilskudd	67.3	Flerkulturell fødselshjelp (Doula)	2.6	2.6	
+utgift	HOD	2752	72	Refusjon av egenbetaling	Egenandelstak	8775.0	Innføre egenandelsfritak for uføre (i blåresept-ordningen)	233	233	
+utgift	HOD	2752	72	Refusjon av egenbetaling	Egenandelstak	8775.0	Fryse egenandeler for helsetjenester og medisiner	190	190	
+utgift	JD	410	1	Domstolene	Driftsutgifter	3805.6	Domstolene. Videreføre krav om to embetsdommere ved alle rettssteder i tingrettene	15	15	
+utgift	JD	440	1	Politiet	Driftsutgifter	26122.2	Politiet - grunnbemanning	50	50	
+utgift	JD	440	70	Politiet	Tilskudd	5.0	Øremerket støtte til FRI - Rosa kompetanse i justis	1	1	
+utgift	JD	455	71	Redningstjenesten	Tilskudd til frivillige organisasjoner i redningstjenesten	120.0	Øke støtten til de frivillige beredskapsorganisasjonene	1.5	1.5	
+utgift	JD	455	71	Redningstjenesten	Tilskudd til frivillige organisasjoner i redningstjenesten	120.0	Støtte til mat- og omsorgsberedskapsorganisasjoner	1	1	
+utgift	JD	470	72	Fri rettshjelp	Tilskudd til spesielle rettshjelptiltak	64.5	Spesielle rettshjelpstiltak	40	40	
+utgift	JD	471	73	Statens erstatningsansvar og Stortingets rettferdsvederlagsordning	Stortingets rettferdsvederlagsordning	19.9	Stortingets rettferdsvederlagsordning	20	20	
+utgift	JD	480	50	Svalbardbudsjettet	Tilskudd	648.1	SFO: gratis halvdagsplass 1-4 trinn på Svalbard fra 1. august	0.8	0.8	
+utgift	JD	3440	5	Politiet	Gebyr - våpenforvaltningen	211.6	Reduserte inntekter fra våpengebyr	165.7	165.7	
+utgift	KD	226	21	Kvalitetsutvikling i grunnopplæringen	Spesielle driftsutgifter	571.8	Nasjonalt senter for yrkesfag	5	5	
+utgift	KD	228	84	Tilskudd til private skoler mv.	Redusert foreldrebetaling i skolefritidsordningen ved private skoler	115.4	SFO: Tilskudd til redusert foreldrebetaling i skolefritidsordningen ved private skoler: SFO gratis 12 timer sentralitetssone 4, 5 og 6 fra 1. august	11.4	11.4	
+utgift	KD	231	60	Barnehager	Toppet bemanning i barnehagene	800.0	Tilskudd til toppet bemanning i barnehagene	500	500	
+utgift	KD	254	70	Studieforbund mv.	Tilskudd til studieforbund	34.8	Reversere kutt til Studieforbund	32.5	32.5	
+utgift	KD	260	50	Universiteter og høyskoler	Statlige universiteter og høyskoler	47862.1	Samisk høgskole AI-lab	6	6	
+utgift	KD	275	70	Tiltak for høyere utdanning og forskning	Tilskudd	71.8	Norwegian Space Academy – Andøya Space	3	3	
+utgift	KD	571	60	Rammetilskudd til kommuner	Innbyggertilskudd	211605.1	SFO: 12 timers gratis SFO 4-trinn i sentralitetsone 4, 5 og 6 fra 1. august	328.3	328.3	Kap. 571 er rammetilskuddet til kommunene, men tiltaket er ført under KD i forliksdokumentet
+utgift	KD	571	60	Rammetilskudd til kommuner	Innbyggertilskudd	211605.1	Billigere barnehage - redusere prisen med 200 kr fra 1. august	242	242	Kap. 571 er rammetilskuddet til kommunene, men tiltaket er ført under KD i forliksdokumentet
+utgift	KD	2410	50	Statens lånekasse for utdanning	Avsetning til utdanningsstipend	10221.5	Folkehøgskoler: 40 % omgjøring for folkehøgskoleelever	98.1	98.1	
+utgift	KDD	553	65	Regional- og distriktsutvikling	Omstilling og utvikling i områder med særlige distriktsutfordringer	123.2	Omstillingsstøtte til små kommuner som opplever store etableringer	15	15	
+utgift	KDD	553	69				Forregion	66	66	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+utgift	KDD	554	73	Kompetansesenter for distriktsutvikling	Merkur	62.9	Merkur-ordningen	50	50	
+utgift	KDD	571	62	Rammetilskudd til kommuner	Distriktstilskudd Nord-Norge	2785.0	Økte frie midler til kommunene (øke grunnskoletilskuddet til 1 million, øvrig bevilgning per innbygger)	1700	1700	
+utgift	KDD	572	60	Rammetilskudd til fylkeskommuner	Innbyggertilskudd	59508.3	Økte frie midler til fylkeskommunen (fordeles etter fylkesveinøkkel)	300	300	
+utgift	KDD	575	60	Ressurskrevende tjenester	Toppfinansieringsordning	14302.1	Ressurskrevende tjenester	152.7	152.7	
+utgift	KDD	581	72				Tilskudd til etablering og tilpasning i distriktskommuner (boliger)	11	11	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+utgift	KDD	581	76				Tilskudd til utleieboliger i kommunene	200	200	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+utgift	KDD	2412	90	Husbanken - Bolig- og bygningsdirektoratet	Nye lån	27794.0	Øke lånerammen til Husbanken med 5 milliarder kroner	251	251	Stjerne i forliksdokumentet: påvirker ikke oljepengebruken / anslag
+utgift	KLD	328	70	Museer m.m.	Det nasjonale museumsnettverket	2809.7	Økt støtte til Norsk Industriarbeidermuseum	10	10	
+utgift	KLD	1400	76	Klima- og miljødepartementet	Støtte til nasjonale og internasjonale miljøtiltak	146.5	Fortidsminneforeningen – støtte til museumsdrift	5.6	5.6	
+utgift	KLD	1400	76	Klima- og miljødepartementet	Støtte til nasjonale og internasjonale miljøtiltak	146.5	Hold Norge rent	1	1	
+utgift	KLD	1400	76	Klima- og miljødepartementet	Støtte til nasjonale og internasjonale miljøtiltak	146.5	Verdensarv	1	1	
+utgift	KLD	1410	21	Kunnskap om klima og miljø	Miljødata	579.7	Tiltak for å bevare villaks - Bestandsovervåkning	5	5	
+utgift	KLD	1420	21	Miljødirektoratet	Spesielle driftsutgifter	897.9	Tiltak for å bevare villaks - Ulike strakstiltak	10	10	
+utgift	KLD	1420	30	Miljødirektoratet	Statlige erverv, bevaring av viktige friluftslivsområder	14.9	Oslofjorden: Bevaring av viktige friluftsområder for allmennheten	50	50	
+utgift	KLD	1420	31	Miljødirektoratet	Tiltak i verneområder, tiltak for villrein og naturrestaurering	195.0	Naturrestaurering: Tiltak for naturrestaurering i statlig regi	80	80	
+utgift	KLD	1420	31	Miljødirektoratet	Tiltak i verneområder, tiltak for villrein og naturrestaurering	195.0	Styrke Miljødirektoratet som nasjonal fagmyndighet for naturrestaurering i Norge	1	1	
+utgift	KLD	1420	67	Miljødirektoratet	Tilskudd til klima- og natursatsprogrammer	132.9	Tilskudd til klima og naturprogrammer (tidligere klima- og natursats)	50	50	
+utgift	KLD	1420	73	Miljødirektoratet	Tilskudd til rovvilttiltak	43.6	Konfliktdempende tiltak, rovdyr	28	28	
+utgift	KLD	1420	78	Miljødirektoratet	Tilskudd til friluftslivsformål	231.2	Friluftsorganisasjoner	5	5	
+utgift	KLD	1420	80	Miljødirektoratet	Tilskudd til tiltak for å ta vare på natur	326.1	Oslofjorden: Tilskudd for vannmiljøtiltak	50	50	
+utgift	KLD	1420	80	Miljødirektoratet	Tilskudd til tiltak for å ta vare på natur	326.1	Tilskudd til kommuner for planlegging og prosjektering av nitrogenfjerning	25	25	
+utgift	KLD	1420	80	Miljødirektoratet	Tilskudd til tiltak for å ta vare på natur	326.1	Naturrestaurering: Tilskudd til naturrestaurering	70	70	
+utgift	KLD	1420	80	Miljødirektoratet	Tilskudd til tiltak for å ta vare på natur	326.1	Tiltak for å bevare villaks - Tilskudd for vannmiljøtiltak	10	10	
+utgift	KLD	1420	80	Miljødirektoratet	Tilskudd til tiltak for å ta vare på natur	326.1	Tilskudd til naturrestaurering i private initiativer	50	50	
+utgift	KLD	1420	86	Miljødirektoratet	Tilskudd til frivillige klima- og miljøorganisasjoner og klima- og miljøstiftelser	70.2	Frivillige miljøorganisasjoner	10	10	
+utgift	KLD	1429	74	Riksantikvaren	Tilskudd til fartøyvern	77.3	DS Turisten og DS Engebret Soot	1	1	
+utgift	KLD	1429	79	Riksantikvaren	Tilskudd til verdensarven	67.3	Tilskudd til verdensarven - Opprusting av Tinnosbanen	20	20	
+utgift	KLD	1432	50	Norsk kulturminnefond	Til disposisjon for tiltak på kulturmiljøfeltet	121.5	Norsk kulturminnefond	20.7	20.7	
+utgift	KLD						Utvikle marine verneplaner	3	3	
+utgift	KLD	1420	85	Miljødirektoratet	Tilskudd til besøkssenter for natur	91.8	Runde miljøsenter	2.5	2.5	
+utgift	KUD	300	79	Kultur- og likestillingsdepartementet	Til disposisjon	11.4	Trandumskogens venneforening	3	3	
+utgift	KUD	300	79	Kultur- og likestillingsdepartementet	Til disposisjon	11.4	Moster amfi og kirkehistoriske senter	1	1	
+utgift	KUD	315	60	Frivillighetsformål	Tilskudd til frivilligsentraler	296.1	Tilskudd til frivilligsentraler	10	10	
+utgift	KUD	315	73	Frivillighetsformål	Tilskudd til studieforbund m.m.	167.6	Studieforbund	37.2	37.2	
+utgift	KUD	315	78	Frivillighetsformål	Frivillighetstiltak	22.8	Noregs ungdomslag	1	1	
+utgift	KUD	320	74	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til organisasjoner og kompetansesentre m.m.	509.9	Skuespiller- og dansealliansen	5.5	5.5	
+utgift	KUD	320	74	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til organisasjoner og kompetansesentre m.m.	509.9	Stiftinga Hilmar Alexandersen – Hilmarfestivalen	0.7	0.7	
+utgift	KUD	320	74	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til organisasjoner og kompetansesentre m.m.	509.9	Tilskudd til Leveld Kunstnartun	1	1	
+utgift	KUD	320	74	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til organisasjoner og kompetansesentre m.m.	509.9	Feministhuset i Trondheim	1	1	
+utgift	KUD	320	75	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til litteraturhus, kunstscener og kompanier m.m.	359.9	Bergen kjøtt	1	1	
+utgift	KUD	320	75	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til litteraturhus, kunstscener og kompanier m.m.	359.9	Driftstilskudd til Kloden Teater	10	10	
+utgift	KUD	320	75	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til litteraturhus, kunstscener og kompanier m.m.	359.9	Kvääniteateri	1	1	
+utgift	KUD	320	75	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til litteraturhus, kunstscener og kompanier m.m.	359.9	Litteraturbåten Epos	1.5	1.5	
+utgift	KUD	320	75	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til litteraturhus, kunstscener og kompanier m.m.	359.9	Elden	2	2	
+utgift	KUD	320	75	Kulturdirektoratet og Kulturrådet m.m.	Tilskudd til litteraturhus, kunstscener og kompanier m.m.	359.9	Reversere kutt i støtte til Protestfestivalen i Kristiansand	0.4	0.4	
+utgift	KUD	323	70	Musikk og scenekunst	Musikk- og scenekunstinstitusjoner	3296.2	Rogaland teater	4	4	
+utgift	KUD	323	70	Musikk og scenekunst	Musikk- og scenekunstinstitusjoner	3296.2	Opera Trøndelag	2	2	
+utgift	KUD	323	70	Musikk og scenekunst	Musikk- og scenekunstinstitusjoner	3296.2	Opera Østfold	2	2	
+utgift	KUD	323	70	Musikk og scenekunst	Musikk- og scenekunstinstitusjoner	3296.2	Oscarsborgoperaen	2	2	
+utgift	KUD	323	70	Musikk og scenekunst	Musikk- og scenekunstinstitusjoner	3296.2	Turnéteateret i Trøndelag	2.5	2.5	
+utgift	KUD	323	70	Musikk og scenekunst	Musikk- og scenekunstinstitusjoner	3296.2	Unge Viken teater	4	4	
+utgift	KUD	325	72	Allmenne kulturformål	Kultursamarbeid i nordområdene	16.6	Pikene på Broen	1	1	
+utgift	KUD	326	73	Språk- og bibliotekformål	Språktiltak	44.5	Noregs Mållag	1	1	
+utgift	KUD	326	80	Språk- og bibliotekformål	Bibliotektiltak	36.0	Kristent Arbeid Blant Blinde og svaksynte	4.4	4.4	
+utgift	KUD	328	70	Museer m.m.	Det nasjonale museumsnettverket	2809.7	Gudbrandsdalsmusea	2	2	
+utgift	KUD	328	70	Museer m.m.	Det nasjonale museumsnettverket	2809.7	Musea i Sogn og Fjordane - Jakob Sande – senter for forteljekunst	1.5	1.5	
+utgift	KUD	328	70	Museer m.m.	Det nasjonale museumsnettverket	2809.7	Museene Akershus - Avistegnernes hus i Drøbak	2	2	
+utgift	KUD	328	70	Museer m.m.	Det nasjonale museumsnettverket	2809.7	Museene for kystkultur og gjenreisning i Finnmark	5	5	
+utgift	KUD	328	70	Museer m.m.	Det nasjonale museumsnettverket	2809.7	Nord-norsk båtmuseum, i samarbeid med Sør-Troms Museum	2.2	2.2	
+utgift	KUD	328	70	Museer m.m.	Det nasjonale museumsnettverket	2809.7	Romsdalsmuseet – Søblomsten	1.7	1.7	
+utgift	KUD	328	70	Museer m.m.	Det nasjonale museumsnettverket	2809.7	Vest-Agder-museet - Tingvatn og Mandal museum	1.8	1.8	
+utgift	KUD	328	70	Museer m.m.	Det nasjonale museumsnettverket	2809.7	Vest-Agder-museet - Viga kulturhistoriske museum	3	3	
+utgift	KUD	328	78	Museer m.m.	Andre museums- og kulturverntiltak	88.7	Huset Aukrust	3.5	3.5	
+utgift	KUD	328	78	Museer m.m.	Andre museums- og kulturverntiltak	88.7	Kjeller flyhistoriske senter, Spitfire	3	3	
+utgift	KUD	328	78	Museer m.m.	Andre museums- og kulturverntiltak	88.7	Froland Verk - ferdigstillelse av bygg	5	5	
+utgift	KUD	335	73	Medieformål	Medietiltak	43.4	Landslaget for lokalaviser	2	2	
+utgift	KUD	351	72	Likestilling	Kjønns- og seksualitetsmangfold	45.5	Styrke tilskuddsposten for kjønns- og seksualitetsmangfold, for å støtte flere Pride-arrangementer	4	4	
+utgift	LMD	1136	50	Norsk institutt for bioøkonomi	Kunnskapsutvikling, formidling og beredskap	278.6	Skog: Utvikling av kunnskap og erfaring med fleralderskogbruk, NIBIO	5	5	
+utgift	LMD	1138	70	Støtte til organisasjoner m.m.	Støtte til organisasjoner	53.3	Bondens marked	1	1	
+utgift	LMD	1138	70	Støtte til organisasjoner m.m.	Støtte til organisasjoner	53.3	Dyrebeskyttelsen	0.5	0.5	
+utgift	LMD	1138	70	Støtte til organisasjoner m.m.	Støtte til organisasjoner	53.3	Regenerativt Norge	1.8	1.8	
+utgift	LMD	1138	70	Støtte til organisasjoner m.m.	Støtte til organisasjoner	53.3	Øke støtten til Dyrevernalliansen	0.5	0.5	
+utgift	LMD	1138	70	Støtte til organisasjoner m.m.	Støtte til organisasjoner	53.3	Øke støtten til Økologisk Norge	1	1	
+utgift	LMD	1138	70	Støtte til organisasjoner m.m.	Støtte til organisasjoner	53.3	Geitmyra matkultursenter	0.5	0.5	
+utgift	LMD	1138	70	Støtte til organisasjoner m.m.	Støtte til organisasjoner	53.3	Matsentralene	10	10	
+utgift	LMD	1138	70	Støtte til organisasjoner m.m.	Støtte til organisasjoner	53.3	NOAH	0.7	0.7	
+utgift	LMD	1138	72	Støtte til organisasjoner m.m.	Stiftelsen Norsk senter for økologisk landbruk	5.8	NORSØK	3	3	
+utgift	LMD	1138	75	Støtte til organisasjoner m.m.	Dyrsku'n	1.2	Økt støtte til Dyrsku’n	1.8	1.8	
+utgift	LMD	1142	60	Landbruksdirektoratet	Tilskudd til veterinærdekning	235.5	Tilskudd til veterinærdekning	25	25	
+utgift	LMD	1142	84	Landbruksdirektoratet	Tilskudd til mentorordningen for veterinærer	6.0	Mentorordning for veterinærer	1	1	
+utgift	LMD	1149	60	Verdiskapings- og utviklingstiltak i landbruket	Flaskehalsprosjekter for veier for skogbruket	10.5	Skog: Flaskehalsprosjekt for veier i skogbruket	15	15	
+utgift	LMD	1149	71	Verdiskapings- og utviklingstiltak i landbruket	Tilskudd til verdiskapingstiltak i skogbruket	26.8	Skog: Tilskudd til verdiskapingstiltak i skogbruket	31	31	
+utgift	LMD	1149	73	Verdiskapings- og utviklingstiltak i landbruket	Tilskudd til skog- og klimatiltak	57.8	Skog: Tilskudd til skog- og klimatiltak (nyplanting, ungskogpleie og Skogfrøverket)	40	40	
+utgift	LMD	1149	75				Skog: Utvikling av kunnskap og erfaring med fleralderskogbruk	5	5	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+utgift	LMD	1152	81	Innovasjon Norge	Tilskudd til næringsmiddelbedrifter i Troms og Finnmark	12.4	Tilskudd til næringsmiddelbedrifter, Troms og Finnmark	10	10	
+utgift	LMD	1161	75	Myndighetsoppgaver og sektorpolitiske oppgaver på statsgrunn	Oppsyn i statsallmenninger	17.6	Oppsyn i statsallmenningene	5	5	
+utgift	NFD	900	81	Nærings- og fiskeridepartementet	Tilskudd til Leverandørutviklingsprogrammet	5.6	Leverandørutviklingsprogrammet	5	5	
+utgift	NFD	916	30	Kystverket	Nyanlegg og større vedlikehold	1413.2	Mehamn fiskerihavn	72	72	
+utgift	NFD	2421	76	Innovasjon Norge	Miljøteknologi	208.5	Innovasjon Norge - Miljøteknologiordningen	50	50	
+utgift	SD	572	60	Rammetilskudd til fylkeskommuner	Innbyggertilskudd	59508.3	Tilskudd for å redusere billettprisen på Hurtigbåt fra 1. juli	125	125	
+utgift	SD	1320	30	Statens vegvesen	Riksveiinvesteringer	10720.7	Oppstart E6 Langnesberga	20	20	
+utgift	SD	1330	62	Særskilte transporttiltak	Tilskudd til kollektivtransport	620.0	Tilskudd til redusert pris månedskort	1310	1310	
+utgift	SD	1352	72	Jernbanedirektoratet	Kjøp av infrastrukturtjenester - fornying og mindre investeringer	7249.3	Fornying av jernbanen	400	400	
+utgift	SD	1352	73	Jernbanedirektoratet	Kjøp av infrastrukturtjenester - investeringer	10700.1	Oppstart av kryssingsspor på Ofotbanen (Søsterbekk)	52	52	
+utgift	SD	1370	70	Posttjenester	Kjøp av posttjenester	1520.7	Distribusjon av aviser på lørdager til områder uten kommersielle avisbudnett	75	75	
+utgift	SD	1372	70				Tilskudd til prøveordning (Posten)	200	200	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+utgift	UD	118	72	Utenrikspolitiske satsinger	Sikkerhetspolitikk og nedrustning	26.7	Nedrustningsorganisasjoner	10	10	
+utgift	UD	118	74	Utenrikspolitiske satsinger	Forskning, dialog og menneskerettigheter mv.	21.3	Tilskudd til EU-opplysning	3	3	
+skatt	FIN	5543	70	Miljøavgift på mineralske produkter mv.	CO2-avgift	21126.0	Midlertidig fjerning av CO2-avgift fiskeflåten	-950	-950	
+skatt	FIN	5536	71	Avgift på motorvogner mv.	Engangsavgift	7650.0	Øke engangsavgiften for fossile varebiler med 30 000 kr	105	105	
+skatt	FIN	5536	73	Avgift på motorvogner mv.	Vektårsavgift	290.0	100 % økning i den miljødifferensierte komponenten i vektårsavgiften for lastebil	45	45	
+skatt	FIN	5543	70	Miljøavgift på mineralske produkter mv.	CO2-avgift	21126.0	Lavere opptrapping av CO2-avgift for veksthusnæringen, relativt til regjeringens forslag. 50 % av generelt nivå/950 kr per tonn CO2	-10	-10	
+skatt	FIN	5543	70	Miljøavgift på mineralske produkter mv.	CO2-avgift	21126.0	Beregningsfeil i prop 1LS: CO2-avgift veksthusnæringen	10	10	
+skatt	FIN	5543	70	Miljøavgift på mineralske produkter mv.	CO2-avgift	21126.0	Lavere CO2-avgift (15%) for ikke-kvotepliktig kjemisk reduksjon mv.	-14	-14	
+skatt	FIN	5543	70	Miljøavgift på mineralske produkter mv.	CO2-avgift	21126.0	Økte inntekter fra CO2-avgift som følge av endret omsetningskrav (teknisk justering)	100	100	
+skatt	FIN	5538	71	Veibruksavgift på drivstoff	Veibruksavgift på autodiesel	3800.0	Midlertidig redusere veibruksavgiften på mineralolje og biodiesel med 1 kroner per liter	-1850	-1850	
+skatt	FIN	5511	70	Tollavgiftsinntekter	Tollavgift	3175.0	Reversere reduksjonen i tollavgift på klær og tekstiler	675	675	
+skatt	FIN						Prisjustere maksimalt jordbruksfradrag, sjøfolkfradrag og fiskerfradraget	-30	-30	
+skatt	FIN						Unnta piloter og kabinansatte fra 24-månedersregelen i reisefradraget	-10	-10	
+skatt	FIN	5501	70	Skatter på formue og inntekt	Trinnskatt og formuesskatt mv.	153341.0	Øke satsen i trinn 4 og 5 med 0,1 %-enheter	300	300	
+skatt	FIN	5700	71	Folketrygdens inntekter	Trygdeavgift	213460.0	Øke trygdeavgiften i lønn/trygd og næringsinntekt med 0,1 pst.-enheter sammenliknet med regjeringens forslag	2470	2470	
+skatt	FIN	5501	72	Skatter på formue og inntekt	Fellesskatt mv. fra personlige skattytere	169361.9	Øke personfradraget med 975 kroner sammenlignet med regjeringens forslag (fra 120 180 til 121 155)	-841	-841	
+sokkel	FIN	5508	70	Avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen	CO2-avgift i petroleumsvirksomheten på kontinentalsokkelen	10900.0	Øke CO2-avgiften på sokkelen med 124 kroner i 2027 utover prisstigning til 1 251 kroner, slik at samlet CO2-pris anslås å bli 2179 kr/tonn	200	200	Stjerne i forliksdokumentet: påvirker ikke oljepengebruken / anslag
+inndekning	AID	601	70	Utredningsvirksomhet, forskning mv.	Tilskudd	69.7	AID, tilskudd til internasjonale forpliktelser (EU-programmer)	3	-3	
+inndekning	AID	634	76	Arbeidsmarkedstiltak	Tiltak for arbeidssøkere	8010.6	Arbeidsmarkedstiltak	100	-100	
+inndekning	DFD	1540	26	Digitaliseringsdirektoratet	Stimulab	5.7	Avvikle Stimulab	5.7	-5.7	
+inndekning	DFD	2445	24	Statsbygg	Driftsresultat:	-402.6	Økt driftsresultat i Statsbygg	13.5	-13.5	
+inndekning	ED	1820	60	Norges vassdrags- og energidirektorat	Tilskudd til flom- og skredforebygging	150.0	NVE, flom- og skredforebygging, redusert behov	75	-75	
+inndekning	ED	1850	21	Klima, industri og teknologi	Spesielle driftsutgifter	70.0	Kartlegging og utredning av havbunnsmineraler	20	-20	
+inndekning	ED	1850	72	Klima, industri og teknologi	Langskip - fangst og lagring av CO2	1300.0	Langskip - anslagsnedjustering	70	-70	
+inndekning	ED	5656	85	Aksjer under Nærings- og fiskeridepartementets forvaltning	Utbytte	32697.9	Anslagsendring: Utbytte Statkraft	1098	1098	Inntektskapittel: inndekning er økte inntekter
+inndekning	FIN						Kutt i Riksrevisjonen	5	-5	
+inndekning	HOD	701	21	Digitalisering i helse- og omsorgstjenesten	Spesielle driftsutgifter	418.0	Kutt i styringsrammen for satsingen på digital samhandling	20	-20	
+inndekning	HOD	710	23	Vaksiner mv.	Vaksinasjonsprogram for voksne og risikogrupper	353.7	Vaksiner, redusert behov	110.4	-110.4	
+inndekning	HOD	732	77	Regionale helseforetak	Laboratorie- og radiologiske undersøkelser	4876.0	Redusere refusjonstakster for labratorieanalyser	150	-150	
+inndekning	HOD	732	72-75				Kutte konsulentbruk, kommunikasjon og innleie i RHF og HF	100	-100	Flere poster, beløpet er ikke fordelt i dokumentet
+inndekning	HOD	760	60	Kommunale helse- og omsorgstjenester	Kompetanse, rekruttering og innovasjon	1617.0	ALIS, redusert behov	35	-35	
+inndekning	HOD	2711	72	Spesialisthelsetjeneste mv.	Tannbehandling	3650.0	Redusert refusjon folketrygden, Tannhelsereform.	265	-265	
+inndekning	JD	410	1	Domstolene	Driftsutgifter	3805.6	Reversering av dublert dommerlønnsøkning	53.8	-53.8	
+inndekning	JD	440	1	Politiet	Driftsutgifter	26122.2	Avvikle restanseprosjekt utleggsforretning	58.4	-58.4	
+inndekning	JD	440	1	Politiet	Driftsutgifter	26122.2	Effektivisere POD	25	-25	
+inndekning	KD	226	22	Kvalitetsutvikling i grunnopplæringen	System for kompetanse- og karriereutvikling	1965.6	Reduksjon i tilskudd til etter- og videreutdanning i barnehage-, grunnskole og videregående opplæring	84.5	-84.5	
+inndekning	KD	228	81	Tilskudd til private skoler mv.	Elevutveksling til utlandet	2.6	Elevutveksling i utlandet	2	-2	
+inndekning	KD	260	50/70				Kutt i UH-bevilgningen	50	-50	Flere poster, beløpet er ikke fordelt i dokumentet
+inndekning	KD	571	60	Rammetilskudd til kommuner	Innbyggertilskudd	211605.1	Redusere kommunerammen tilsvarende overkompensasjon for redusert foreldrebetaling i skolefritidsordningen ved private skoler	115.4	-115.4	Kap. 571 er rammetilskuddet til kommunene, men tiltaket er ført under KD i forliksdokumentet
+inndekning	KD	571	60	Rammetilskudd til kommuner	Innbyggertilskudd	211605.1	Halv prisomregning av lærlingetilskuddet	84.5	-84.5	Kap. 571 er rammetilskuddet til kommunene, men tiltaket er ført under KD i forliksdokumentet
+inndekning	KDD	5312	90	Husbanken - Bolig- og bygningsdirektoratet	Avdrag	15076.0	Øke lånerammen til Husbanken med 5 milliarder kroner, avdrag	1	1	Inntektskapittel: inndekning er økte inntekter
+inndekning	KDD	5615	80	Husbanken - Bolig- og bygningsdirektoratet	Renter	8730.0	Øke lånerammen til Husbanken med 5 milliarder kroner, renter	6	6	Inntektskapittel: inndekning er økte inntekter
+inndekning	KLD	4428	51				Enova- Tilbakeføring av ubenyttet bevilgning til næringslivet til strømstøtteordning (pandemien)	150	150	Inntektskapittel: inndekning er økte inntekter; Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+inndekning	KUD	335	71	Medieformål	Mediestøtte	586.3	Filmfondet	8	-8	
+inndekning	NFD	952	50				Fonds- og matchinginvesteringer i Nord-Norge (engangskutt)	70	-70	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+inndekning	NFD	2421	74	Innovasjon Norge	Business Norway	395.1	Øremerket bevilgning til Invest Norways satsing på å legge til rette for investeringer i databasert verdiskaping og datasenter	3	-3	
+inndekning	NFD	2460	24	Eksportfinansiering Norge	Driftsresultat:	113.2	Eksfin, kutt i kommunikasjonstjenester	5	-5	
+inndekning	NFD	5460	85	Eksportfinansiering Norge	Inntekter fra avviklede midlertidige ordninger	4.0	Anslagsendring: Tapsavsetning – Eksfin midlertidige garantiordning for små- og mellomstore bedrifter	337	337	Inntektskapittel: inndekning er økte inntekter
+inndekning	NFD						Grønn plattform, tilbakeføring av ubrukte midler	120	-120	
+inndekning	SD	320	22				Redusert vedlikehold riksvei	67.6	-67.6	Posten finnes ikke i Prop. 1 S 2027 (ny post eller feil nummer i forliksdokumentet)
+inndekning	SD	1320	30	Statens vegvesen	Riksveiinvesteringer	10720.7	Redusere mindre investeringer på riksvei	32.4	-32.4	
+inndekning	UD	100	1	Utenriksdepartementet	Driftsutgifter	4996.8	Driftskutt, Utenriksdepartementet	10	-10	
+inndekning	UD	159	71	Regionbevilgninger	Europa og Sentral-Asia	313.8	Kutt i støtte til tenketanker - Atlantic Initiativ	2	-2	
+inndekning		Flere	Flere				Byråkratikutt	82.5	-82.5	

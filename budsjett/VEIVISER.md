@@ -75,7 +75,7 @@ Hentes automatisk fra data.stortinget.no hver mandag (`verktoy/stortinget_budsje
 Feller:
 
 - **Tilråding, ikke vedtakstekst.** Beløpene er lest fra komiteens tilråding. `kilder.tsv` viser om tilrådingen ble vedtatt. Står det `nei` eller `ukjent`, sjekk vedtaket på stortinget.no.
-- **Budsjettforliket per post** finnes i `partiforslag.tsv` (flertallets kolonne) eller som forskjellen mellom `saldert` i `vedtak.tsv` og Prop. 1 S. Selve avtaleteksten ligger bare som PDF-vedlegg til Innst. 2 S.
+- **Budsjettforliket per post** finnes i `partiforslag.tsv` (flertallets kolonne) eller som forskjellen mellom `saldert` i `vedtak.tsv` og Prop. 1 S. Selve avtaleteksten ligger som PDF-vedlegg til Innst. 2 S. For 2027 ligger avtalen også i `budsjett/2027/budsjettavtale/`.
 - **Feil i kildene.** Noen innstillinger oppgir «fra kr … til kr …» som ikke stemmer med endringen. Da står det i `merknad`, og `belop` er tallet innstillingen oppgir.
 - **Post 24 Driftsresultat** for forvaltningsbedrifter (f.eks. kap. 2470) har underposter uten eget beløp. De er ikke med.
 - **Saldert budsjett for kapitlene i Prop. 1 S for AID** er kontrollert mot kolonnen «Saldert budsjett» i neste års Prop. 1 S for 2022–2025, uten avvik.
@@ -136,12 +136,30 @@ Feller:
 - **Senterpartiets tabell for kultur** har feil overskrift i dokumentet (Klima- og miljødepartementet). Den er lagt inn som Kultur- og likestillingsdepartementet (KUD).
 - **SV skriver «statsbudsjett 2026» i innledningen til tabellene.** Tabellene gjelder forslaget for 2027.
 
+## Budsjettavtalen (`budsjett/ÅR/budsjettavtale/`)
+
+Budsjettavtalen er partienes enighet om statsbudsjettet, inngått før Stortinget behandler budsjettinnstillingene. Foreløpig gjelder det 2027: avtalen mellom Arbeiderpartiet, SV, Rødt og Senterpartiet 25. november 2026, uten MDG. Tabellene er lagt inn for hånd fra forliksdokumentet og avtaleteksten slik de er publisert på SVs nettsider. Forliksdokumentet er sist oppdatert 25.11.26 kl. 10.00.
+
+| Fil | Innhold |
+|---|---|
+| `endringer.tsv` | Én endring per rad, i millioner kroner. `del` er utgift, inndekning, skatt, sokkel (skatt og avgift på sokkelen) eller nysaldering 2026. `forlik_mill` er beløpet slik det står i dokumentet, og `endring_mill` har fortegn: inndekninger på utgiftskapitler er negative, og inndekninger på inntektskapitler (kap. 3000 og over) er økte inntekter. `kap_navn`, `post_navn` og `prop1s_mill` er hentet fra Prop. 1 S 2027 (Gul bok-datagrunnlaget). Søk på `kap` eller `dep`. |
+| `verbaler.tsv` | De 70 verbalene og merknadene, med nummeret i avtalen. `type` er verbal (forslag om at «Stortinget ber regjeringen …») eller merknad. |
+| `avtaletekst.md` | Selve avtaleteksten og fellesmerknaden. |
+
+Feller:
+
+- **Avtalen er ikke vedtak.** Endringene blir først vedtatt når Stortinget behandler budsjettinnstillingene i desember. Da kommer de formelle tallene inn i `budsjett/ÅR/stortinget/` av seg selv. Bruk dem når de finnes.
+- **Summene stemmer med radene.** Utgiftsendringene er 10 849,5 mill. kroner, inndekningene 3 438,7 mill. og skatte- og avgiftsendringene 0 netto. Rader med stjerne i dokumentet (Husbankens låneramme på kap. 2412.90 og CO2-avgiften på sokkelen) er holdt utenfor dokumentets summer. Se `merknad`.
+- **Noen poster finnes ikke i Prop. 1 S 2027,** for eksempel kap. 600 post 21. Det kan være en ny post eller feil nummer i dokumentet. Se `merknad`. Noen rader gjelder flere poster (72-75, 50/70) eller har ikke kapittel.
+- **Kap. 571 er ført under KD** for SFO, barnehagepris og lærlingetilskudd, selv om kapittelet er rammetilskuddet til kommunene.
+- **Fellesmerknaden nevner MDG** og datoen 24. november 2027. Det stemmer ikke med avtalen og ser ut til å være igjen fra en tidligere versjon.
+
 <!-- AUTO-START budsjettår: genereres av verktoy/budsjett_innboks.py, ikke rediger for hånd -->
 ## Budsjettår i basen
 
 Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
 
-- **2027:** Prop. 1 S for AID (`budsjett/2027/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2027/prop-1-s-kd/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), partienes alternative budsjetter (`budsjett/2027/alternative-budsjett/`), svar på budsjettspørsmål, statsbudsjettet (646 svar, `budsjett/2027/sporsmal/stb/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
+- **2027:** Prop. 1 S for AID (`budsjett/2027/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2027/prop-1-s-kd/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), partienes alternative budsjetter (`budsjett/2027/alternative-budsjett/`), budsjettavtalen (`budsjett/2027/budsjettavtale/`), svar på budsjettspørsmål, statsbudsjettet (646 svar, `budsjett/2027/sporsmal/stb/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
 - **2026:** Prop. 1 S for AID (`budsjett/2026/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2026/prop-1-s-kd/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (143 svar, `budsjett/2026/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (599 svar, `budsjett/2026/sporsmal/stb/`), statsregnskapet (`budsjett/2026/statsregnskap/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
 - **2025:** Prop. 1 S for AID (`budsjett/2025/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2025/prop-1-s-kd/`), Stortingets vedtak (`budsjett/2025/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (126 svar, `budsjett/2025/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (556 svar, `budsjett/2025/sporsmal/stb/`), statsregnskapet (`budsjett/2025/statsregnskap/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
 - **2024:** Prop. 1 S for AID (`budsjett/2024/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2024/prop-1-s-kd/`), Stortingets vedtak (`budsjett/2024/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (90 svar, `budsjett/2024/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (454 svar, `budsjett/2024/sporsmal/stb/`), statsregnskapet (`budsjett/2024/statsregnskap/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
