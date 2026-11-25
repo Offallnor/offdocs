@@ -376,6 +376,12 @@
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
   },
   {
+   "monster": "tabell1bupantallunge",
+   "mappe": "uforetrygd-unge-alder-aar",
+   "tittel": "Unge mottakere av uføretrygd etter alder, år (tabell 1b)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd"
+  },
+  {
    "monster": "ned120",
    "mappe": "nedsatt-arbeidsevne-alder-kjonn-maaned",
    "tittel": "Personer med nedsatt arbeidsevne etter alder og kjønn, måned (NED120)",
