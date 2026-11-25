@@ -41,7 +41,7 @@ Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn 
 ## Hva som ligger i den åpne basen
 
 <!-- AUTO-START: genereres av verktoy/om_basene.py, ikke rediger for hånd -->
-Oversikten ble sist laget 2026-11-24.
+Oversikten ble sist laget 2026-11-25.
 
 ### Regelverk
 
@@ -84,11 +84,11 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 
 ### Stortinget
 
-Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-24:
+Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-25:
 
-- **4 097 anmodningsvedtak**
-- **40 506 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
-- **2 853 representantforslag** med utfall
+- **4 098 anmodningsvedtak**
+- **40 521 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
+- **2 856 representantforslag** med utfall
 
 ### Politiske grunnlagsdokumenter
 
