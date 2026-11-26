@@ -49,6 +49,7 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
 
 - **Endringslov til fagskoleloven mv** (LOV-2024-05-31-26). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2024-05-31-873 (Delt ikraftsetting av lov 31. mai 2024 nr. 26 om endringer i lov om fagskoler (institusjonsakkreditering for fagskoler mv.)): 2024-08-01, 2025-08-01. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Endrer: § 4b (ny). Ny tekst: `vedtatte-endringer/lov-2024-05-31-26.md`
+- **Endr. i opptaksforskrifta** (FOR-2026-11-24-2473). Trådte i kraft 2026-11-24, men er ikke tatt inn i teksten i basen ennå. Endrer: Forskrift om opptak til høgare utdanning (opptaksforskrifta) (2025). Ny tekst: `vedtatte-endringer/for-2026-11-24-2473.md`
 
 ## Innhold
 
