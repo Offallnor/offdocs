@@ -41,7 +41,7 @@ Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn 
 ## Hva som ligger i den åpne basen
 
 <!-- AUTO-START: genereres av verktoy/om_basene.py, ikke rediger for hånd -->
-Oversikten ble sist laget 2026-11-26.
+Oversikten ble sist laget 2026-11-27.
 
 ### Regelverk
 
@@ -77,17 +77,17 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 ### Statistikk
 
 - **Nav:** 231 tabeller (sykefravær, arbeidsledighet, AAP, uføretrygd, pensjon, familieytelser m.m.), hentet hver uke.
-- **Navs pressemeldinger:** 76 fra januar 2024 og framover.
+- **Navs pressemeldinger:** 77 fra januar 2024 og framover.
 - **Eurostat:** 13 tabeller for sammenligning med Norden og EU.
 - **OECD:** 22 tabeller for sammenligning med andre OECD-land.
 - **SSB:** tallene ligger ikke i basen, men katalogen viser hvilke SSB-tabeller som svarer på hva. Claude henter dem med SSB-tilkoblingen.
 
 ### Stortinget
 
-Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-26:
+Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-27:
 
-- **4 098 anmodningsvedtak**
-- **40 549 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
+- **4 102 anmodningsvedtak**
+- **40 561 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
 - **2 856 representantforslag** med utfall
 
 ### Politiske grunnlagsdokumenter
