@@ -2,7 +2,7 @@
 
 Del av innholdslisten for Universitets- og høyskoleloven. Stiene er relative til `regelverk/universitets-og-hoyskoleloven/`. Åpne paragraffilen før du svarer.
 
-Kilde: Forskrift om opptak til høgare utdanning (opptaksforskrifta) – FOR-2025-09-11-1850. Forvaltes av: Kunnskapsdepartementet.
+Kilde: Forskrift om opptak til høgare utdanning (opptaksforskrifta) – FOR-2025-09-11-1850. Sist endret i kraft: 2026-11-24. Forvaltes av: Kunnskapsdepartementet.
 
 **Kapittel 1. Innleiande føresegner**
 

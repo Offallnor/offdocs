@@ -537,7 +537,7 @@ Tabell A: Spesielle opptakskrav for opptak til helse- og veterinærfag
 | Bioingenørstudium | Alle | Matematikk R1 eller matematikk S1 + S2 og enten fysikk 1 eller biologi 1 eller kjemi 1 |
 | Ortopediingeniørstudium | Alle | Matematikk R1 + R2 og fysikk 1 |
 | Bachelorutdanning i farmasi | Alle | Matematikk R1 eller matematikk S1 + S2, kjemi 1 og enten fysikk 1, biologi 1 eller kjemi 2 |
-| Profesjonsstudium i veterinærmedisin | Alle | Matematikk R1 eller matematikk S1 + S2 og kjemi 1 + 2 |
+| Veterinærmedisin | Alle | Matematikk R1 eller matematikk S1 + S2 og kjemi 1 + 2 |
 | 3-årig bachelorstudium i paramedisin | Alle | Gyldig førarkort klasse B (personbil) og bestått fysisk opptaksprøve etter nærare reglar fastsette av institusjonen. |
 
 
@@ -550,7 +550,7 @@ Tabell B: Spesielle opptakskrav for opptak til informatikk, realfag, natur- og m
 | Studium i realfag, natur- og miljøfag | Alle | Matematikk R1 eller matematikk S1 + S2 og enten matematikk R2, fysikk 1 + 2, kjemi 1 + 2, biologi 1 + 2, informasjonsteknologi 1 + 2, geofag 1 + 2 eller teknologi og forskingslære 1 + 2. Institusjonane kan sjølv fastsette krav om matematikk R1 + R2 i tillegg til eitt av dei andre realfaga som nemnt i avsnittet over. |
 
 
-Tabell C: Spesielle opptakskrav for opptak til arkitekturfag og teknologiske fag (§ 4-4)
+Tabell C: Spesielle opptakskrav for opptak til arkitekturfag og teknologiske fag
 
 | Studium | Institusjon | Spesielle opptakskrav |
 |---|---|---|
@@ -567,12 +567,12 @@ Tabell D: Spesielle opptakskrav for opptak til økonomiske og administrative fag
 
 | Studium | Institusjon | Spesielle opptakskrav |
 |---|---|---|
-| Integrert masterstudium i økonomisk-administrative fag | Alle | Matematikk R1 eller matematikk S1 + S2 |
-| Integrert masterstudium i økonomi og leiing | Alle | Matematikk R1 eller matematikk S1 + S2 |
-| Integrert masterstudium i samfunnsøkonomi | Alle | Matematikk R1 eller matematikk S1 + S2 |
-| Bachelor of Data Science for Business | BI | Matematikk R1 eller matematikk S1 + S2 |
-| Bachelorstudium i økonomi, leiing og IT | Noregs miljø- og biovitskaplege universitet. | Matematikk R1 eller matematikk S1 + S2 |
-| Bachelorstudium i samfunnsøkonomi | Alle | Institusjonane kan sjølv fastsette krav om at søkarar må dokumentere minimum karakteren 4 i fellesfaget matematikk. Eventuelle karakterkrav i matematikk gjeld ikkje for søkarar som kan dokumentere bestått programfag i matematikk med eit omfang på minst 140 timar eller tilsvarande. |
+| Integrert masterstudium i økonomisk-administrative fag | Alle | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi. Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Integrert masterstudium i økonomi og leiing | Alle | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi. Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Integrert masterstudium i samfunnsøkonomi | Alle | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi. Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Bachelor of Data Science for Business | BI | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi. Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Bachelorstudium i økonomi, leiing og IT | Noregs miljø- og biovitskaplege universitet | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi. Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Bachelorstudium i samfunnsøkonomi | Alle | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi. Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
 
 
 Tabell E: Spesielle opptakskrav for opptak til lærarutdanningar
