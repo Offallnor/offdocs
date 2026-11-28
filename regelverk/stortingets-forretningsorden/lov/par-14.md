@@ -19,7 +19,7 @@ Hovedregelen for saksfordelingen mellom fagkomiteene er:
   c. dokumenter og meldinger fra Stortingets eksterne organer, og andre saker om deres virksomhet,
   d. rapporter fra Stortingets ansvarskommisjon og stortingsoppnevnte granskingskommisjoner.
 9. Næringskomiteen: Saker om nærings-, industri- og handelsvirksomhet, romvirksomhet, skipsfart, statlig eierskapspolitikk, statsgaranti ved eksport mv., konkurranse- og prispolitikk, landbruk, jordbruksavtalen, matpolitikk, fiskeri, fangst, reindriftsavtalen, akvakultur og laksefiske.
-10. Transport- og kommunikasjonskomiteen: Saker om innenlands transport, post, fritidsbåter og oppgaver under Kystverket.
+10. Samferdselskomiteen: Saker om innenlands transport, post, fritidsbåter og oppgaver under Kystverket.
 11. Utdannings- og forskningskomiteen: Saker om utdanning, barnehager og forskning, herunder koordinering av forskningspolitikken og forskning for landbruk, fiskeri og næringsliv.
 12. Utenriks- og forsvarskomiteen: Saker om utenrikspolitiske forhold, militært forsvar, utviklingshjelp, saker som angår norske interesser på Svalbard eller i andre polarområder, årsrapporter fra Stortingets faste delegasjoner til interparlamentariske forsamlinger, og – i alminnelighet – saker som gjelder avtaler mellom den norske stat og andre stater eller internasjonale organisasjoner.
 
@@ -27,4 +27,4 @@ Hovedregelen for saksfordelingen mellom fagkomiteene er:
 
 **Endringshistorikk:**
 
-- Endret ved vedtak 16 mai 2013 nr. 1075 (i kraft 1 okt 2013), 21 juni 2017 nr. 1425 (i kraft 1 okt 2017), 7 nov 2017 nr. 2456 , 17 juni 2021 nr. 2109 (i kraft 1 okt 2021), 19 juni 2025 nr. 2009 (i kraft 1 okt 2025).
+- Endret ved vedtak 16 mai 2013 nr. 1075 (i kraft 1 okt 2013), 21 juni 2017 nr. 1425 (i kraft 1 okt 2017), 7 nov 2017 nr. 2456 , 17 juni 2021 nr. 2109 (i kraft 1 okt 2021), 19 juni 2025 nr. 2009 (i kraft 1 okt 2025), 18 juni 2026 nr. 2491 (i kraft 1 okt 2026).

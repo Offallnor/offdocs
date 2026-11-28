@@ -12,7 +12,7 @@ Etter at den kongelige proposisjonen om statsbudsjettet er lagt frem for Stortin
 
 **3. ledd**
 
-Senest 30. november skal finanskomiteen avgi innstilling om nasjonalbudsjettet og statsbudsjettet, med forslag til rammevedtak for bevilgninger i samsvar med inndelingen i rammeområder fastsatt av Stortinget. Forslag til bevilgningsvedtak som utformes i innstillingen eller fremsettes ved behandlingen av den, skal inneholde beløp for alle rammer, og kan ikke gå under rammenivå. Forslag til rammevedtak må begrunnes i innstillingen og kan ikke fremsettes ved behandlingen av den etter § 40 , med mindre forslaget er ment å rette opp en klar feil i den avgitte innstillingen. En representant som ikke er medlem av en partigruppe, kan uansett fremsette forslag til rammevedtak ved behandlingen av innstillingen. I Stortinget kan det ikke voteres særskilt over enkelte deler av et slikt forslag.
+Senest 30. november skal finanskomiteen avgi innstilling om nasjonalbudsjettet og statsbudsjettet, med forslag til rammevedtak for bevilgninger i samsvar med inndelingen i rammeområder fastsatt av Stortinget. Forslag til bevilgningsvedtak som utformes i innstillingen eller fremsettes ved behandlingen av den, skal inneholde beløp for alle rammer, og kan ikke gå under rammenivå. Forslag til rammevedtak må begrunnes i innstillingen og kan ikke fremsettes ved behandlingen av den etter § 40 første ledd annet punktum , med mindre forslaget er ment å rette opp en klar feil i den avgitte innstillingen. En representant som ikke er medlem av en partigruppe, kan uansett fremsette forslag til rammevedtak ved behandlingen av innstillingen. I Stortinget kan det ikke voteres særskilt over enkelte deler av et slikt forslag.
 
 **4. ledd**
 
@@ -34,4 +34,4 @@ Eventuell kongelig samleproposisjon om endringer i statsbudsjettet legges frem s
 
 **Endringshistorikk:**
 
-- Endret ved vedtak 16 mai 2013 nr. 1075 (i kraft 1 okt 2013, tidligere § 41), 19 juni 2025 nr. 2009 (i kraft 1 okt 2025).
+- Endret ved vedtak 16 mai 2013 nr. 1075 (i kraft 1 okt 2013, tidligere § 41), 19 juni 2025 nr. 2009 (i kraft 1 okt 2025), 18 juni 2026 nr. 2491 (i kraft 1 okt 2026).

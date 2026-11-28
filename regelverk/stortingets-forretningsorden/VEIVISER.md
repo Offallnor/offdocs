@@ -34,7 +34,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
 
-- **Forskrift/instruks:** Stortingets forretningsorden – FOR-2012-06-07-518. Sist endret i kraft: 2025-10-01. Forvaltes av: Stortinget.
+- **Forskrift/instruks:** Stortingets forretningsorden – FOR-2012-06-07-518. Sist endret i kraft: 2026-10-01. Forvaltes av: Stortinget.
 
 ## Tolkningskilder i basen
 
@@ -42,9 +42,7 @@ Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Ho
 
 ## Vedtatte endringer som ikke er i kraft
 
-Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
-
-- **Stortingsvedtak om endringer i Stortingets forretningsorden** (FOR-2026-06-18-2491). Trådte i kraft 2026-10-01, men er ikke tatt inn i teksten i basen ennå. Endrer: Stortingets forretningsorden. Ny tekst: `vedtatte-endringer/for-2026-06-18-2491.md`
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 ## Innhold
 

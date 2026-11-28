@@ -40,6 +40,7 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
 
 - **Endringslov til politiregisterloven og grenseloven mv.** (LOV-2026-06-19-46). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2026-06-19-1283 (Delt ikraftsetting av lov 19. juni 2026 nr. 46 om endringer i politiregisterloven og grenseloven mv. (testing og utvikling av informasjonssystemer)): 2026-07-01. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Endrer: § 3, § 40, § 65a, § 69. Ny tekst: `vedtatte-endringer/lov-2026-06-19-46.md`
+- **Endr. i politiregisterforskriften** (FOR-2026-11-27-2508). Trer i kraft 2027-01-01. Endrer: Forskrift om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterforskriften). Ny tekst: `vedtatte-endringer/for-2026-11-27-2508.md`
 
 ## Innhold
 

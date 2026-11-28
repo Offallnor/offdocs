@@ -15,7 +15,7 @@ Samtlige representanter unntatt Stortingets president fordeles på disse fagkomi
 7. Kommunal- og forvaltningskomiteen
 8. Kontroll- og konstitusjonskomiteen
 9. Næringskomiteen
-10. Transport- og kommunikasjonskomiteen
+10. Samferdselskomiteen
 11. Utdannings- og forskningskomiteen
 12. Utenriks- og forsvarskomiteen.
 
@@ -23,4 +23,4 @@ Samtlige representanter unntatt Stortingets president fordeles på disse fagkomi
 
 **Endringshistorikk:**
 
-- Endret ved vedtak 7 nov 2017 nr. 2456 .
+- Endret ved vedtak 7 nov 2017 nr. 2456 , 18 juni 2026 nr. 2491 (i kraft 1 okt 2026).
